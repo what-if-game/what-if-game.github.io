@@ -1,4 +1,4 @@
-var Story = require('inkjs').Compiler;
+var Compiler = require('inkjs').Compiler;
 (function(storyContent) {
     var storyString = `=== find_help ===
 
