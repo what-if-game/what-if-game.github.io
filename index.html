@@ -3,35 +3,59 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Continue Your Adventure</title>
+<title>Choose Your Own Adventure - Intro</title>
 <style>
   body {
     font-family: Arial, sans-serif;
-    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
   }
-  #storyDisplay {
-    margin: 20px 0;
-    padding: 20px;
-    background-color: #f0f0f0;
-    border: 1px solid #ddd;
+  .container {
+    text-align: center;
+  }
+  input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
     border-radius: 5px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056b3;
   }
 </style>
 </head>
 <body>
 
-<h1>Your Adventure Continues...</h1>
-<div id="storyDisplay"></div>
-<!-- Additional content and interactive elements here -->
+<div class="container">
+  <h1>Welcome to Your Adventure</h1>
+  <p>Enter the beginning of your story:</p>
+  <input type="text" id="storyInput" placeholder="Start of your story">
+  <button onclick="generateStory()">Generate</button>
+</div>
 
 <script>
-window.onload = function() {
-  // Retrieve the user's story from localStorage
-  var userStory = localStorage.getItem('userStory');
+function generateStory() {
+  // Get the story text from the input
+  var storyText = document.getElementById('storyInput').value;
   
-  // Display the story in the 'storyDisplay' element
-  document.getElementById('storyDisplay').textContent = userStory || 'No story found. Please start your adventure from the beginning.';
-};
+  // You can store the storyText in localStorage or pass it to the next page as needed
+  localStorage.setItem('userStory', storyText);
+  
+  // Redirect to Page 2 (replace 'page2.html' with your actual page URL)
+  window.location.href = 'page2.html';
+}
 </script>
 
 </body>
