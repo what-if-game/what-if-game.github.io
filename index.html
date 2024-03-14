@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Continue Your Adventure</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  #storyDisplay {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Your Adventure Continues...</h1>
+<div id="storyDisplay"></div>
+<!-- Additional content and interactive elements here -->
+
+<script>
+window.onload = function() {
+  // Retrieve the user's story from localStorage
+  var userStory = localStorage.getItem('userStory');
+  
+  // Display the story in the 'storyDisplay' element
+  document.getElementById('storyDisplay').textContent = userStory || 'No story found. Please start your adventure from the beginning.';
+};
+</script>
+
+</body>
+</html>
