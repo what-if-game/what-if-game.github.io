@@ -1,6 +1,10 @@
 (function(storyContent) {
-
-    var story = new inkjs.Story(storyContent);
+    const story = new inkjs.Compiler(`Hello World`).Compile();
+    // story is an inkjs.Story that can be played right away
+    
+    // const jsonBytecode = story.ToJson();
+    // // the generated json can be further re-used
+    // var story = new inkjs.Story(storyContent);
 
     var storyContainer = document.querySelectorAll('#story')[0];
 
