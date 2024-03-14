@@ -1,11 +1,10 @@
-var Compiler = require('inkjs').Compiler;
 (function(storyContent) {
     var storyString = `=== find_help ===
 
 	You search desperately for a friendly face in the crowd.
 	*	The woman in the hat[?] pushes you roughly aside. -> find_help
 	*	The man with the briefcase[?] looks disgusted as you stumble past him. -> find_help`;
-    const story = new Compiler(storyString).Compile();
+    const story = new inkjs.Compiler(storyString).Compile();
     // story is an inkjs.Story that can be played right away
     
     // const jsonBytecode = story.ToJson();
