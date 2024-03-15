@@ -3,58 +3,141 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Choose Your Own Adventure - Intro</title>
+<title>What if...?</title>
 <style>
+  @import"https://fonts.googleapis.com/css2?family=STIX+Two+Math&family=Raleway&display=block";.Index_header__1eHqG {
+      min-height: 1em;
+      background-color: #fafafa;
+      color: #2c2c2c
+  }
   body {
-    font-family: Arial, sans-serif;
+    font-family: Raleway;
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
   }
   .container {
-    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  h1 {
+    font-size: 2em;
+    font-weight: lighter;
   }
   input[type="text"] {
-    width: 50%;
-    padding: 10px;
+    width: 100%;
     margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  button {
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
+    padding: 10px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
+    font-family: Raleway;
+    font-size: 2em;
+    text-align: center;
+    box-sizing: border-box;
   }
-  button:hover {
-    background-color: #0056b3;
+  textarea {
+    width: 70%;
+    height: 200px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    font-family: 'STIX Two Math';
+    font-size: 1em;
+    box-sizing: border-box;
+    resize: none;
+  }
+  input[type="text"]::placeholder, textarea::placeholder {
+    font-weight: normal;
+    opacity: 0.5;
+  }
+  input[type="text"]:focus, textarea:focus {
+    outline: none;
+  }
+
+  .button-6 {
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.85);
+    cursor: pointer;
+    display: inline-flex;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+  }
+
+  .button-6:hover,
+  .button-6:focus {
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color: rgba(0, 0, 0, 0.65);
+  }
+
+  .button-6:hover {
+    transform: translateY(-1px);
+  }
+
+  .button-6:active {
+    background-color: #F0F0F1;
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+    color: rgba(0, 0, 0, 0.65);
+    transform: translateY(0);
   }
 </style>
 </head>
 <body>
-
 <div class="container">
-  <h1>Welcome to Your Adventure</h1>
-  <p>Enter the beginning of your story:</p>
-  <input type="text" id="storyInput" placeholder="Start of your story">
-  <button onclick="generateStory()">Generate</button>
+  <h1 style="font-weight: 1000">What if...</h1>
+  <input type="text" id="mainCharacter" placeholder="Main Character" autocomplete="off">
+  <h1>from</h1>
+  <input type="text" id="storyTitle" placeholder="Story Title" autocomplete="off">
+  <h1>...chooses differently along the journey of </h1>
+  <textarea id="originalPlot" placeholder="Enter the original plot of the story" autocomplete="off"></textarea>
+  <!-- <button onclick="generateStory()">Generate</button> -->
+  <button class="button-6" onclick="generateStory()" role="button">Generate</button>
 </div>
-
 <script>
 function generateStory() {
-  // Get the story text from the input
-  var storyText = document.getElementById('storyInput').value;
+  const mainCharacter = document.getElementById('mainCharacter').value.trim();
+  const storyTitle = document.getElementById('storyTitle').value.trim();
+  const originalPlot = document.getElementById('originalPlot').value.trim();
   
-  // You can store the storyText in localStorage or pass it to the next page as needed
-  localStorage.setItem('userStory', storyText);
+  if (!mainCharacter || !storyTitle || !originalPlot) {
+    alert('Please fill in all fields before generating your "what if...?" story');
+    return;
+  }
   
-  // Redirect to Page 2 (replace 'page2.html' with your actual page URL)
-  window.location.href = 'page2.html';
+  // Store the values in sessionStorage
+  sessionStorage.setItem('mainCharacter', mainCharacter);
+  sessionStorage.setItem('storyTitle', storyTitle);
+  sessionStorage.setItem('originalPlot', originalPlot);
+  
+  // Redirect to another page
+  window.location.href = '/game';
 }
 </script>
 

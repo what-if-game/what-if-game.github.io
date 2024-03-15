@@ -1,10 +1,13 @@
-body {
-    font-family: sans-serif;
-    font-weight: lighter;
+@import"https://fonts.googleapis.com/css2?family=STIX+Two+Math&family=Raleway&display=block";.Index_header__1eHqG {
+    min-height: 1em;
+    background-color: #fafafa;
+    color: #2c2c2c
 }
 
 h1 {
     text-align: center;
+    font-weight: lighter;
+    font-family: Raleway;
     font-weight: lighter;
 }
 
@@ -19,14 +22,12 @@ p, a {
     color: gray;
     line-height: 1.7em;
     font-size: 13pt;
+    font-family: 'STIX Two Math';
 }
 
-p {
-    opacity: 0.0;
-}
 
 @media screen and (prefers-reduced-motion: no-preference) {
-    p {
+    p.choice {
         transition: opacity 1.0s;
     }
 }

@@ -12,7 +12,22 @@
     }
 
     function showAfter(delay, el) {
-        setTimeout(function() { el.classList.add("show") }, isAnimationEnabled() ? delay : 0);
+        setTimeout(function() { el.style.opacity = 1.0 }, isAnimationEnabled() ? delay : 0);
+    }
+
+    function typingEffect(el, text, speed, i = 0) {
+        if (i < text.length) {
+            el.innerHTML += text.charAt(i);
+            i++;
+            setTimeout(() => typingEffect(el, text, speed, i), speed);
+        } else {
+            return;
+        }
+        // el.innerHTML += text[i];
+        // if (i === text.length - 1) {
+        //     return;
+        // }
+        // setTimeout(() => typingEffect(el, text, speed, i + 1), speed);
     }
 
     function scrollToBottom() {
@@ -40,7 +55,7 @@
 
         var paragraphIndex = 0;
         var delay = 0.0;
-
+        let typingSpeed = 30
         // Generate story text - loop through available content
         while(story.canContinue) {
 
@@ -49,13 +64,24 @@
 
             // Create paragraph element
             var paragraphElement = document.createElement('p');
-            paragraphElement.innerHTML = paragraphText;
+            
             storyContainer.appendChild(paragraphElement);
+            // typingEffect(paragraphElement, paragraphText)
+            let totalTypingTime = paragraphText.length * typingSpeed;
 
+            // Use a closure to ensure the correct timing for each paragraph
+            
+            ((element, text, speed, delayTime) => {
+                setTimeout(() => {
+                    typingEffect(element, text, speed);
+                }, delayTime);
+            })(paragraphElement, paragraphText, typingSpeed, delay);
+
+            delay += totalTypingTime + 1000;
             // Fade in paragraph after a short delay
-            showAfter(delay, paragraphElement);
+            // showAfter(delay, paragraphElement);
 
-            delay += 200.0;
+            // delay += 2000;
         }
 
         // Create HTML choices from ink choices
@@ -65,11 +91,12 @@
             var choiceParagraphElement = document.createElement('p');
             choiceParagraphElement.classList.add("choice");
             choiceParagraphElement.innerHTML = `<a href='#'>${choice.text}</a>`
+            choiceParagraphElement.style.opacity = 0.0
             storyContainer.appendChild(choiceParagraphElement);
 
             // Fade choice in after a short delay
             showAfter(delay, choiceParagraphElement);
-            delay += 200.0;
+            // delay += 1000.0;
 
             // Click on choice
             var choiceAnchorEl = choiceParagraphElement.querySelectorAll("a")[0];
