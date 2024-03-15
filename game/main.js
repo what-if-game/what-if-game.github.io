@@ -55,7 +55,7 @@
 
         var paragraphIndex = 0;
         var delay = 0.0;
-        let typingSpeed = 30
+        let typingSpeed = 25
         // Generate story text - loop through available content
         while(story.canContinue) {
 

@@ -3,20 +3,33 @@
 <head>
     <meta charset="utf-8">
 
-    <title>The Intercept</title>
+    <title>What if...?</title>
+
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="/favicon_io/site.webmanifest">
 
 </head>
 
 <body>
 
     <div id="story" class="container">
-        <h1>The Intercept</h1>
+        <h1></h1>
     </div>
 
+    <script>
+        (function() {
+            var storyTitle = sessionStorage.getItem('storyTitle');
+            if (storyTitle) {
+                document.querySelector('#story h1').textContent = storyTitle;
+            }
+        })();
+    </script>
     <script src="ink.js"></script>
     <script src="story.js"></script>
     <script src="main.js"></script>

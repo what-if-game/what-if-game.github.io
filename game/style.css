@@ -28,7 +28,7 @@ p, a {
 
 @media screen and (prefers-reduced-motion: no-preference) {
     p.choice {
-        transition: opacity 1.0s;
+        transition: opacity 2.0s;
     }
 }
 
