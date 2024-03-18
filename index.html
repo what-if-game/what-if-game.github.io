@@ -30,8 +30,14 @@
     align-items: center;
   }
   h1 {
+    /* width: 70%; */
     font-size: 2em;
     font-weight: lighter;
+    text-align: center;
+    line-height: 1.25;
+    margin: 10px 0;
+    padding-inline: 1em;
+    
   }
   input[type="text"] {
     width: 100%;
@@ -48,7 +54,7 @@
     width: 70%;
     height: 200px;
     margin: 10px 0;
-    margin-bottom: 30px;
+    margin-block: 30px;
     padding: 10px;
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 5px;
@@ -134,14 +140,20 @@ function generateStory() {
     alert('Please fill in all fields before generating your "What if...?" story');
     return;
   }
+  generateButton = document.querySelector('.button-6')
+  generateButton.textContent = 'Generating...';
+  generateButton.disabled = true;
   
   // Store the values in sessionStorage
-  sessionStorage.setItem('mainCharacter', mainCharacter);
-  sessionStorage.setItem('storyTitle', storyTitle);
-  sessionStorage.setItem('originalPlot', originalPlot);
+  setTimeout(() => {
+    sessionStorage.setItem('mainCharacter', mainCharacter);
+      sessionStorage.setItem('storyTitle', storyTitle);
+      sessionStorage.setItem('originalPlot', originalPlot);
+      
+      // Redirect to another page
+      window.location.href = '/game';
+  }, 5000);
   
-  // Redirect to another page
-  window.location.href = '/game';
 }
 </script>
 

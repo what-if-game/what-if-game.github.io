@@ -43,3 +43,40 @@ p.choice {
 a:hover {
     color: black;
 }
+
+#toggleButton {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    z-index: 20;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+#toggleButton img {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    object-fit: cover; /* Adjust the fit to cover, contain, etc., as needed */
+}
+
+#fullscreenImageContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: white; /* Optional: for better visibility */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10; /* Ensure it's above other content */
+    display: none; /* Start hidden */
+}
+
+#fullscreenImage {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Maintain aspect ratio and fit within the container */
+}

@@ -17,11 +17,18 @@
 </head>
 
 <body>
+    
+    <button id="toggleButton">
+        <img src="tree_icon.png" alt="Toggle Image">
+    </button>
 
+    <div id="fullscreenImageContainer" class="hidden">
+        <img src="flowchart.svg" alt="Full Screen" id="fullscreenImage">
+    </div>
     <div id="story" class="container">
         <h1></h1>
     </div>
-
+    <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
     <script>
         (function() {
             var storyTitle = sessionStorage.getItem('storyTitle');
@@ -29,6 +36,27 @@
                 document.querySelector('#story h1').textContent = storyTitle;
             }
         })();
+        document.getElementById('toggleButton').addEventListener('click', function() {
+            var container = document.getElementById('fullscreenImageContainer');
+            
+            if (container.style.display === "none" || container.style.display === "") {
+                container.style.display = "flex"; // Show the container
+            } else {
+                container.style.display = "none"; // Hide the container
+            }
+        });
+        const elem = document.getElementById('fullscreenImage')
+        const panzoom = Panzoom(elem, {
+        maxScale: 5
+        })
+        panzoom.pan(10, 10)
+        panzoom.zoom(2, { animate: true })
+
+        // Panning and pinch zooming are bound automatically (unless disablePan is true).
+        // There are several available methods for zooming
+        // that can be bound on button clicks or mousewheel.
+        button.addEventListener('click', panzoom.zoomIn)
+        elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel)
     </script>
     <script src="ink.js"></script>
     <script src="story.js"></script>

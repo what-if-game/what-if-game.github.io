@@ -23,11 +23,6 @@
         } else {
             return;
         }
-        // el.innerHTML += text[i];
-        // if (i === text.length - 1) {
-        //     return;
-        // }
-        // setTimeout(() => typingEffect(el, text, speed, i + 1), speed);
     }
 
     function scrollToBottom() {
@@ -52,10 +47,9 @@
     }
 
     function continueStory() {
-
         var paragraphIndex = 0;
         var delay = 0.0;
-        let typingSpeed = 25
+        let typingSpeed = 20 // smaller the faster
         // Generate story text - loop through available content
         while(story.canContinue) {
 
@@ -106,7 +100,7 @@
                 event.preventDefault();
 
                 // Remove all existing choices
-                var existingChoices = storyContainer.querySelectorAll('p.choice');
+                var existingChoices = storyContainer.querySelectorAll('p');
                 for(var i=0; i<existingChoices.length; i++) {
                     var c = existingChoices[i];
                     c.parentNode.removeChild(c);
