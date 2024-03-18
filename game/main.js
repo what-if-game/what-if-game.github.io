@@ -71,7 +71,7 @@
                 }, delayTime);
             })(paragraphElement, paragraphText, typingSpeed, delay);
 
-            delay += totalTypingTime + 1000;
+            delay += totalTypingTime + 2000;
             // Fade in paragraph after a short delay
             // showAfter(delay, paragraphElement);
 

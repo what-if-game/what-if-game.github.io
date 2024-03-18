@@ -19,7 +19,7 @@
 <body>
     
     <button id="toggleButton">
-        <img src="tree_icon.png" alt="Toggle Image">
+        <img src="tree_icon.png" alt="Toggle Image" >
     </button>
 
     <div id="fullscreenImageContainer" class="hidden">
@@ -27,6 +27,7 @@
     </div>
     <div id="story" class="container">
         <h1></h1>
+        <h3></h3>
     </div>
     <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
     <script>
@@ -34,6 +35,10 @@
             var storyTitle = sessionStorage.getItem('storyTitle');
             if (storyTitle) {
                 document.querySelector('#story h1').textContent = storyTitle;
+            }
+            var mainCharacter = sessionStorage.getItem('mainCharacter');
+            if (mainCharacter) {
+                document.querySelector('#story h3').textContent = `You are playing as ${mainCharacter}`;
             }
         })();
         document.getElementById('toggleButton').addEventListener('click', function() {
@@ -47,10 +52,16 @@
         });
         const elem = document.getElementById('fullscreenImage')
         const panzoom = Panzoom(elem, {
-        maxScale: 5
+            // contain: 'inside',
+            // scale: 5,
+            // canvas: true
+            maxScale: 20
         })
-        panzoom.pan(10, 10)
-        panzoom.zoom(2, { animate: true })
+        const parent = elem.parentElement
+        // panzoom.addEventListener('click', panzoom.zoomIn)
+        parent.addEventListener('wheel', panzoom.zoomWithWheel)
+        // panzoom.pan(10, 10)
+        // panzoom.zoom(2, { animate: true })
 
         // Panning and pinch zooming are bound automatically (unless disablePan is true).
         // There are several available methods for zooming

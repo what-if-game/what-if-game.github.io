@@ -9,6 +9,17 @@ h1 {
     font-weight: lighter;
     font-family: Raleway;
     font-weight: lighter;
+    margin-bottom: 0.3em;
+}
+
+h3 {
+    text-align: center;
+    font-weight: lighter;
+    font-family: Raleway;
+    font-weight: lighter;
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 2em;
 }
 
 .container {
@@ -48,17 +59,23 @@ a:hover {
     position: fixed;
     top: 0;
     right: 0;
-    margin: 10px;
+    margin: 2em;
     z-index: 20;
     padding: 0;
     border: none;
     background: none;
+    
+}
+
+#toggleButton:hover {
+    transform: translateY(-2px);
+    cursor: pointer;
 }
 
 #toggleButton img {
-    width: 50px; /* Adjust the width as needed */
-    height: 50px; /* Adjust the height as needed */
-    object-fit: cover; /* Adjust the fit to cover, contain, etc., as needed */
+    width: 50px; 
+    height: 50px; 
+    object-fit: cover; 
 }
 
 #fullscreenImageContainer {
@@ -75,8 +92,8 @@ a:hover {
     display: none; /* Start hidden */
 }
 
-#fullscreenImage {
+/* #fullscreenImage {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain; /* Maintain aspect ratio and fit within the container */
-}
+} */
