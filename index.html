@@ -29,6 +29,28 @@
     flex-direction: column;
     align-items: center;
   }
+  .btn-group {
+    margin: 10px 0;
+    padding: 10px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+  }
+  .btn-group button {
+    padding: 0;
+    border: none;
+    background: none;
+    opacity: 0.9;
+  }
+  .btn-group button:hover {
+    opacity: 1;
+    cursor: pointer;
+  }
+  .btn-group img {
+    width: 70px; 
+    height: 70px; 
+    object-fit: cover; 
+  }
   h1 {
     /* width: 70%; */
     font-size: 2em;
@@ -97,6 +119,7 @@
     touch-action: manipulation;
     vertical-align: baseline;
     width: auto;
+    margin-bottom: 50px;
   }
 
   .button-6:hover,
@@ -121,23 +144,74 @@
 </head>
 <body>
 <div class="container">
+  <div class="btn-group">
+    <!-- <button data-index="0"><img src="/icons/black_panther.png"></button> -->
+    <!-- <button data-index="1"><img src="/icons/dr_strange_icon.png"></button> -->
+    <button data-index="2"><img src="/icons/starlord_icon.png"></button>
+    <button data-index="3"><img src="/icons/thor_icon.png"></button>
+    <button data-index="4"><img src="/icons/iron_man_icon.jpeg"></button>
+    <button data-index="5"><img src="/icons/captain_america_icon.png"></button>
+    <button data-index="6"><img src="/icons/ant_man_icon.png"></button>
+    <!-- <button data-index="7"><img src="/icons/spider_man_icon.jpeg"></button> -->
+    <!-- <button data-index="8"><img src="/icons/black_widow_icon.png"></button> -->
+  </div>
   <h1 style="font-weight: 1000">What if...</h1>
   <input type="text" id="mainCharacter" placeholder="Main Character" autocomplete="off">
   <h1>from</h1>
   <input type="text" id="storyTitle" placeholder="Story Title" autocomplete="off">
   <h1>...chooses differently along the journey of </h1>
   <textarea id="originalPlot" placeholder="Enter the original plot of the story" autocomplete="off"></textarea>
-  <!-- <button onclick="generateStory()">Generate</button> -->
   <button class="button-6" onclick="generateStory()" role="button">Generate</button>
 </div>
 <script>
+  // Array containing hero information
+  const heroes = [
+      { char_name: "T'Challa", story_name: "Black Panther" },
+      { char_name: "Stephen Strange", story_name: "Dr. Strange" },
+      { char_name: "Peter Quil", story_name: "Guardians of the Galaxy" },
+      { char_name: "Thor", story_name: "Thor" },
+      { char_name: "Tony Stark", story_name: "Iron Man" },
+      { char_name: "Steve Rogers", story_name: "Captain America" },
+      { char_name: "Scott Lang", story_name: "Ant Man" },
+      { char_name: "Peter Parker", story_name: "Spider Man" },
+      { char_name: "Natasha Romanoff", story_name: "Black Widow" },
+  ];
+  document.addEventListener('DOMContentLoaded', function() {
+    // Select all buttons within the btn-group
+    const buttons = document.querySelectorAll('.btn-group button');
+
+    // Add click event listener to each button
+    buttons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Retrieve the data-index attribute value
+            const index = this.getAttribute('data-index');
+
+            // Access hero information based on index
+            const heroInfo = heroes[index];
+            console.log(`Character: ${heroInfo.char_name}, Story: ${heroInfo.story_name}`);
+
+            // Call a function or handle the click event with heroInfo
+            const mainCharacterInput = document.getElementById('mainCharacter');
+            const storyTitleInput = document.getElementById('storyTitle');
+            
+            // Set the value of the input fields to the corresponding hero information
+            mainCharacterInput.value = heroInfo.char_name;
+            storyTitleInput.value = heroInfo.story_name;
+        });
+    });
+  });
+
 function generateStory() {
   const mainCharacter = document.getElementById('mainCharacter').value.trim();
   const storyTitle = document.getElementById('storyTitle').value.trim();
   const originalPlot = document.getElementById('originalPlot').value.trim();
   
-  if (!mainCharacter || !storyTitle || !originalPlot) {
+  if (!mainCharacter || !storyTitle) {
     alert('Please fill in all fields before generating your "What if...?" story');
+    return;
+  }
+  if (!heroes.some(hero => hero.story_name === storyTitle)) {
+    alert("Please choose a pre-generated stories by clicking one of the hero icons on the top.\nWe will support on-site generation soon.");
     return;
   }
   generateButton = document.querySelector('.button-6')
@@ -146,14 +220,13 @@ function generateStory() {
   
   // Store the values in sessionStorage
   setTimeout(() => {
-    sessionStorage.setItem('mainCharacter', mainCharacter);
-      sessionStorage.setItem('storyTitle', storyTitle);
-      sessionStorage.setItem('originalPlot', originalPlot);
-      
-      // Redirect to another page
-      window.location.href = '/game';
-  }, 5000);
-  
+    sessionStorage.setItem('mainCharacter', heroes.find(hero => hero.story_name === storyTitle).char_name);
+    sessionStorage.setItem('storyTitle', storyTitle);
+    sessionStorage.setItem('originalPlot', originalPlot);
+    
+    // Redirect to another page
+    window.location.href = '/game';
+  }, 3000);
 }
 </script>
 

@@ -2,10 +2,6 @@ from openai import OpenAI
 import json
 from tqdm import tqdm
 
-client = OpenAI(
-    api_key="Your-API-Key-Here",
-)
-
 def plot2tree(plot, char_name, num_nodes=""):
     """
     Convert a plot to a story branching tree.
@@ -296,35 +292,35 @@ def branch(tree, tree_labels, char_name, max_len, ink, chart, pbar):
     # prompts = generate_prompts(all_events, key_events, tree, len(tree_labels[0]) + 1, char_name)
     prompts = []
     for i in range(len(tree_labels[0]) + 1, max_len + 1):
-        print(i)
+        # print(i)
         prompts.append(generate_prompt(all_events, key_events, tree, i, char_name))
         # prompts.append(f"generate a new story of {j * 3} events")
-    print(f"{len(prompts)} prompts")
-    print(prompts)
+    # print(f"{len(prompts)} prompts")
+    # print(prompts)
     for i, prefix in enumerate(tree_labels):
         if len(prefix) == max_len:
             break
         paths = [prefix + 'R']
         while len(paths[-1]) < max_len:
             paths.append(paths[-1] + 'L')
-        print(paths)
+        # print(paths)
 
         new_storyline = write_new_storyline(all_events, prompts[i])
         print(new_storyline)
-        print(f"{len(new_storyline)} new events")
+        # print(f"{len(new_storyline)} new events")
         new_tree = plot2tree(new_storyline, char_name, int(len(new_storyline) / 3))
         while len(new_tree) != int(len(new_storyline) / 3):
             new_tree = plot2tree(new_storyline, char_name, int(len(new_storyline) / 3))
-        print(f"{len(new_tree)} nodes in new tree")
+        # print(f"{len(new_tree)} nodes in new tree")
         if len(paths[0]) - 1 == 0:
             reordered_tree = reorder_tree(new_tree)
         else:
             reordered_tree = reorder_tree(new_tree)
-        print(f"{len(reordered_tree)} narrations")
+        # print(f"{len(reordered_tree)} narrations")
         add_ink_and_chart(reordered_tree, char_name, paths, ink, chart)
         pbar.update(1)
         new_tree = merge_tree(tree, new_tree, len(paths[0]))
-        print(f"{len(new_tree)} nodes in new merged tree")
+        # print(f"{len(new_tree)} nodes in new merged tree")
         branch(new_tree, paths, char_name, max_len, ink, chart, pbar)
 
 def generate(og_plot, char_name, num_nodes):
@@ -354,28 +350,31 @@ def generate(og_plot, char_name, num_nodes):
 
     return ink, chart
 
-char_name = "Tony Stark"
-story_name = "Iron Man"
+client = OpenAI(
+    api_key=input('Enter your OpenAI API Key:\n'),
+)
+
+char_name = "Scott Lang"
+story_name = "Ant Man"
 og_plot = """
-Playboy and genius Tony Stark (Robert Downing Jr) has inherited the defense contractor Stark Industries from his father the legendary Howard Stark. Tony was brilliant from the beginning and built his first circuit board when he was 4 years old, his first engine at the age of 6, graduated from MIT at 17. Howard died in a car accident soon thereafter. Obadiah Stane took over the company till Tony returned to take over at the age of 21. Tony has subsequently unleashed an array of smart weapons that have changed the face of conflict forever.
-Journalist Christine Everhart confronts Tony in Vegas and presents evidence that his company is selling weapons to terrorists and are being used to subjugate native defenseless populations across the globe. Tony has sex with Christine. Pepper Potts is Tony's personal assistant. Harold "Happy" Hogan (Jon Favreau) is Stark's bodyguard and chauffeur. J.A.R.V.I.S. (Paul Bettany) is Stark's personal AI system.
-Tony is in war-torn Afghanistan with his friend and military liaison, Lieutenant Colonel James Rhodes (Terrence Howard) to demonstrate the new "Jericho" missile. Rhodes and Tony are very good friends. The Jericho missile incorporates the new "Repulsor" technology and can deliver explosive payloads to multiple targets with a single missile, over a relatively large combat area.
-Stark is critically wounded in an ambush (where he notices that terrorists have access to weapons manufactured by his own company) and imprisoned in a cave by the terrorist group the Ten Rings. An electromagnet (powered by a heavy car battery) built by fellow captive Yinsen (Shaun Toub) keeps the shrapnel that wounded Stark from reaching his heart and killing him. Ten Rings leader Raza (Faran Tahir) offers Stark freedom in exchange for building a Jericho missile for the group, but Tony and Yinsen agree Raza will not keep his word. Yinsen tells Tony that his weapons in the hands of terrorists is his legacy to the world.
-Tony and Yinsen use the components from other missiles (also manufactured by Stark Industries) and extract Palladium (a precious metal) from it. They use the limited forge facilities available to them and work meticulously. Stark and Yinsen secretly build a powerful electric generator called an arc reactor (Tony had a large Arc reactor back home powering his factory and he has built a miniaturized version of it), to power Stark's electromagnet (instead of the bulky battery), and then begin to build a suit of armor to escape. The suit is a very basic design, heavy and bulky. It has rudimentary weapons, a flame thrower, and rocket Thrusters at the base to launch the occupant into flight. With the arc reactor, it can be powered for about 15 minutes.
-The Ten Rings attack the workshop when they discover what Stark is doing. Yinsen sacrifices himself to divert them while Stark's suit powers up. The armored Stark battles his way out of the cave to find the dying Yinsen, then an enraged Stark burns the terrorist's munitions and flies away, only to crash in the desert, destroying the suit.
-After being rescued by Rhodes, Stark returns home and announces that his company will no longer manufacture weapons. Obadiah Stane (Jeff Bridges), his father's old partner and the company's manager, advises Stark that this may ruin Stark Industries and his father's legacy. Tony reveals to Stane that he has built a new miniaturized Arc reactor. The reactor has the power to provide clean energy to the entire planet.
-In his home workshop, Stark builds an improved version of his suit, as well as a more powerful arc reactor for his chest. Personal assistant Pepper Potts (Gwyneth Paltrow) places the original reactor inside a small glass showcase. Though Stane requests details on his work, a suspicious Stark decides to keep his work to himself.
-At Stark's first public appearance after his return, reporter Christine Everhart (Leslie Bibb) informs him that Stark Industries weapons, including the Jericho, were recently delivered to the Ten Rings and are being used to attack Yinsen's home village. Stark also learns that Stane is trying to replace him as head of the company. Enraged, Stark dons his new armor and flies to Afghanistan, where he saves Yinsen's village and delivers a devastating blow to the Ten Rings. While flying home, Stark is shot at by two F-22 Raptor fighter jets. He phones Rhodes and reveals his secret identity in an attempt to end the attack.
-Meanwhile, the Ten Rings gather the pieces of Stark's prototype suit and meet with Stane, who subdues Raza and has the rest of the group eliminated. Stane has a new suit reverse engineered from the wreckage. Seeking to find any other weapons delivered to the Ten Rings, Stark sends assistant Virginia "Pepper" Potts to hack into the company computer system from Stane's office. She discovers Stane has been supplying the terrorists and hired the Ten Rings to kill Stark, but the group reneged. Potts later meets with agent Phil Coulson (Clark Gregg) of the "Strategic Homeland Intervention, Enforcement and Logistics Division", a counter-terrorism agency, to inform him of Stane's activities.
-Stane's scientists cannot duplicate Stark's arc reactor, so Stane ambushes Stark at home, using a sonic device to paralyze him and take his arc reactor. Left to die, Stark manages to crawl to his lab and plug in his original reactor. Potts and several S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) agents attempt to arrest Stane, but he dons his suit and attacks them. Stark fights Stane but is over-matched without his new reactor to run his suit at full capacity. Stark lures Stane atop the Stark Industries building and instructs Potts to overload the large arc reactor there. This unleashes a massive electrical surge that knocks Stane unconscious, causing him and his armor to fall into the exploding reactor, killing him.
-The next day, the press has dubbed the armored hero "Iron Man". Agent Coulson gives Stark a cover story to explain the events of the night and Stane's death. At a press conference, Stark begins giving the cover story, but then announces that he is Iron Man, prompting the reporters to ask more questions.
+In 1989, scientist Hank Pym (Michael Douglas) resigns from S.H.I.E.L.D. (led by Howard (John Slattery) and Peggy (Hayley Atwell)) after discovering their attempt to replicate his Ant-Man shrinking technology. Believing the technology is dangerous, Pym vows to hide it as long as he lives. Mitchell Carson wanted to force Hank to surrender the technology but is stopped by Howard and Peggy. Pym had developed the Pym particle which reduces the distance between atoms while increasing density and strength.
+In the present day, Pym's estranged daughter, Hope Van Dyne (Evangeline Lilly), and former protege, Darren Cross (Corey Stoll), have forced him out of his company, Pym Technologies. Cross is close to perfecting a shrinking suit of his own, the Yellowjacket, which horrifies Pym. The Yellowjacket is a highly weapon laden version of his own shrinking suit and can have devastating consequences, if put into production. Unknown to Darren, Hope is spying for Pym and wants Pym to give her his original suit to defeat Darren. But Pym steadily refuses to do that & asks Hope to consider his suggested alternative. However, Darren is having difficulty in achieving a stable molecular reduction, leading to his organic test subjects being reduced to a gooey mass of cells. Eventually, he succeeds.
+Upon his release from prison, well-meaning thief Scott Lang (Paul Rudd) moves in with his old cellmate, Luis (Michael Pena). Luis's roommates are Kurt (David Dastmalchian), who is a computer wizard & Dave (Tip "T.I." Harris) a pro lock smith. Lang has a master's in electrical engineering and yet cannot land a job due to his past record and has to serve at a Baskin Robbins. While visiting his daughter Cassie (Abby Ryder Fortson) unannounced, Lang is rebuked by his former wife Maggie (Judy Greer) and her police-detective fiance, Paxton (Bobby Cannavale), for not providing child support. Maggie asks Lang to get an apartment and to pay child support before he is allowed his visitation rights with Cassie.
+Unable to hold a job because of his criminal record (Lang lies about his past to get the job but is fired whenever his background check is completed), Lang agrees to join Luis' crew and commit a burglary. Lang breaks into a house and cracks its safe, but only finds what he believes to be an old motorcycle suit, which he takes home. Unknown to Lang, the entire burglary was being observed by an ant with a micro-camera on it, which was relaying a live feed to Pym. After trying the suit on, Lang accidentally shrinks himself to the size of an insect. Terrified by the experience (during which Pym speaks to Lang via his helmet), he returns the suit to the house, but is arrested on the way out. Pym, the homeowner, visits Lang in jail and smuggles the suit into his cell to help him break out with the assistance of ants and flying insects.
+At his home, Pym, who manipulated Lang through an unknowing Luis into stealing the suit as a test, wants Lang to become the new Ant-Man to steal the Yellowjacket from Cross. Pym says that he generates Electro-magnetic waves to stimulate the ant's olfactory nerves and is thus able to speak to them and get them to obey his commands.
+Hope still believes that she can defeat Darren, but Pym is afraid to lose her as he did her mother. Pym explains to Lang that he designed a formula 40 years ago to shrink humans inside his suit. But he hid the formula as it was dangerous. He started his own company, Pym tech, & took Darren on as his protege. With time Darren suspected the existence of Pym's formula. When Pym did not cooperate with Darre, he voted Pym out of his own company.
+Hope was angry with Pym for the death of her mother & helped Darren. But then she came back to Pym when she saw that Darren was loco. Pym's plan is to train Lang to use the suit & to break into Darren's lab, steal his suit & destroy all the data. Pym says that his specially designed helmet helps protect the brain chemistry, something that Darren has ignored in the design of his suit.
+Having been spying on Cross after discovering his intentions, Hope helps Pym train Lang to fight in the suit and to control ants. While Hope harbors resentment towards Pym about her mother Janet's (Hayley Lovitt) death, he reveals that Janet, known as the Wasp, disappeared into a subatomic quantum realm to disable a Soviet nuclear missile (it was headed for the US and the only way to disable it was to go subatomic through solid titanium. Pym's own regulator was damaged, and so Janet stepped up). Pym warns Lang that he could suffer a similar fate if he overrides his suit's regulator. They send him to steal a device that will aid their heist from the Avengers' headquarters, where he briefly fights Sam Wilson/Falcon (Anthony Mackie).
+Cross perfects the Yellowjacket and hosts an unveiling ceremony at Pym Technologies' headquarters. Lang, along with his crew and a swarm of flying ants, infiltrates the building during the event, sabotages the company's servers, and plants explosives. When he attempts to steal the Yellowjacket, he, along with Pym and Hope, are captured by Cross, who intends to sell both the Yellowjacket and Ant-Man suits to Hydra, led by former S.H.I.E.L.D officer Mitchell Carson (Martin Donovan). Lang breaks free and he and Hope dispatch most of the Hydra agents, though Carson is able to flee with a vial of Cross' particles. Lang pursues Cross as he escapes, while the explosives detonate, imploding the building.
+Cross dons the Yellowjacket and attacks Lang before Lang is arrested by Paxton. His mind addled by the imperfect shrinking technology, Cross takes Cassie hostage to lure Lang into another fight. Lang overrides the regulator and shrinks to subatomic size to penetrate Cross' suit and sabotage it to shrink uncontrollably, killing Cross. Lang disappears into the quantum realm but manages to reverse the effects and returns to the macroscopic world.
+In gratitude for Lang's heroism, Paxton covers for Lang to keep him out of prison. Seeing that Lang survived and returned from the quantum realm, Pym wonders if his wife is alive as well. Later, Lang meets up with Luis, who tells him that Wilson is looking for him.
 """
 num_nodes = 4
 ink, chart = generate(og_plot, char_name, num_nodes)
-with open(f'game/{story_name.replace(' ', '_')}_ink.txt', 'w+') as file:
-    file.write(ink)
+with open(f'stories/{story_name.lower().replace(' ', '_')}/ink.txt', 'w+') as file:
+    file.write('\n'.join(ink))
 
-with open(f'game/{story_name.replace(' ', '_')}_chart.txt', 'w+') as file:
-    file.write(chart)
+with open(f'stories/{story_name.lower().replace(' ', '_')}/chart.txt', 'w+') as file:
+    file.write('\n'.join(chart))
 
 print('finished')

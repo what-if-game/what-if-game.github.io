@@ -1,0 +1,265 @@
+-> S
+== S ==
+Your day starts with the usual struggle; the world seems to tilt ever more against you. Despite your efforts to turn over a new leaf, your criminal record casts a long shadow, hindering your attempts to secure a stable job. The weight of your past decisions presses down, making the future look bleak and your options limited. You're a thief at heart, but a well-meaning one, who now finds himself at a crossroads. The desire to do right by your daughter, to provide for her and secure visitation rights, clashes with the hard reality of your situation. Without a job, making ends meet is a constant battle, a challenge that demands a solution, one way or another.
+
+As the day progresses, the dilemma sharpens. The possibility of joining your friend Luis' crew for a burglary tempts you with the promise of quick money. On the other hand, the path of seeking legal employment, despite your criminal record, whispers the chance of a different, maybe even a better life. The choices stand starkly before you, each radiating its own potential consequences and rewards.
++ [Join Luis' crew] -> L
++ [Seek legal employment] -> R
+== L ==
+Swept up by the thrill and perhaps, the necessity, you decide to join Luis and his crew for one last score that promises to solve all your problems. The target? Just a seemingly inconsequential house with a rumored safe filled with valuables. The plan goes off without a hitch, until you find yourself standing before the safe's contents, where, instead of cash or jewels, an old motorcycle suit catches your eye. Your curiosity piqued, you can't help but take it, not realizing the consequences this impulsive act will bring.
+
+That night, driven by a pang of conscience and a dose of reality about the legality of your actions, you attempt to return the suit to its rightful home. But fate seems to have other plans. Before you can so much as set foot on the property, flashing red and blue lights ensnare you, leading to your immediate capture by the authorities. The suit, it turns out, was far more than a simple collector's item; it was a highly sought-after piece of technology.
+
+Now, behind bars and reflecting on the series of unfortunate choices that led you here, you recognize the gravity of your current situation. With a criminal record already a heavy burden on your shoulders, any additional charges could sever the already tenuous ties you have left with your old life, not to mention the future you’ve been desperately trying to rebuild. The goal is clear: you need to escape this cage before it becomes a permanent fixture of your life's landscape, but how you achieve this freedom is a crossroads fraught with moral and legal peril.
++ [Use Ant-Man suit to escape] -> LL
++ [Wait for a lawyer] -> LR
+== LL ==
+Dressed in a suit that shrinks you to the size of an insect, you make your daring escape from jail. The sense of freedom is exhilarating, especially with the ability to control ants, providing an unexpected assist in navigating the outside world. 
+Upon your successful escape, you meet with Hank Pym, the brilliant mind behind the technology you've just wielded with such awe. Pym reveals the capabilities of the suit and entrusts you with the knowledge of a grave threat: Darren Cross intends to militarize a similar technology, known as the Yellowjacket. 
+Understanding the stakes and the potential of the Ant-Man technology, you're faced with a critical decision. The power to prevent the weaponization of something so dangerous lies in your hands, but the path ahead is fraught with peril and personal sacrifice.
++ [Accept Pym's mission] -> LLL
++ [Walk away from the mission] -> LLR
+== LLL ==
+After careful consideration, you've decided to embrace the legacy of the Ant-Man. Accepting Dr. Hank Pym's mission, you step into the role, ready to infiltrate Pym Technologies. The weight of this decision hasn't fully settled, but the determination in your heart tells you it's the right path.
+
+Your days are filled with rigorous training, under the watchful eyes of Hank Pym and his daughter Hope. You learn the intricate dance of controlling ants and mastering the technology of the Ant-Man suit. Each day brings new challenges, but also remarkable progress. You feel yourself transforming, not just in size, but in spirit.
+
+The culmination of your training and dedication comes to life as you successfully infiltrate Pym Technologies. Moving through the shadows, you sabotage the servers and plant explosives, all while remaining unseen. It's a mission that could change everything, and you execute it with precision. You're not just Scott Lang anymore; you're Ant-Man.
+
+Now, entrenched in the heart of Pym Technologies, your commitment to stopping Darren Cross has never been stronger. Facing him is inevitable, and the stakes are colossal. You know what must be done to ensure his defeat and safeguard the world from his ambitions. The question of how weighs heavily on your mind, especially with the quantum realm being such a formidable and unknown factor.
++ [Fight Darren Cross] -> LLLL
++ [Find another way] -> LLLR
+== LLLL ==
+Knowing the high stakes and the potentially irreversible consequences, you decide to confront Darren Cross head-on. The decision weighs heavily on you, the realization that you might have to shrink to a subatomic size to sabotage the Yellowjacket suit looms like a shadow. Yet, the determination to stop Cross and possibly save countless lives propels you forward, ready to face whatever comes.
+
+Your plan to sabotage the Yellowjacket suit unfolds with precision. As you tamper with its mechanisms, forcing it to shrink uncontrollably, you see Darren Cross grasping at control, his confidence shattering like glass. The suit compresses with a velocity he couldn't have anticipated, defeating Cross in a spectacle that marks the end of his tyranny. The relief that washes over you is profound, mixed with a sense of accomplishment, knowing the threat he posed is now neutralized.
+
+The victory doesn't come without its own set of challenges. In the aftermath, the task of reverting from a subatomic size looms dauntingly before you. The process is fraught with danger, a path untrodden that could very well end in oblivion. However, against all odds, you manage to revert back to your original size. This miraculous return sparks a flurry of questions and possibilities about the quantum realm, a testament to the infinite boundaries waiting to be explored. As you stand amidst the remnants of the battle, you can't help but feel a sense of wonder for the future, knowing that the adventure has only just begun.
+
+THE END
+-> END
+== R ==
+After a difficult period of introspection, you decide it's time to turn a new leaf. Despite your colorful past and the stigma of a criminal record, you're determined to seek out honest work. With a blend of optimism and trepidation, you step into the uncertain future, hoping to redefine yourself.
+
+Luck seems to favor the brave, and your unique blend of engineering expertise and unconventional insights into security, honed through less-than-legal escapades, catch the eye of a security firm. They offer you a low-level position, seeing value in your unorthodox approach. It's more than just a job; it's a second chance, and you're determined not to squander it.
+
+Thrown into a world of circuits and safeguards, you quickly find your footing, working tirelessly to upgrade and reinvent security systems for an array of clients. It's challenging work, threading the delicate balance between innovation and reliability, but you're learning fast, eager to leave your mark on the world of security.
+
+Now fully employed at a security firm and engaged in various projects, you stand at a crossroads. Proving your worth as an invaluable member of the team while navigating the opportunity for personal and professional growth has become your primary focus. Yet, amidst your daily tasks, a discovery at Pym Technologies sets the stage for an unexpected dilemma.
++ [Use the Ant-Man suit] -> RL
++ [Report the suit discovery] -> RR
+== RL ==
+After stumbling upon an intriguing suit during a project at Pym Technologies, your curiosity gets the better of you. You can't resist trying it on, and to your amazement, the suit shrinks you to the size of an ant while boosting your strength immensely. The world from this perspective is wild and dangerous, yet fascinating.
+Just as you're getting the hang of the suit's capabilities, Hank Pym, the original Ant-Man and the mind behind the suit, contacts you. He's been monitoring your progress and is impressed. Pym sees something in you beyond your criminal record - a good heart and technical savvy. He offers you a chance to do something meaningful.
+Realizing the gravity of the situation when Hank Pym explains his concerns about Darren Cross, his former protégé, you agree to help. Cross is close to replicating and potentially weaponizing the technology behind the Ant-Man suit. It's a mission that could change your life and possibly save many others. You're in.
+Now aligned with Hank Pym, you're fully aware of the danger Darren Cross represents. The goal is clear: to stop Cross legally, leveraging your current position at the security firm without blowing your cover or sliding back into old criminal habits.
++ [Gather incriminating evidence] -> RLL
++ [Confront Darren Cross directly] -> RLR
+== RLL ==
+You've decided to gather incriminating evidence against Darren Cross, aiming for a legal takedown of his dangerous and unethical activities. It's a high-stakes game, but you're determined to play it smart and safe. 
+Using your newfound skills and the advanced technology of the Ant-Man suit, you manage to legally sabotage Cross’ plans. Your actions are precise, leaving no trace that leads back to you, all while maintaining your cover at the security firm. It feels like a victory, but you know the battle is far from over.
+However, as Cross becomes increasingly desperate, he takes a more aggressive approach by using the Yellowjacket suit himself. It's a clear sign that legal routes and covert actions aren't going to be enough to stop him. The situation escalates, forcing you to reevaluate your strategy.
+Faced with this realization, you understand that legal means alone are not sufficient to stop Darren Cross. The goal now is clear: to confront Darren Cross directly and prevent him from weaponizing and selling the Yellowjacket technology. It's a dangerous path, but necessary to ensure his plans are thwarted once and for all.
++ [Confront Cross directly] -> RLLL
++ [Seek help from law enforcement and heroes] -> RLLR
+== RLLL ==
+Donning the Ant-Man suit, you feel a surge of power as you confront your nemesis, Cross. The knowledge of what's at stake fuels your resolve, the weight of the suit now feeling like a second skin, ready for the combat ahead.
+In the heat of the battle, it becomes clear that the only way to defeat the Yellowjacket suit is to do the unthinkable. With a pounding heart, you shrink beyond the known limits, diving into the subatomic universe. It's a gamble with your own life, the very fabric of reality bending around you as you dismantle your opponent's power from within.
+Emerging from the quantum realm, you've not only foiled Cross's plans but also broken new ground in the understanding of the universe. The experience has changed you, offering a glimpse into the untapped possibilities that lie within the quantum realm. It's a victory, but more so, it's a doorway to the unknown.
+As you reflect on the journey, the realization dawns that the path ahead is filled with endless wonder. The adventure may have ended, but the quest for discovery has just begun. With new challenges on the horizon, you're more ready than ever to dive into the mysteries of the quantum realm and beyond.
+-> END
+== RR ==
+After unearthing the Ant-Man suit, you make a difficult decision to report the discovery to your superiors at Pym Technologies instead of taking direct action. This choice reflects your desire to remain within legal and professional boundaries, despite the suit's tantalizing potential. However, the revelation of the suit quickly spirals out of your control. Darren Cross, the head of Pym Technologies, sees an opportunity to repurpose the technology for military applications. This initiative deeply divides the company, straining relationships and igniting ethical debates. As tensions rise, you find yourself caught in the midst of a brewing storm.
+
+Feeling betrayed by Darren Cross's aggressive maneuvers and concerned about the suit's misuse, Hank Pym, the original creator of the Ant-Man suit, reaches out to you clandestinely. He proposes a secret alliance to counteract Cross's plans from the shadows. This unexpected overture places you at a crossroads, offering a path to rectify the situation without involving the suit directly.
+
+Now, faced with Hank Pym's unexpected proposition, you are positioned as a crucial player in a covert operation against Darren Cross. Your goal is to thwart Cross's ambitions without using the Ant-Man suit directly, navigating a web of secrecy and strategic deception.
++ [Gather information discreetly] -> RRL
++ [Confront Darren Cross directly] -> RRR
+== RRL ==
+Harnessing your position and deep understanding of the situation, you've started to discreetly compile information on Darren Cross's schemes, ensuring that no suspicious eyes fall on you. Your knowledge allows you to ingeniously sabotage Cross's operations from the inside, leading to repeated delays and technical failures that frustrate his plans. However, as Cross becomes wary of the internal betrayals, he tightens security, causing the workplace to suffocate under his increasingly paranoid and oppressive measures. This places everyone in challenging positions, facing moral quandaries they had not anticipated.
+
+Now, having successfully disrupted Cross's operations from the shadows, you stand on the precipice of a more significant decision. Your goal is clear: to put an end to Darren Cross's unlawful ventures once and for all. But the path to achieving this is fraught with peril and requires a choice that could change everything.
++ [Enlist former colleagues] -> RRLL
++ [Leak information to media] -> RRLR
+== RRLL ==
+In a moment of determination, you decide to enlist the help of your former colleagues to gather crucial evidence against Darren Cross. Pooling together your unique set of skills, stealth, and the occasional flurry of size-changing antics, you navigate the maze of security and corporate espionage to lay your hands on the damning evidence that could dismantle Cross's operations.
+
+Using the evidence gathered, you, alongside Dr. Hank Pym, craft a meticulous plan to expose Darren Cross and his nefarious project to the authorities. Your efforts pay off as the evidence leads to Cross's arrest and the subsequent shutdown of his project, ensuring that the dangerous technology doesn't fall into the wrong hands. It's a victory, hard-earned and sweet, marking the end of a chapter filled with peril and moral challenges.
+
+The story culminates with you securing a position at Pym Technologies under the guidance of Hank Pym himself. Dedicated to the positive and ethical use of the Ant-Man suit, you embark on a new journey. It's an opportunity to make amends, to do right by your past wrongs, and to contribute towards a future where the technology you wield brings hope and protection. Your journey from a burglar to a hero is complete, but you sense it's just the beginning of something greater.
+
+THE END
+-> END
+== RRR ==
+Finding yourself face to face with Darren Cross, you decide it's time to confront the threat he represents directly. Despite the risk of immediate conflict and exposing your identity as Ant-Man, you decide it's a risk worth taking. The tension is palpable as you meet his gaze, prepared for whatever comes next.
+Cross, underestimating your awareness and resolve, decides to accelerate his plans for the Ant-Man suit. He's not just aiming for commercial success; he wants to militarize your technology, cutting corners in safety and ethical considerations. The stakes are suddenly much higher, as you realize the potential for widespread harm if he succeeds.
+As the gravity of Cross's intentions sinks in, you acknowledge that a frontal assault won't be enough to stop his operations. It's clear now more than ever that a more robust approach is needed—a strategy that dismantles his plans from the inside out. The need for a cohesive, focused team to take on Cross's expansive resources and nefarious intentions becomes painfully clear.
++ [Rally colleagues for team effort] -> RRRL
++ [Infiltrate Pym Technologies alone] -> RRRR
+== RRRL ==
+Feeling the urgency of the situation, you decide to gather your former colleagues earlier than planned, recognizing that a cohesive team effort is crucial to counter Darren Cross's motives. Each member brings a unique skill set to the table, creating a synergy that strengthens your resolve. Despite the rushed preparations, the confidence in your team's capabilities fuels your determination.
+
+As you and your team infiltrate Pym Technologies, you're met with unexpectedly heightened security and a palpable tension in the air. It becomes clear that Cross harbors a personal vendetta, adding a dangerous edge to the mission. Maneuvering through the complexities of the high-security facility requires all your wit and the collective efforts of your team, testing your resolve and unity in ways you hadn't anticipated.
+
+Your direct confrontation with Cross and the ensuing actions do not go unnoticed. The spectacle draws public attention, leading to intense media scrutiny and legal challenges. As the dust settles, you find yourself navigating a world that's suddenly aware of the high-stakes game you've been playing. The consequences of your actions ripple out, affecting not just you, but those close to you, leaving you to ponder the balance between right and wrong.
+
+In the quiet that follows, you reflect on the journey and the choices made along the way. Despite the turmoil, there's a sense of fulfillment in standing up for what you believe in. However, the lines between hero and vigilante blur in the public eye, leaving your future uncertain. As you look forward, it's clear that life will never be quite the same again. THE END
+-> END
+== RRRR ==
+Embraced by the cloak of night, you've made the audacious decision to infiltrate Pym Technologies solo. Shrouded in shadows, you skulk around, each movement calculated to avoid any unnecessary confrontations. The crisp night air feels alive, energized by your daring resolve.
+
+As you delve deeper into the lion's den, your keen mind and exceptional problem-solving abilities become your greatest allies. Navigating through the maze of state-of-the-art security systems, you find ingenious uses for your improvised gadgets. Each obstacle overcome draws you closer to your goal, showcasing not just your prowess, but also a remarkable adaptability.
+
+Your solitary mission bears fruit beyond mere survival. Amidst the labyrinth of technology and secrets, you uncover confidential information pivotal to your cause. More importantly, you discover unexpected allies within Pym Technologies, individuals whose sympathies lie with your endeavors. This revelation lights a spark of hope, reinforcing your belief in the path you've chosen.
+
+As you make your escape, reflecting on the night's events, you realize the true extent of what you've accomplished. Not only have you navigated the dangers of Pym Technologies with aplomb, but you've also forged potential alliances that could change the course of your struggle. With a heart both heavy and hopeful, you step into the dawn of a new day, ready to face whatever comes next with the knowledge that you are not alone in this fight.
+-> END
+== RRLR ==
+After agonizing over the implications of your discovery, you decide that the right thing to do is to anonymously leak information about Darren Cross's nefarious plans to the media. You know the risks involved in exposing these secrets, including the possible backlash it could bring to you and your loved ones. Yet, the thought of Cross's technology falling into the wrong hands leaves you with no other moral choice.
+
+The ripple effects of your actions are immediate and profound. The leak sparks public outrage and prompts a governmental investigation into Pym Technologies. You watch from the shadows as the world reacts, feeling a mix of relief and apprehension. Questions flood your mind about the consequences of your decision, but deep down, a sense of justice keeps you grounded.
+
+As days turn into weeks, the media frenzy and scrutiny bring increased attention to the company, complicating your position but also initiating Darren Cross's eventual downfall. You observe the situation unfolding like a carefully constructed house of cards, knowing well that your role in this drama is far from over. Despite the personal risks, you recognize that your actions have set in motion a chain of events that could ultimately lead to a safer world.
+
+In the aftermath, as the dust settles and the light of truth begins to shine on the shadows of deceit, you reflect on your journey. The weight of the decisions made, the obstacles overcome, and the sacrifices endured have forever changed you. With a newfound sense of purpose and resilience, you step forward into the unknown, ready to face whatever challenges might come your way, knowing that sometimes the smallest of actions can lead to the greatest of changes.
+THE END
+-> END
+== RLR ==
+After months of uneventful and unsatisfying work at a security firm, you make a bold decision. It's time to don the Ant-Man suit once again and confront Darren Cross directly. Your choice feels right, driven by a sense of justice and a personal vendetta against the misuse of the technology you've come to understand so intimately.
+
+However, Cross is not one to be easily surprised. Upon learning of your intentions, he accelerates the deployment of the Yellowjacket suit, his dangerous and militarized version of the Ant-Man technology. During a reconnaissance mission meant to gain more insight into Cross's plans, you find yourself ambushed by Yellowjacket - a harsh introduction to the upgraded suit's capabilities.
+
+Despite the setback, your resolve only strengthens. You understand now more than ever the threat that the Yellowjacket suit poses to the world. With Cross continuing his nefarious plans, you know you must confront him directly. There is no turning back. Your goal is clear: you must neutralize the Yellowjacket suit without taking Cross's life. The challenge is immense, but you are fully committed to stopping him, using every skill and resource at your disposal.
++ [Trap Cross in quantum realm] -> RLRL
++ [Disable Yellowjacket conventionally] -> RLRR
+== RLRL ==
+With your heart pounding and your mind racing, you make the bold decision to use a prototype quantum tunnel device, aiming to trap your nemesis Cross in the surreal and dangerous quantum realm. It's a risky move, one that could easily spell doom for you if anything goes awry. With the device activated and the countdown initiated, you steel yourself for what comes next.
+
+The battle with Cross is fierce and relentless. Drawing upon your extensive training and an arsenal of high-tech gadgets, you dart, dodge, and weave, staying one step ahead of Cross's brutal attacks. At the opportune moment, you deploy a modified Pym Particle disc, attaching it to Cross's suit with precision. The disc activates, causing his suit to malfunction and giving you the upper hand, a testament to your cunning and resourcefulness on the battlefield.
+
+In a daring bid to save Cross and explore the untapped potentials of the quantum realm, you plunge into its depths yourself. The environment is disorienting, governed by the laws of quantum mechanics that defy common sense. Yet, amidst this chaos, you find Cross and with Herculean effort, manage to bring both of you back to the macroscopic world. Your successful return not only marks a victory over Cross but also opens new avenues for exploring and understanding the quantum realm. Your courage and quick thinking have not only saved the day but also paved the way for future scientific breakthroughs.
+
+Breathing heavily, you reflect on the journey that has just concluded. The adventures in the quantum realm have not only tested your mettle but also expanded the boundaries of what you thought was possible. With Cross saved and new paths in quantum exploration laid bare before the world, you realize that this adventure, though harrowing, has been a defining moment in your life.
+-> END
+== RLRR ==
+After meticulously studying your enemies and identifying their weaknesses, you decide to employ a combination of electronic warfare and direct sabotage to achieve your goals. Your plan is complex, requiring precision and a deep understanding of both technology and human behavior. You spend countless hours preparing, knowing that the smallest mistake could mean failure.
+
+Following the successful capture of Darren Cross, you find yourself in the presence of Hank Pym. He commends your innovative approach, though his praise is tinged with a hint of disappointment. He had hoped you'd venture into the quantum realm during your mission, an opportunity missed in his eyes. Despite this, you can't help but feel a sense of accomplishment in having thwarted Cross's plans.
+
+The public's awareness of your actions grows, earning you respect in your firm and among the community. Your success, however, does not come without a price. You become a target for those desiring the Pym Particle technology, putting both you and your loved ones in danger. The balance between your desire to do good and the need to protect those you care about becomes increasingly difficult to manage. Yet, it is a challenge you accept, knowing full well the path you've chosen is fraught with peril and sacrifice.
+
+Amidst the obstacles and dangers, you continue to stand firm, driven by a sense of responsibility and the unwavering support of those you hold dear. Your journey is marked by moments of triumph and loss, each shaping you into a hero in your own right. And as the sun sets on yet another chapter of your life, you know that this adventure is far from over. But for now, a moment of peace as you look towards the horizon, ready for whatever comes next.
+
+THE END
+-> END
+== RLLR ==
+Realizing the gravity of the situation, you decide to seek help from law enforcement and other superheroes, knowing that facing Cross alone is tantamount to walking into a trap. The threat he poses is beyond what one man, even one with a suit that can shrink and grow, can handle alone. This decision leads you down a path that you hope will culminate in Cross' downfall without causing undue harm to the city and its inhabitants.
+
+Turning to your unique position, you leverage your firsthand knowledge of Cross’ sinister plans. With the Ant-Man suit as your ace, you demonstrate the unprecedented threat level to both law enforcement and your superhero allies, sharing incriminating evidence against Cross. Your experiences and the tangible proof of Cross’ intentions serve as a rallying cry, convincing them of the urgent need to act.
+
+In response, law enforcement agrees to a discreet operation to avoid tipping off Cross, while your superhero allies decide to lend their unique abilities. This collective effort significantly alters the approach to dealing with Cross, promising a strategic advantage that was previously unattainable. Your role as a facilitator in this unprecedented alliance fills you with a renewed hope for a peaceful resolution, despite the dangers that lie ahead.
+
+As you watch law enforcement and superheroes combining their efforts, you realize the importance of unity and trust in overcoming adversity. With the plan in motion, Cross is eventually apprehended, ensuring the safety of the city. The role you played in his capture, albeit behind the scenes, cements your status as a hero in your own right. Reflecting on the events, you understand that sometimes, the greatest strength lies in seeking help and working together towards a common goal.
+-> END
+== LR ==
+Instead of attempting an escape using the extraordinary abilities granted by the Ant-Man suit, you choose the path of patience, waiting for legal representation to navigate your way through the judicial system. During this period of confinement, your journey towards rehabilitation leads you to a program where fate intertwines your path with that of a reformed thief, now a tech consultant. This new acquaintance opens a door you never expected, introducing you to the renowned yet reclusive Hank Pym. Hank Pym, having heard of your unique skills and sincere attempts at redemption, approaches you with a proposition. He offers you a role in a high-stakes mission, one that requires your particular set of abilities to prevent the ambitious Darren Cross from causing irreversible harm.
+
+Faced with Hank Pym's proposition, you find yourself at a crossroads. The mission to stop Darren Cross is of critical importance, yet your main objective remains clear - to undertake this challenge without bending the law or risking your parole.
++ [Accept Pym's offer legally] -> LRL
++ [Decline Pym's offer] -> LRR
+== LRL ==
+After much deliberation, you've decided to take Hank Pym's offer, but this time, you're doing it the right way. Using your sharp intellect and distinctive skills, you've committed yourself to achieve your goal without the need for the Ant-Man suit. It's a path less trodden, but one you believe firmly in.
+
+Together with Hank Pym and Hope, you concoct a plan to bring Darren Cross's dangerous experiments to light. Gathering concrete evidence and exploiting your remarkable knack for hacking, you aim to breach the secure servers of Pym Technologies. Your mission is clear: expose Cross's malicious activities by showcasing undeniable proof to the world.
+
+The plan unfolds perfectly, and Cross's heinous deeds are out in the open for all to see. However, in a twist of fate, the exposure fuels Cross's desperation. He activates the menacing Yellowjacket suit, posing an immediate and grave threat to the entire city. Despite the success of your initial plan, you now face an unpredictable and far more dangerous challenge.
+
+With Darren Cross now transformed into a formidable adversary in the Yellowjacket suit, the city's safety hangs in the balance. It falls upon your shoulders to find a way to counter this new threat. The stakes are higher, and the decisions you make next could be the difference between chaos and peace.
++ [Don the Ant-Man suit] -> LRLL
++ [Stop Cross without the suit] -> LRLR
+== LRLL ==
+With a heavy heart but unbreakable resolve, you convince Dr. Pym to let you don the Ant-Man suit one more time, promising him that you'd return to custody if it was necessary. There's a sense of silent understanding between you two, a mutual acknowledgment of the risks involved, and the vital importance of the mission at hand.
+
+Clad in the shrinking suit, you confront Darren Cross, the man who twisted Pym's incredible invention for nefarious purposes. As Ant-Man, you engage in a fierce battle against Cross outfitted in the menacing Yellowjacket suit. With ingenuity, bravery, and a few close calls, you manage to outmaneuver Cross, finally disabling the Yellowjacket suit without needing to go subatomic. The victory is sweet, not because of the fight, but because of what it represents.
+
+After ensuring Cross's defeat and the safety of countless innocent lives, you do something unexpected — you keep your word. Returning to custody voluntarily, you face the consequences of your actions head-on. This act of integrity does not go unnoticed. The public calls you a hero, and the legal system takes a more sympathetic view of your case, eventually leading to a sentence reduction. Your actions have proven that heroes aren't just those with power, but those who choose to do the right thing, even when it's hard.
+
+In the end, you realize that the true measure of a hero isn't in the ability to conquer but in the will to do what's right, inspiring others to believe in second chances. You’ve not only saved the day but also charted a new path for yourself, proving that redemption is possible, and hope can bloom even in the most unlikely places.
+
+THE END
+-> END
+== LRR ==
+Deciding it was time to take matters into your own hands, you reached out to your former contacts in the tech world, intent on legally gathering evidence against Cross. It was crucial, you believed, to do this the right way. Before long, you found yourself teaming up with a skilled hacker and an investigative journalist. Together, you started planning how to bring Cross's illicit activities into the light, through legal channels and without staining your hands. As a result, your newly formed team began closely monitoring Cross's actions. Employing legal hacks and digging through surveillance feeds, you were committed to staying on the right side of the law, all the while collecting enough evidence to take him down.
+
+You and your team are deeply engrossed in monitoring Cross's actions and assembling the evidence piece by piece. The goal is clear: To leak the evidence to the public and the authorities, thereby stopping Cross in his tracks before he can cause any more damage.
++ [Leak evidence publicly] -> LRRL
++ [Tip off authorities anonymously] -> LRRR
+== LRRL ==
+Harnessing the power of cutting-edge technology and your exceptional skills in legal hacking, you take a daring leap to leak confidential documents and videos, unmasking the malicious deeds of Cross to the public. Your actions spark waves across the digital and real world, unveiling the hidden truth behind a mask of deceit.
+
+The leaked evidence ignites a firestorm of widespread outrage, setting the stage for an overdue examination of justice. It prompts an immediate and official investigation into Cross's unethical experiments, bringing his dark undertakings into the glaring light of scrutiny. Your clever maneuver has started to unravel a web of lies that once seemed impenetrable.
+
+In a swift move by law enforcement, Cross is arrested, effectively halting his dangerous operations. The dismantling of his empire marks a significant victory for the silent heroes of the world. Meanwhile, your anonymous role in the exposure earns you a reduced sentence, recognizing the pivotal part you played in dismantling a threat to society. In the shadows, you smile, knowing the world is safer now, thanks to your actions. But as you step back into the light, you realize the adventure is far from over.
+
+THE END
+-> END
+== LRRR ==
+After much contemplation, you decide that the risks associated with Darren Cross's experiments are too grave to ignore. Recognizing the potential danger they pose, you make the tough choice to anonymously tip off the authorities, hoping to prevent any catastrophic outcomes. It's a decision that weighs heavily on you, knowing the possible repercussions it could have for everyone involved.
+
+In an effort to ensure your tip is taken seriously and to avoid any potential backlash, you reach out to an old hacker acquaintance. Together, you meticulously craft an untraceable digital drop containing damning evidence against Cross's operations. Your heart pounds with a mix of fear and determination as you send off the information, praying it leads to the right outcome without tracing back to you.
+
+As the investigation into Cross begins to quietly unfold, the strain on your relationships within the team becomes palpable. Doubts and suspicions fester, leading to tension that you hadn't anticipated. Meanwhile, Cross, sensing the noose tightening, ramps up his security measures, making any further actions against him significantly more difficult. The stakes have never been higher, and you find yourself caught between the loyalty to your friends and the moral obligation to stop Cross.
+
+In the face of mounting challenges, you hold onto the hope that your actions will eventually lead to Cross's downfall, protecting countless lives from his dangerous experiments. Despite the personal costs and changed dynamics within your team, you know deep down that you made the right choice. As you move forward, the experiences shape you into a more cautious and thoughtful leader, ready to face whatever comes next with a clear conscience and unwavering resolve.
+
+THE END
+-> END
+== LRLR ==
+Deciding to confront the immense challenge ahead without relying on the Ant-Man suit, you concoct a different approach. It's a path less trodden, one that involves bringing the law into a realm it scarcely understands. Yet, the necessity of stopping Cross without escalating violence prompts you to strategize closely with the authorities, weaving a plan that leans on legality and stealth rather than brute force.
+
+In collaboration with both the authorities and your team, you initiate a series of covert operations that span surveillance and sophisticated hacking. The objective is clear: to collect irrefutable evidence of Cross's perilous experiments. Night after night, you work tirelessly, threading through data and images captured in secrecy, piecing together a narrative of unchecked ambition and danger that can no longer be ignored.
+
+When the moment of truth arrives, armed with compelling evidence, you and the authorities lay a meticulous trap for Cross. As he dons the Yellowjacket suit, envisioning escape or victory, you deploy a non-lethal countermeasure that had been planned for just this scenario. The suit malfunctions, rendering it useless as law enforcement moves in. Cross is arrested, his reign of terror conclusively brought to an end not by force, but through cunning and cooperation. The thrill of victory washes over you, a testament to the power of ingenuity over brute force.
+
+THE END
+-> END
+== LLR ==
+After weighing the risks and consequences, you decide to walk away from Hank Pym's mission, returning the Ant-Man suit and cutting ties with the life it represented. The choice feels right, but the aftermath is anything but. Without the suit and alienated from Hank and Hope, you find yourself grappling with financial struggles. Securing a stable job becomes a herculean task, the shadow of your past looming large over every opportunity. In spite of these hardships, your determination to provide a safer and better life for Cassie remains unwavering. It fuels your resolve to embark on a new path, pursuing an education in electrical engineering with the hope of rebuilding your life from scratch.
+
+Your journey towards a new beginning is far from easy, nevertheless, it's fulfilling in its own right. However, lurking in the back of your mind is the knowledge of Darren Cross's dangerous endeavors. You are acutely aware of the havoc the Yellowjacket technology could wreak if left unchecked. Committed to making amends for not acting sooner, you find yourself at a crossroads, faced with a critical decision. The path you choose now could define your journey - not just for yourself, but for the world at large.
++ [Work covertly with whistleblowers] -> LLRL
++ [Directly confront Darren Cross] -> LLRR
+== LLRL ==
+You decide to work covertly with whistleblowers within Pym Technologies, aiming to expose Cross's illegal dealings. Your stealth and expertise in infiltration make you the perfect candidate for this dangerous but necessary task. The stakes are high, and the risk of being caught looms over you like a dark cloud. Yet, the potential benefits for the greater good propel you forward, making every sneaky maneuver and coded message worth the peril.
+
+Your efforts, along with the courageous whistleblowers, lead to a significant breakthrough. Together, you manage to expose Cross's nefarious sales to dangerous factions on an international news platform. The story sends shockwaves through the global community, causing widespread outrage and disbelief. You watch from the shadows as the fruits of your labor unfold on screens worldwide, feeling a mix of triumph and anxiety about the unfolding consequences.
+
+The public backlash is swift and severe, putting Cross's operations under intense government scrutiny and eventually leading to his arrest. However, the victory is bittersweet, as the blueprints for the dangerous technology leak online, sparking a global race to secure or destroy the information. Your mind races with the implications, knowing well the chaos that could ensue from such knowledge falling into the wrong hands. Determined to prevent further disaster, you steel yourself for the challenges ahead.
+
+As you delve deeper into the dark web, eradicating traces of the blueprints and combating those who would use them for harm, you find yourself facing a new reality. Your actions have not only altered the course of your own destiny but have also reshaped the global landscape of power and technology. The journey has been fraught with danger and moral quandaries, but as you finally step back into the shadows, you know that your story is far from over. Yet, for now, you allow yourself a moment of quiet triumph, aware that the world is a slightly safer place because of your courage and cunning.
+
+THE END
+-> END
+== LLRR ==
+In a daring move fueled by a determination to make things right, you decide to take the fight directly to Darren Cross. Breaking into Cross Technologies becomes your mission, with the goal to destroy all the Yellowjacket prototypes and erase any data related to them. Each step inside the high-security facility feels more risky than the last, but you press on, driven by the gravity of what's at stake.
+
+Rekindling old alliances, you find yourself working alongside Hank Pym and Hope van Dyne once more. Their support, both tactical and technological, becomes invaluable. As you sneak through the cutting-edge corridors of Cross Technologies, you can't help but feel the reassurance that comes from having a formidable team backing you. Everyone has a role, a purpose, united by a common goal.
+
+The audacious assault on Cross Technologies doesn't go unnoticed. The media swarms, broadcasting your face across every possible screen, turning the heist into a spectacle. Amid the chaos, a rival tech company sees an opportunity amidst the pandemonium and attempts to make off with the prized Yellowjacket blueprints. What ensues is an intense showdown, bullets and quips flying, as you fight tooth and nail to keep the blueprints from falling into the wrong hands.
+
+With the dust settled and the threat neutralized, you find solace in knowing the Yellowjacket blueprints are secure with Hank Pym. Darren Cross's arrest marks a turning point, and while you navigate the legal web, the public's support and a skilled legal team – funded by Pym – are your stalwarts. As you adjust to the new normal, marked by both legal challenges and newfound alliances, it's clear that your world will never be the same. But for now, there's a sense of peace, knowing that you've averted a disaster and made amends, in your own unique way.
+
+THE END
+-> END
+== LLLR ==
+Fueled by a determination to protect your loved ones and the world at large from the threat posed by Darren Cross, you decide against the perilous journey to the quantum realm. Considering the gravity of what's at stake, you concede that unity is strength. This realization leads you to seek an alliance with the Avengers, understanding that their experience and resources could offer the edge you need to dismantle Cross's operation without the colossal risk.
+
+Working alongside the Avengers, you find a new sense of purpose and camaraderie. A meticulous plan takes shape, combining the brilliance of Stark's technological innovations and a carefully orchestrated distraction spearheaded by Captain America. This plan, audacious yet precise, aims to infiltrate Cross Technologies without raising alarms, setting the stage for an operation that leans heavily on stealth and smarts, rather than brute force.
+
+In the climactic moments of the operation, you, with the aid of an army of meticulously trained ants, manage to sneak into the heart of Cross Technologies. Guided by Pym's unparalleled expertise in controlling the insects, you plant an EMP device, effectively neutering the Yellowjacket suit and ensuring Cross is trapped, unable to wreak havoc. The operation is a resounding success, illustrating the power of unity and the ingenuity of combining diverse strengths for a common good.
+
+The day is won not just by might, but by the collective wit and will of a team that stands as a testament to collaboration over confrontation. As you stand amid your new allies, you realize that sometimes, the longest journeys are avoided not by advancing, but by standing together. And in this moment, you understand that this victory is not just yours, but shared by everyone who dared to believe in the strength of unity over the solitude of strife.
+
+THE END
+-> END

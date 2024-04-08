@@ -1,0 +1,136 @@
+S[[S: Steve Rogers is a thin, asthmatic young man found ineligible for US military service.
+G: To serve his country and prove his worth despite his physical limitations.]] --> |Volunteer for experimental program|LE
+S[[S: Steve Rogers is a thin, asthmatic young man found ineligible for US military service.
+G: To serve his country and prove his worth despite his physical limitations.]] --> |Join the science division|RE
+LE(Steve Rogers decides to volunteer for Dr. Erskine's experimental super soldier program.
+Dr. Abraham Erskine selects Steve due to his determination and good heart, leading to Steve undergoing the super soldier procedure.
+Steve Rogers is transformed into a super soldier with enhanced strength and agility.) --> L
+L[[S: Steve Rogers has become a super soldier.
+G: To utilize his new abilities in fighting the Nazis and Hydra.]] --> |Rescue Bucky and the 107th|LLE
+L --> |Boost morale on the home front|LRE
+LLE(Steve Rogers decides to go behind enemy lines to rescue Bucky and the 107th from Hydra.
+Steve successfully infiltrates the Hydra facility, confronts Johann Schmidt, and rescues Bucky along with 500 other men.
+Steve Rogers becomes recognized as a hero and leader, taking on the mantle of Captain America.) --> LL
+LL[[S: Captain America is now leading a team against Hydra.
+G: To dismantle Hydra's operations and stop Johann Schmidt.]] --> |Assault on Hydra's base|LLLE
+LL --> |Steal the Tesseract|LLRE
+LLLE(Steve Rogers decides to lead an assault on Hydra's last base to prevent the launch of deadly weapons against the US.
+Steve and his team attack Hydra's last base, capturing Arnim Zola and confronting Johann Schmidt.
+Steve boards the Valkyrie in an attempt to stop the bombs from being dropped on the US.) --> LLL
+LLL[[S: Captain America is onboard the Valkyrie, attempting to stop the bombs.
+G: To prevent the catastrophic bombing of major cities and ensure the safety of millions.]] --> |Crash the Valkyrie|LLLLE
+LLL --> |Attempt manual override|LLLRE
+LLLLE(Steve Rogers decides to crash the Valkyrie into the Arctic to prevent the bombing.
+Steve says his goodbyes to Peggy Carter, promising a date he fears he won’t make.
+Steve Rogers crashes the plane into the ice, sacrificing himself to save millions and stops the bombs.)
+RE(Steve Rogers decides to join the science and technology division to assist in research and development.
+Immersing himself in military technology, Steve demonstrates an ability to apply theoretical innovations practically, catching the eye of Dr. Abraham Erskine.
+Steve collaborates with Dr. Erskine on military technology enhancements instead of undergoing the super soldier transformation.) --> R
+R[[S: Steve collaborates with Dr. Erskine on military technology enhancements.
+G: To create and utilize advanced equipment to aid soldiers in the field.]] --> |Test the prototype exosuit|RLE
+R --> |Develop a communications network|RRE
+RLE(Steve Rogers decides to test the prototype exosuit designed to amplify a soldier's strength and agility.
+Using strategic intellect and the exosuit, Steve becomes an asset in the field, leading a successful mission to rescue POWs from a Hydra facility.
+Steve is recognized as 'The Mechanized Patriot', inspiring hope and showcasing technological innovation.) --> RL
+RL[[S: Steve is recognized as 'The Mechanized Patriot'.
+G: To neutralize Hydra's technological advantage and turn the tide of the war.]] --> |Spearhead anti-Hydra tech think tank|RLLE
+RL --> |Lead high-risk missions against Hydra|RLRE
+RLLE(Steve Rogers decides to spearhead a think tank focusing on countermeasures against Hydra's technology.
+Steve's team devises a plan combining espionage, sabotage, and advanced technology to infiltrate and dismantle Hydra's last base.
+The Allied forces disrupt Hydra's operations significantly, capturing key figures and discovering plans for an aerial attack on the US.) --> RLL
+RLL[[S: Plans for a massive aerial attack on the US by Hydra are uncovered.
+G: To prevent the aerial attack and secure victory for the Allied forces.]] --> |Pilot a stealth aircraft to stop Hydra|RLLLE
+RLL --> |Infiltrate Hydra's leadership to thwart attack|RLLRE
+RLLLE(Steve Rogers decides to co-design and pilot a stealth aircraft capable of neutralizing Hydra bombers mid-flight.
+Piloting the aircraft himself, Steve manages to intercept and disable the Hydra bombers using non-lethal means, ensuring no lives are lost.
+Steve's technological contributions are recognized as pivotal to the Allied victory, inspiring future generations.)
+RRE(Steve Rogers decides to pioneer the development of an advanced communications network.
+Collaborating with engineers and cryptographers, Steve constructs a secure, encrypted messaging system.
+The new network enables coordinated attacks, blindsiding Hydra with its precision.) --> RR
+RR[[S: Steve's communications network is operational, greatly enhancing Allied coordination.
+G: To maintain the security and effectiveness of the network against Hydra's countermeasures.]] --> |Innovate dynamic encryption|RRLE
+RR --> |Limit network to high-ranking officers|RRRE
+RRLE(Steve Rogers decides to innovate a dynamic encryption protocol to secure the network.
+Hydra attempts to infiltrate the Allied network, but the new encryption protocol thwarts their efforts.
+The secure network allows for rapid sharing of intelligence, thwarting multiple Hydra operations.) --> RRL
+RRL[[S: The communications network is secure and proving crucial in disrupting Hydra.
+G: To leverage the network for a decisive blow against Hydra.]] --> |Organize guerrilla attacks|RRLLE
+RRL --> |Broker a ceasefire|RRLRE
+RRLLE(Steve Rogers decides to use the network to organize a series of guerrilla attacks and a preemptive strike on Hydra.
+A special operations group led by Steve uses the network to sabotage Hydra supply lines and intercept critical intel.
+The Allied forces launch a coalition attack on Hydra's assembly points, leading to a decisive victory.)
+RRRE(Steve Rogers decides to limit the network's use to a few high-ranking officers to minimize the risk of infiltration, sacrificing widespread communication for increased security.
+Though Hydra attempts to infiltrate the Allied network, their efforts are consistently foiled due to the tight circle of users.
+The limited communication leads to delayed responses and a lack of coordination among the broader Allied forces.) --> RRR
+RRR[[S: The Allied forces face coordination challenges due to limited communication.
+G: To improve coordination among Allied forces without compromising security.]] --> |Introduce coded couriers|RRRLE
+RRR --> |Deploy decoy operation|RRRRE
+RRRLE(Steve introduces a system of coded physical couriers, reviving an ancient method of communication but with modern twists.
+These couriers carry encrypted messages that can only be decoded by specific, pre-assigned officers, creating a secure but more efficiently coordinated communication strategy.
+The revised strategy pays off during the final stages of the war, preventing Hydra from anticipating the Allies' final, decisive operations and leading to a significant victory over Hydra.)
+RRRRE(Steve Rogers decides to create a decoy operation to mislead Hydra, focusing on dispersing misleading intelligence through seemingly insecure channels, while the real strategic communications are conducted through a highly secure, undisclosed method known only to a trusted circle of Allied commanders.
+Hydra diverts significant resources to chase down false leads, deploying their forces according to the misleading intelligence.
+The strategy culminates in a grand deception operation where the Allies feign a massive assault on a stronghold that Hydra believes to be the focal point of the Allied offensive. In reality, the Allied forces execute coordinated strikes on critical Hydra installations, leading to a significant Allied victory.)
+RRLRE(Steve Rogers decides to engage in diplomatic efforts, leveraging the advanced communications network to initiate back-channel talks with various Hydra factions.
+Steve navigates the complexities of diplomatic negotiations, ensuring the involvement of key Allied leaders and neutral mediators while facing challenges such as deep-seated mistrust and espionage attempts.
+Despite assassination attempts on negotiators and public backlash, Steve manages to broker a provisional ceasefire agreement, leading to peace talks and a formalized peace agreement that includes disarmament clauses, war crime tribunals, and the integration of willing Hydra members into society.)
+RLRE(Steve Rogers decides to focus on a direct assault strategy, leading a series of high-risk missions.
+The Allied forces' strategy becomes more aggressive, significantly boosting morale as troops rally behind Steve's leadership.
+Steve faces fortified Hydra bases and skilled Hydra commanders, countering them with guerrilla tactics, nighttime raids, and leveraging captured technology.) --> RLR
+RLR[[S: Steve Rogers has adjusted his tactics to address Hydra's defense strategies.
+G: To continue weakening Hydra by leveraging new tactics and resources.]] --> |Acquire heavy artillery|RLRLE
+RLR --> |Forge global alliances|RLRRE
+RLRLE(Steve Rogers decides to prioritize acquiring heavy artillery, armored vehicles, and training specialized units for battlefield effectiveness.
+Steve's leadership on the front lines inspires his team, fostering a fearless dedication to the mission.
+Hydra is drastically weakened, forced into retreat, though at a high cost to the Allied forces.)
+RLRRE(Steve Rogers decides to establish alliances with other resistance groups to launch a global campaign against Hydra.
+Steve faces challenges in melding differing ideologies, strategies, and goals into a cohesive force, navigating language barriers, cultural misunderstandings, and disputes over strategy and resource allocation.
+By orchestrating a daring joint operation against a Hydra stronghold and leveraging the unique strengths of each resistance group, Steve solidifies the alliance, transitioning the fight into a truly global, coordinated campaign.)
+RLLRE(Steve Rogers decides to infiltrate Hydra's leadership, capturing or eliminating key figures.
+Utilizing his military technology expertise, Steve upgrades his prototype exosuit for enhanced stealth capabilities and hacking Hydra's communications.
+Steve faces challenges in maintaining his undercover status while navigating Hydra's leadership, using his strategic intellect and the suit's tech to evade detection and gather intel on Hydra's operations.)
+LRE(Steve Rogers decides to intensify his efforts in strategic contributions, focusing on planning propaganda and morale-boosting campaigns with military leaders.
+Steve collaborates with military leaders to spread crucial information about the war's progress, rallying support for complex military strategies.
+His efforts evolve, making him a key figure in psychological warfare against the Axis Powers.) --> LR
+LR[[S: Steve has become a significant figure in psychological warfare, influencing the war effort from the home front.
+G: To further leverage his platform to support the development and deployment of advanced military technologies.]] --> |Launch a support campaign for advanced technologies|LRLE
+LR --> |Recruit and train propaganda experts|LRRE
+LRLE(Steve decides to launch a nationwide campaign to support advanced technologies and weapons, mobilizing public support and funding.
+His campaigns channel public support into crucial technological projects, impacting the development of advanced warfare capabilities.
+Steve indirectly influences the war's outcome by promoting technological advancements essential for winning the war.) --> LRL
+LRL[[S: Steve has effectively mobilized support for the war's technological front, significantly contributing to the Allies' capabilities.
+G: To provide support that directly impacts the war's outcome through strategic interventions.]] --> |Coordinate with Allied Forces|LRLLE
+LRL --> |Join the Frontline Assault|LRLRE
+LRLLE(Steve decides to use the intelligence provided by Peggy Carter to coordinate with Allied forces, ensuring the successful assault on Hydra's base.
+In collaboration with Peggy, Steve provides remote support and coordinates critical Allied reinforcements in a final confrontation with Hydra.
+With Hydra's defeat, Steve's strategic role and Peggy's front-line heroism are celebrated, underscoring the impact of strategic and direct action in the war.)
+LRRE(Steve Rogers decides to concentrate his efforts on forming a specialized unit of propaganda experts, drawing from various backgrounds in art, psychology, and communications.
+The team launches innovative propaganda campaigns including broadcasting messages, dropping leaflets, and employing cinema and posters to bolster morale.
+Steve faces challenges in balancing impactful content with the sensitive nature of psychological operations, working closely with intelligence agencies.) --> LRR
+LRR[[S: Steve is closely collaborating with intelligence agencies, ensuring the accuracy and effectiveness of propaganda.
+G: To leverage intelligence in tailoring propaganda that demoralizes the Axis and boosts Allied morale.]] --> |Coordinate psychological ops with Peggy|LRRLE
+LRR --> |Enhance espionage & sabotage efforts|LRRRE
+LRRLE(Steve Rogers and Peggy Carter coordinate to launch targeted psychological operations that exploit Axis vulnerabilities and cause dissent within their ranks.
+The strategic use of intelligence leads to Axis commanders making strategic missteps, distracted by the need to maintain morale.
+Allied forces are emboldened, leading to increased effectiveness in their military campaigns and significantly contributing to the weakening of the Axis Powers' resolve.)
+LRRRE(Steve Rogers decides to enhance physical espionage and sabotage operations, directly targeting Axis supply lines and communication networks.
+Steve forms a covert unit specializing in guerrilla warfare and espionage tactics, focusing on dismantling the Axis's ability to sustain its troops, deploy reinforcements, and communicate effectively.
+The unit's actions begin to severely hamper the Axis's operational capabilities and morale, leading to confusion within their command structure and emboldening Allied forces.)
+LRLRE(Steve Rogers decides to personally join the final assault against Hydra's base, putting himself at the forefront of the key battle.
+During the assault, Steve leverages his deep understanding of military technology to exploit Hydra's weaknesses, guiding the Allied forces through dangerous minefields and combat traps.
+Peggy Carter adapts to Steve's presence by coordinating air support, which combines with Steve's ground leadership to devastate Hydra's defenses and lead to a critical breakthrough.)
+LLRE(Steve Rogers decides to lead a covert operation to steal the Tesseract from Hydra.
+Steve and his team face unexpected challenges infiltrating Hydra's heavily guarded facility, including advanced security technologies powered by the Tesseract.
+The successful theft of the Tesseract severely cripples Hydra's ability to maintain their advanced weaponry and communications.) --> LLR
+LLR[[S: Steve Rogers has successfully stolen the Tesseract, significantly diminishing Hydra's capabilities.
+G: To leverage the victory to end the war and solidify leadership and team dynamics.]] --> |Use the Tesseract|LLRLE
+LLR --> |Hide the Tesseract|LLRRE
+LLRLE(Steve Rogers decides to utilize the Tesseract to gain an advantage in the war effort while strengthening team cohesion.
+The mission's focus on stealth and strategy over brute force strengthens the team dynamics, highlighting the importance of each member's unique skills.
+With Hydra's capabilities diminished and the successful integration of the Tesseract into the Allied forces, the need for Steve to crash the Valkyrie into the Arctic is averted, allowing him to continue fighting alongside the Allies.)
+LLRRE(Steve Rogers decides to keep the Tesseract hidden and secure within a top-secret Allied facility.
+Without the technological edge the Tesseract could have provided, Steve focuses on enhancing conventional warfare tactics.
+Hydra, overestimating their technological supremacy, fails to adapt, leading to strategic victories for the Allies through stealth, unpredictability, and resilience.)
+LLLRE(Steve Rogers decides to attempt a risky manual override of the Valkyrie's autopilot system, fighting against time and the plane's advanced, damaged mechanisms.
+Despite a severe injury and the complexity of Hydra technology, Steve successfully reroutes the plane's course towards an uninhabited area to minimize potential casualties.
+Successfully landing the Valkyrie but unable to disarm all the bombs due to their complex encryption, Steve Rogers is forced to work with Howard Stark and the SSR to secure and neutralize the weapons.)

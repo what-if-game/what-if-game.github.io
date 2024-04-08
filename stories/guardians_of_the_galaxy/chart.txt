@@ -1,0 +1,138 @@
+S[[S: Peter Quill is on the planet Morag.
+G: To steal a valuable orb and sell it for profit.]] --> |Steal the orb|LE
+S[[S: Peter Quill is on the planet Morag.
+G: To steal a valuable orb and sell it for profit.]] --> |Wait for Yondu|RE
+LE(Peter Quill decides to steal the orb.
+Quill is intercepted by Korath but escapes with the orb.
+Quill becomes a target for bounty hunters and space pirates.) --> L
+L[[S: Quill becomes a target for bounty hunters and space pirates.
+G: To sell the orb on Xandar and escape his pursuers.]] --> |Try to sell the orb on Xandar|LLE
+L --> |Negotiate with Yondu for protection|LRE
+LLE(Peter Quill decides to try to sell the orb on Xandar.
+Gamora ambushes Quill and a fight ensues, drawing in Rocket and Groot.
+The Nova Corps arrests Quill, Gamora, Rocket, and Groot.) --> LL
+LL[[S: The Nova Corps arrests Quill, Gamora, Rocket, and Groot.
+G: To escape from prison and keep the orb from Ronan.]] --> |Plan a daring prison escape|LLLE
+LL --> |Negotiate with the Nova Corps|LLRE
+LLLE(Peter Quill decides to team up with Gamora, Rocket, Groot, and Drax to escape the prison.
+They successfully break out of the Kyln and retrieve Quill's ship.
+The team heads to Knowhere to find a buyer for the orb.) --> LLL
+LLL[[S: The team heads to Knowhere to find a buyer for the orb.
+G: To sell the orb and prevent it from being used to destroy planets.]] --> |Confront Ronan|LLLLE
+LLL --> |Evade Ronan|LLLRE
+LLLLE(Peter Quill decides to confront Ronan to protect Xandar and the galaxy.
+The Guardians, along with the Ravagers and the Nova Corps, engage Ronan's forces in battle.
+Quill and his allies successfully use the orb's power to destroy Ronan, saving Xandar.)
+RE(Peter Quill decides to wait for Yondu and hand over the orb as originally planned.
+Yondu, acknowledging Quill's loyalty, decides to share the true value and potential dangers of the orb with him.
+The trust between Quill and Yondu strengthens, leading Quill to take a more significant role within the Ravagers.) --> R
+R[[S: Quill is a trusted member of the Ravagers
+G: To protect the orb from falling into Ronan's hands]] --> |Ally with Gamora|RLE
+R --> |Bargain with Ronan|RRE
+RLE(Quill convinces Yondu to temporarily ally with Gamora to protect the orb.
+Rocket and Groot, hired by a third party interested in the orb, mistakenly attack Quill but end up joining forces against a mutual enemy.
+With Drax joining in seeking vengeance against Ronan, the unlikely team formulates a plan to safeguard the orb.) --> RL
+RL[[S: Quill and allies have formed a plan to protect the orb
+G: To prevent Ronan from seizing control of the orb]] --> |Confront Ronan in Knowhere|RLLE
+RL --> |Hand orb to Nova Corps|RLRE
+RLLE(The team's attempt to hide the orb in Knowhere fails when Ronan's spies locate them, leading to a showdown.
+Instead of fighting directly, Quill devises a plan to use the orb's power against Ronan, requiring a sacrificial act that threatens his life.
+A united front from the Ravagers, Nova Corps, and our heroes forms in an epic space battle to prevent Ronan from seizing control of the orb.) --> RLL
+RLL[[S: Epic battle against Ronan underway
+G: To defeat Ronan and save the galaxy]] --> |Unleash the orb's power|RLLLE
+RLL --> |Keep the orb's power secret|RLLRE
+RLLLE(Quill's bravery and selflessness unleash the orb's true power, defeating Ronan and saving the galaxy.
+Quill and his allies earn accolades and a new sense of family, having successfully safeguarded the galaxy.
+Peter Quill's actions lead to a reshaping of the galaxy's power dynamics, and he finds a new sense of belonging.)
+RRE(Peter Quill decides to bargain directly with Ronan using the orb
+Quill's decision surprises and alienates Yondu and the Ravagers
+Without Yondu's support, Quill seeks out Gamora for her connections to Ronan) --> RR
+RR[[S: Quill allied with Gamora and alienated from Yondu
+G: To negotiate with Ronan and avoid direct confrontation]] --> |Attempt to negotiate with Ronan|RRLE
+RR --> |Lead a preemptive strike|RRRE
+RRLE(Peter Quill attempts to negotiate with Ronan but is forced to escape when it backfires
+During his escape, Quill crosses paths with Rocket and Groot who decide to join forces
+Driven by vengeance, Drax joins Quill's team, aligning with their goal to confront Ronan) --> RRL
+RRL[[S: Quill formed an alliance with Gamora, Rocket, Groot, and Drax
+G: To recover the orb and protect the galaxy from Ronan]] --> |Lead the daring heist|RRLLE
+RRL --> |Wield the orb’s power against Ronan|RRLRE
+RRLLE(Peter Quill leads a daring plan to steal the orb from Ronan's ship
+Quill manages to use the orb against Ronan in a direct confrontation, exploiting a revealed weakness
+The battle's tide turns with the aid of Yondu and the Ravagers, leading to Ronan's defeat)
+RRRE(Peter Quill decides to mount a preemptive strike against Ronan
+Quill earns respect from Yondu but strains the trust due to concerns about Ravagers being unprepared for conflict
+Quill assembles his team, leveraging his leadership within the Ravagers and promising a share in the orb's value to Gamora, Rocket, Groot, and Drax joins driven by a vendetta) --> RRR
+RRR[[S: Peter Quill's team assembled and ready for the strike
+G: To execute a successful strike against Ronan and prevent his tyranny]] --> |Seek Ancient Artifacts|RRRLE
+RRR --> |Direct Attack on Ronan|RRRRE
+RRRLE(Peter Quill decides to shift the mission towards acquiring ancient artifacts to amplify the orb's power
+The team employs subterfuge and guerrilla tactics, surprising Ronan and forcing him to retreat
+Discovering the orb's ability to be amplified, they focus on acquiring artifacts, leading to a galaxy-spanning campaign against Ronan)
+RRRRE(Peter Quill decides to keep the focus solely on a direct attack against Ronan without seeking additional power sources.
+Quill and his team engage in intensive training sessions, honing their combat skills and planning strategies to exploit Ronan's weaknesses.
+Quill reaches out to rival factions within Ronan's enemies for a temporary alliance, offering them a share of the orb's value in exchange for their support in the battle.
+The Nova Corps, intrigued by Quill's plan, decide to back him indirectly, adding to the strength of Quill's coalition against Ronan.
+The direct assault on Ronan brings unexpected alliances and sows seeds of distrust among Ronan's allies, weakening his position and leading to a tactical retreat by Ronan.)
+RRLRE(Peter Quill decides to confront Ronan directly by using the orb's power against him, sidestepping the initial plan for a covert heist.
+Yondu and the Ravagers, shocked by Quill's bold decision, initially contemplate abandoning him.
+Quill's team rallies around him, each member offering their unique abilities to support the head-on confrontation.)
+RLRE(Peter Quill decides to hand over the orb to Nova Corps for protection.
+Quill's decision sparks tension between him and Yondu, who feels betrayed by Quill's trust in Nova Corps over the Ravagers.
+Ronan, enraged by the orb's transfer to Nova Corps, launches a direct assault on Xandar.) --> RLR
+RLR[[S: Ronan launches a direct assault on Xandar to retrieve the orb.
+G: To protect Xandar, defeat Ronan, and ensure the safety of the galaxy.]] --> |Form an alliance to fight Ronan|RLRLE
+RLR --> |Negotiate with Ronan for peace|RLRRE
+RLRLE(Peter Quill brokers a risky alliance with Yondu, Gamora, Rocket, Groot, and Drax to combat Ronan.
+Nova Corps, the Ravagers, and the group prepare for a massive defensive against Ronan's forces.
+A climactic battle ensues, leading to Ronan's defeat through strategic sabotage and cooperation among the heroes.)
+RLRRE(Peter Quill decides to negotiate with Ronan directly, attempting to trade the orb for peace.
+Ronan, intrigued by Quill's audacity, agrees to a meeting. Quill's initiative alienates him from Yondu, Gamora, Rocket, Groot, and Drax who feel sidelined and mistrustful of Ronan's intentions.
+During the negotiations, Ronan demands a sacrifice to prove Quill's commitment to peace, putting Quill in a position where he must outmaneuver Ronan's psychological games without compromising his morals or betraying his friends.)
+RLLRE(Peter Quill decides to keep the orb's immense power a secret, believing its reveal could disrupt the fragile galactic balance.
+Instead of using the orb's power to publicly defeat Ronan, Quill leads a covert operation to outmaneuver him, falsely making Ronan believe the orb was destroyed.
+This decision strengthens the bond within the Guardians due to shared secrets, but sows distrust among allies like the Nova Corps who are unaware of the orb's fate.)
+LRE(Peter Quill decides to negotiate with Yondu for protection instead of trying to sell the orb on Xandar.
+Yondu agrees under the condition that Quill and his companions undertake a dangerous mission to retrieve a highly coveted artifact from a formidable warlord.
+Quill, Gamora, Rocket, Groot, and Drax prepare for the mission, strengthening their bond and team dynamics.) --> LR
+LR[[S: Quill and his team are prepared for the mission
+G: To successfully retrieve the highly coveted artifact from the formidable warlord]] --> |Lead the mission, risking alert to the Collector|LRLE
+LR --> |Seek alternative to the dangerous quest|LRRE
+LRLE(Peter Quill leads the team on the mission, inadvertently alerting the Collector.
+The team's alliance with Yondu puts them at odds with the Ravagers and the Nova Corps.
+They discover the orb contains an Infinity Stone, capable of altering the fabric of reality.) --> LRL
+LRL[[S: Quill's team knows the orb's true power
+G: To prevent the orb's destruction from falling into the wrong hands]] --> |Destroy the orb|LRLLE
+LRL --> |Hand over to Nova Corps|LRLRE
+LRLLE(Peter Quill decides to destroy the artifact to prevent misuse.
+A conflict arises with the Collector, who amasses a vast force to seize the orb.
+With strategic plays and new alliances, Quill's team overpowers the Collector and seals the orb away in a dimensional rift, ensuring it can't be used for harm.)
+LRRE(Peter Quill decides to abandon the dangerous mission, aiming to find another way to fulfill their agreement with Yondu.
+As they search for alternatives, a notorious intergalactic bounty hunter known for her ruthlessness, Vala Kor, learns of the orb's existence and becomes the new antagonist, determined to claim its power for herself.
+Peter Quill and his team start devising a plan to use decoy orbs to mislead Vala Kor.) --> LRR
+LRR[[S: Peter Quill and his team are planning to mislead Vala Kor with decoys while looking for a safe way to neutralize the orb's power.
+G: To safely neutralize the orb's power and protect it from falling into the wrong hands.]] --> |Trap Vala in a fabricated reality.|LRRLE
+LRR --> |Negotiate directly with Vala Kor.|LRRRE
+LRRLE(Peter Quill devises a plan to trap Vala Kor in a fabricated reality using a decoy orb, while the real orb is sealed away in a quantum vault created by Rocket.
+During their efforts to outmaneuver Vala Kor, Quill and his team encounter a disillusioned member of the Nova Corps, Captain Rael, who aids them with inside knowledge.
+Their success leads to a newfound respect from Yondu and consideration of a lasting alliance with Captain Rael, hinting at possible future collaborations against systemic corruption.)
+LRRRE(Peter Quill decides to negotiate directly with Vala Kor, offering her information on more vulnerable targets in exchange for her temporary allegiance and the safety of his team.
+Vala Kor proposes an alliance to take down a mutual enemy and share the secrets of the orb's power, which leads to an unexpected turn in negotiations.
+The alliance results in an unprecedented battle against corrupt factions within the Nova Corps and the Kree radical sect, testing the new alliance and leading to an uneasy peace among affected interstellar communities.)
+LRLRE(Peter Quill decides to hand over the orb to the Nova Corps for safekeeping, trusting them over his own capability to destroy it.
+The Nova Corps' possession of the orb leads to heightened tensions across the galaxy, as various factions vie for their favor or plot to steal the orb.
+A rogue faction within the Nova Corps seeks to exploit the orb's power, forcing Quill and his team to navigate the murky waters of galactic politics and betrayal.)
+LLRE(Peter Quill decides to stay in prison and use the opportunity to negotiate with the Nova Corps.
+He convinces them of the orb's significance and the imminent threat posed by Ronan by leveraging knowledge only he possesses, as well as offering them a plan to safely handle the orb.
+The new state of Peter Quill is one of diplomacy and strategic alliance-building within the prison.) --> LLR
+LLR[[S: Peter Quill diplomatically engages the Nova Corps and other inmates, earning unexpected allies.
+G: To form a coalition strong enough to neutralize Ronan and protect Xandar.]] --> |Use orb as bait in a trap|LLRLE
+LLR --> |Directly attack Ronan with a stolen ship|LLRRE
+LLRLE(Utilizing his coalition, Quill orchestrates a plan where the orb is used as bait to lure Ronan into a trap.
+Quill's coalition, along with Gamora, Rocket, Groot, and Drax—who've decided to join the fight after realizing Quill's true intentions—work together from inside and outside the prison to disable Ronan's forces.
+Ultimately, Quill employs a cunning strategy to allow himself and his allies to use the orb's power to neutralize Ronan, saving Xandar and demonstrating the power of unity and strategic planning over sheer force.)
+LLRRE(Peter Quill decides to steal a ship and directly attack Ronan, relying on a surprise assault to defeat him.
+During the attack, Quill's leadership and decision-making are tested by heavily fortified defenses and a surprise counterattack by Ronan's elite forces.
+In a daring move, Peter Quill and his team manage to board Ronan's warship, with Quill devising a plan to use the orb's power to overload the warship's power core.)
+LLLRE(Peter Quill decides to hide the orb and evade Ronan indefinitely, embarking on a dangerous journey through the galaxy to find the safest place to conceal the powerful stone.
+The decision creates tension within the Guardians of the Galaxy, as not all members agree with Quill's strategy, fearing it only delays an inevitable confrontation with Ronan and endangers the galaxy further.
+In their quest, the Guardians encounter the Shadows, who seek the orb for their own protection, and a fragmented coalition of planets resisting Ronan, leading to an unlikely alliance and a high-stakes operation against Ronan.)

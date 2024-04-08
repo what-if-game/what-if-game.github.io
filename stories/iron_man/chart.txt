@@ -1,0 +1,136 @@
+S[[S: Tony Stark is a wealthy industrialist and genius inventor who runs Stark Industries.
+G: To demonstrate and promote the new 'Jericho' missile system in Afghanistan.]] --> |Travel to Afghanistan|LE
+S[[S: Tony Stark is a wealthy industrialist and genius inventor who runs Stark Industries.
+G: To demonstrate and promote the new 'Jericho' missile system in Afghanistan.]] --> |Send a team instead|RE
+LE(Tony Stark decides to go to Afghanistan for the Jericho missile demonstration.
+Tony is ambushed and critically wounded by terrorists, leading to his capture.
+Tony Stark finds himself imprisoned by the terrorist group the Ten Rings.) --> L
+L[[S: Tony Stark is imprisoned by the terrorist group the Ten Rings in Afghanistan.
+G: To escape captivity and prevent his weapons from being used for terror.]] --> |Build a suit of armor|LLE
+L --> |Sabotage the missile|LRE
+LLE(Tony Stark decides to build a suit of armor and a miniaturized arc reactor for escape and to fight against the terrorists.
+Tony and Yinsen use the components from missiles and extract Palladium to build the suit and reactor.
+Tony Stark escapes the cave after Yinsen sacrifices himself, leaving Tony with a new purpose.) --> LL
+LL[[S: Tony Stark returns home from captivity with a new perspective on his life and company.
+G: To reorient Stark Industries away from weapons manufacturing and to rectify the consequences of his company's actions.]] --> |Announce end of weapons manufacturing|LLLE
+LL --> |Control weapon distribution|LLRE
+LLLE(Tony Stark decides to announce Stark Industries will cease making weapons and focuses on developing a new, advanced suit.
+Stark builds an improved version of his suit and a more powerful arc reactor.
+Stark confronts and stops the Ten Rings in Afghanistan using his new suit.) --> LLL
+LLL[[S: Tony Stark has become a superpowered individual with the ability to confront global threats in his Iron Man suit.
+G: To stop Obadiah Stane from using Stark technology for personal gain and terror.]] --> |Confront Stane at Stark Industries|LLLLE
+LLL --> |Expose Stane's activities to the media|LLLRE
+LLLLE(Tony Stark decides to confront Stane, leading to a showdown at Stark Industries.
+Stark fights Stane but is over-matched without his new reactor to run his suit at full capacity.
+Tony Stark lures Stane atop the Stark Industries building, leading to Stane's defeat and death.)
+RE(Tony Stark decides to send a team to Afghanistan for the demonstration instead, staying in the US to work on other projects.
+While monitoring the demonstration from the US, Tony's team is ambushed. The team suffers casualties, and the Jericho missile is stolen by terrorists.
+Distraught by the loss and misuse of his inventions, Tony starts questioning the morality of his business, initiating a quest for redemption.) --> R
+R[[S: Tony Stark is questioning the morality of his business.
+G: To prevent the misuse of his inventions and contribute positively.]] --> |Develop non-lethal tech|RLE
+R --> |Enhance weapons' lethality|RRE
+RLE(Tony begins developing non-lethal technologies to disarm and counteract unauthorized Stark weapons, distancing himself from weapon manufacturing.
+He develops a prototype suit equipped with non-lethal countermeasures, designed for defense and disarmament missions.
+An investigative journalist contacts Tony, providing evidence that Stane has been secretly selling Stark weapons to both sides of conflicts, including the terrorists.) --> RL
+RL[[S: Tony discovers Stane's betrayal and the company's corruption.
+G: To stop the illegal arms trade and dismantle Stane's operations.]] --> |Destroy stolen weapons with suit|RLLE
+RL --> |Cooperate with government covertly|RLRE
+RLLE(Feeling betrayed and realizing the full extent of the company's corruption, Stark decides to use his new suit to destroy the stolen weapons and dismantle Stane's operations.
+Stark's actions lead to public and governmental scrutiny, but also inspire a movement against the illegal arms trade.
+Tony publicly confronts Stane, using evidence of his betrayal to expose him, while also combating Stane's hired mercenaries.) --> RLL
+RLL[[S: Tony Stark exposes Stane and fights against his mercenaries.
+G: To incapacitate Stane and commit to using his genius for global peace and innovation.]] --> |Incapacitate Stane and aim for peace|RLLLE
+RLL --> |Anonymously leak evidence and protect from shadows|RLLRE
+RLLLE(Utilizing his non-lethal technologies, Stark incapacitates Stane and hands him over to authorities, committing to use his genius for global peace and innovation.
+Stane dons a prototype armored suit powered by an illicit Stark reactor to fight Tony, leading to a high-tech showdown.
+Tony Stark's commitment to global peace and innovation is established, marking a new direction for him and his company.)
+RRE(Tony Stark decides to increase the lethality of their weapons.
+This decision solidifies contracts with nations seeking military superiority, triggers protests, and brings negative press from peace organizations.
+Tony is approached by an investigative journalist with evidence of Stane's illicit arms deals, implicating Stane in increasing weapon lethality without Tony's knowledge.) --> RR
+RR[[S: Tony discovers Stane's manipulation of weapon lethality and his illegal arms deals.
+G: To rectify the misuse of his inventions and confront the moral implications of his work.]] --> |Develop advanced interception suits|RRLE
+RR --> |Expose Stane's activities|RRRE
+RRLE(Tony Stark decides to take direct action by developing advanced, lethal suits and drones.
+His focus shifts to destroying weapons sold off the books and halting Stane's operations, facing new moral and ethical dilemmas.
+The conflict with Stane escalates, leading to an intense battle showcasing Stark's technology against Stane's modified armaments.) --> RRL
+RRL[[S: Tony faces Stane in an intense battle, utilizing his advanced lethal technology.
+G: To defeat Stane and prevent further misuse of Stark technology.]] --> |Outmaneuver Stane|RRLLE
+RRL --> |Deactivate all weapons|RRLRE
+RRLLE(Tony Stark leverages his technology to outmaneuver and defeat Stane.
+The battle showcases Stark's superiority in weapon design and strategic combat.
+Stane is defeated and the evidence of his crimes is presented to authorities; Stark reaffirms his commitment to leading in defense technology but remains wary of the moral implications.)
+RRRE(Tony Stark decides to publicly expose Obadiah Stane's illegal arms dealings using a press conference.
+Upon exposing Stane, Tony embarks on a global campaign to recover unauthorized Stark weapons, collaborating with law enforcement.
+Facing backlash and legal hurdles, Tony assembles a team of lawyers and whistleblowers to combat Stane's influence.) --> RRR
+RRR[[S: Tony Stark is committed to rectifying the wrongs done by Obadiah Stane and faces significant legal and ethical challenges.
+G: To realign Stark Industries with ethical practices and secure a conviction against Obadiah Stane.]] --> |Initiate changes and pursue legal action|RRRLE
+RRR --> |Dismantle weapons division, focus on new tech|RRRRE
+RRRLE(Tony Stark decides to initiate sweeping changes within Stark Industries and pursue legal action against Stane.
+Tony instigates the formation of an Ethics Review Board and the implementation of a transparent supply chain process.
+The public battle against Stane culminates in a high-stakes legal showdown, leading to Stane's conviction.)
+RRRRE(Tony Stark decides to announce the dissolution of the weapons manufacturing division of Stark Industries at a groundbreaking press conference, revealing his new vision for the company.
+The announcement sparks a mix of outrage, skepticism, and admiration, altering public perception and making Stark a controversial figure.
+Obadiah Stane orchestrates maneuvers to undermine Tony's authority, including a smear campaign to portray Stark as unstable.)
+RRLRE(Tony Stark decides to deactivate all Stark weapons remotely, including the ones on his and Stane's suits.
+The battlefield falls silent, leaving both combatants without lethal arsenal, Tony outmaneuvers Stane using intellect and physical training, leading to Stane's capture using non-lethal means.
+The world wakes up to a new reality where all Stark-built weapons are deactivated causing global unrest but sparking international dialogue on arms reduction.)
+RLRE(Tony Stark decides to work covertly with the government to take down Stane and his network.
+Under the guise of developing new military tech, Tony crafts specialized non-lethal gadgets for intelligence gathering and silently disarming Stane's illicit arms deals.
+Tony uses a sophisticated network of undercover operatives equipped with his non-lethal tech to uncover and dismantle Stane's operations from the inside.) --> RLR
+RLR[[S: Tony has infiltrated Stane's operations using undercover operatives.
+G: To capture Stane and end his illicit arms dealings without exposing his own identity.]] --> |Use EMP device|RLRLE
+RLR --> |Publicly confront Stane|RLRRE
+RLRLE(Tony Stark decides to use a specially designed EMP device to incapacitate Stane's latest weapons sale.
+Stane grows suspicious of Tony's intentions and escalates his arms dealing, unknowingly selling to undercovers.
+Using the EMP device, Tony captures Stane and hands him over to the authorities through his government liaisons.)
+RLRRE(Tony Stark decides to publicly reveal his identity as the mastermind behind specialized non-lethal gadgets and confronts Obadiah Stane in a high-profile press conference.
+The announcement divides public opinion, with some admiring Tony's courage and others critiquing him for jeopardizing national security.
+Stane denies the accusations, starting a media campaign to portray Tony as unstable, while Tony refines his non-lethal technology for proof-gathering.)
+RLLRE(Tony Stark decides to anonymously leak evidence of Stane's illegal arms dealings and his betrayal to both the authorities and the media.
+The evidence sparks a global investigation into Stane and the illicit arms trade, while Stark focuses on silently safeguarding the world against similar threats.
+Tony Stark transitions to operating as a silent guardian, utilizing technology to non-lethally neutralize threats worldwide and maintaining his anonymity.)
+LRE(Tony Stark decides to comply with building the Jericho missile but plans to sabotage it.
+Stark secretly designs a flaw in the missile that would cause it to malfunction upon activation.
+Tony works on the missile while also secretly building a small, concealable device capable of remotely deactivating any missile they build.) --> LR
+LR[[S: Tony Stark has secretly built a device capable of deactivating the Jericho missile.
+G: To use the device to prevent the Jericho missile's successful demonstration.]] --> |Deactivate the missile|LRLE
+LR --> |Keep the device hidden|LRRE
+LRLE(Tony Stark decides to deactivate the missile during the Ten Rings' demonstration.
+Tony uses his hidden device to deactivate the missile at the last moment, causing it to fail spectacularly in front of the Ten Rings and their potential buyers.
+Yinsen sacrifices himself to create a diversion, allowing Tony to escape.) --> LRL
+LRL[[S: Tony Stark escapes captivity and is deeply affected by Yinsen's sacrifice.
+G: To redirect Stark Industries away from weapons manufacturing and prevent misuse of his creations.]] --> |Develop global security tech|LRLLE
+LRL --> |Confront Obadiah directly|LRLRE
+LRLLE(Tony Stark decides to work on a new project developing advanced technology for global security.
+Stark begins working on a new, non-lethal defense suit in secret.
+Tony's actions provoke Obadiah Stane, leading to a showdown where Stark uses his new defense suit to stop Stane.)
+LRRE(Tony Stark decides to secretly work on technology that can neutralize the weapons he has created.
+The successful demonstration of the Jericho missile elevates the Ten Rings' status and attracts high-profile buyers, which boosts Stark Industries' stock but places global security in jeopardy.
+Tony Stark is motivated by deep remorse and begins developing advanced tech to dismantle the network of violence.) --> LRR
+LRR[[S: Tony Stark is determined to combat the misuse of his inventions and dismantle the network of violence.
+G: To neutralize the weapons supplied to the Ten Rings and other hostile entities using non-lethal methods.]] --> |Develop Advanced Suit|LRRLE
+LRR --> |Collaborate with Peace Organizations|LRRRE
+LRRLE(Tony Stark decides to develop an advanced suit with electronic warfare capabilities, capable of disabling Stark-made weapons remotely.
+Tensions escalate globally due to the widespread distribution of the Jericho missiles, leading to a new faction targeting Stark Industries for worldwide dominance.
+Tony Stark uses his new defense suit in a climactic confrontation, dismantling the network set up by the new faction and marking a new era focused on global peace.)
+LRRRE(Tony Stark decides to partner with leading international peace organizations for a global disarmament initiative.
+Tony reveals his remote deactivation technology, aiming to neutralize all Stark-made weapons worldwide.
+The initiative leads to a significant reduction in global tension, but a powerful faction emerges, challenging Stark Industries and accusing it of undermining national sovereignties.)
+LRLRE(Tony Stark decides to confront Obadiah Stane directly about the company's focus in a boardroom meeting
+The confrontation leads to a heated debate in front of all board members, with Tony publicly questioning the morality and future of the company
+Tony's bold move creates a divide within the company, pitting supporters of his vision against backers of Stane and the weapons trade)
+LLRE(Tony Stark decides to keep his company's focus on weapons but vows to closely monitor and control where the weapons go.
+Stark Industries faces public backlash for continuing weapon production, leading Tony to launch an initiative where part of the profits from weapon sales are used for global humanitarian efforts, gaining a mixed reaction internationally.
+Tony encounters resistance within his own company, as a faction led by a high-ranking executive, Lucas Dowling, opposes the new oversight and humanitarian efforts, fearing it will weaken Stark Industries' market position.) --> LLR
+LLR[[S: Tony faces internal opposition and external backlash despite his efforts to control weapon distribution and use profits for good.
+G: To eradicate the illegal distribution of his weapons and regain control over Stark Industries.]] --> |Team up with Black Widow|LLRLE
+LLR --> |Expose Dowling publicly|LLRRE
+LLRLE(Tony Stark decides to team up with Black Widow to dismantle Dowling's illegal arms network.
+While implementing the strict new controls, Tony uncovers a covert operation where Stark weapons are being sold to unauthorized militants by Dowling, who believes in profiting at any cost.
+The confrontation with Dowling culminates in a high-stakes showdown at a secret manufacturing facility. Tony's advanced technology alongside Black Widow's espionage skills prevails.)
+LLRRE(Tony Stark decides to publicly expose Lucas Dowling's illegal activities through a daring press conference
+Dowling's immediate dismissal and facing criminal charges follow the exposure
+Tony Stark faces a dual challenge: legal investigations into Stark Industries and severe public backlash)
+LLLRE(Tony Stark decides to meticulously collect incriminating evidence against Stane, leveraging his Iron Man suit for stealth and security.
+Stark collaborates with Pepper Potts and James Rhodes to gather concrete proof of Stane's wrongdoings, including illegal arms deals and embezzlement.
+Once enough evidence is accumulated, Stark strategically releases the information to law enforcement and the press, trapping Stane in a pincer movement of legal and public reprisal.)

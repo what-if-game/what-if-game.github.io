@@ -1,0 +1,136 @@
+S[[S: Thor is on Asgard, about to be crowned as king.
+G: To assert his strength and leadership, especially against the Frost Giants.]] --> |Lead an attack on Jotunheim|LE
+S[[S: Thor is on Asgard, about to be crowned as king.
+G: To assert his strength and leadership, especially against the Frost Giants.]] --> |Consult Odin on the intrusion|RE
+LE(Thor decides to lead an unauthorized attack on Jotunheim.
+Thor and his friends fight the Frost Giants, sparking a potential war.
+Odin intervenes and rescues Thor and his friends, expressing his disappointment and anger.) --> L
+L[[S: Thor is banished to Earth, stripped of his powers.
+G: To retrieve his hammer Mjolnir and return to Asgard.]] --> |Break into S.H.I.E.L.D. compound|LLE
+L --> |Learn about Earth and its people|LRE
+LLE(Thor decides to break into the S.H.I.E.L.D. compound to retrieve Mjolnir.
+Thor realizes he cannot lift Mjolnir and is captured.
+Thor learns humility and the value of self-sacrifice during his time on Earth.) --> LL
+LL[[S: Thor is on Earth, powerless, with the Destroyer sent by Loki.
+G: To protect the inhabitants of Earth and stop the Destroyer.]] --> |Confront the Destroyer|LLLE
+LL --> |Devise a plan with Jane|LLRE
+LLLE(Thor decides to confront the Destroyer, offering his life for the safety of his friends.
+Thor's selfless act makes him worthy of Mjolnir once again.
+Thor regains his powers and defeats the Destroyer.) --> LLL
+LLL[[S: Thor returns to Asgard, determined to stop Loki's plan.
+G: To prevent Loki from destroying Jotunheim and mend their relationship.]] --> |Destroy the Bifrost|LLLLE
+LLL --> |Reason with Loki|LLLRE
+LLLLE(Thor decides to destroy the Bifrost to stop Loki's destruction of Jotunheim.
+Thor and Loki have a final confrontation, resulting in Loki's apparent death.
+Thor saves Jotunheim but is stranded from Earth, leaving him unable to return to Jane.)
+RE(Thor decides to consult Odin about the Frost Giants' intrusion.
+Odin and Thor, alongside a diplomatic envoy, travel to Jotunheim to negotiate peace and investigate the cause of the intrusion.
+Thor is now in Jotunheim, attempting to negotiate peace.) --> R
+R[[S: Thor is now in Jotunheim, attempting to negotiate peace.
+G: To support the current Jotunheim king against the internal rebellion in exchange for peace.]] --> |Secretly aid the Jotunheim king|RLE
+R --> |Publicly support the Jotunheim king|RRE
+RLE(Thor decides to secretly help the Jotunheim king with the internal rebellion.
+During the negotiations, it's revealed that a faction within Jotunheim, opposed to the current king, orchestrated the intrusion.
+Thor is working on quelling the internal rebellion while learning diplomacy.) --> RL
+RL[[S: Thor is working on quelling the internal rebellion while learning diplomacy.
+G: To manage the surprise attack without escalating the conflict.]] --> |Negotiate a truce|RLLE
+RL --> |Retaliate with force|RLRE
+RLLE(Thor decides to negotiate a truce during the surprise attack by the rebel Frost Giants.
+The diplomatic mission faces a setback when the rebel Frost Giants launch a surprise attack.
+Thor's diplomacy is tested but he manages to convince the rebels of the benefits of peace.) --> RLL
+RLL[[S: Thor's diplomacy is tested but he manages to convince the rebels of the benefits of peace.
+G: To cement peace between Asgard and Jotunheim and resolve conflict with Loki.]] --> |Expose Loki's deceptions|RLLLE
+RLL --> |Confront Loki directly|RLLRE
+RLLLE(Thor decides to expose Loki's manipulations and reason with him.
+Loki uses the chaos of the rebellion to attempt to discredit Thor.
+Thor's actions strengthen the unity between Asgard and Jotunheim, earning him respect as a leader.)
+RRE(Thor decides to publicly support the Jotunheim king against the internal rebellion, announcing his stance in a grand assembly within Jotunheim.
+Odin warns Thor of the potential for open conflict between Asgard and the rebels, highlighting the thin line between support and invasion.
+The Frost Giants are divided; reactions vary from viewing Thor's help as a chance for peace to seeing it as Asgardian overreach.) --> RR
+RR[[S: The Frost Giants are divided with escalating tensions.
+G: To successfully navigate the escalating tensions and secure a peaceful resolution.]] --> |Initiate peace talks|RRLE
+RR --> |Lead military support|RRRE
+RRLE(Thor, learning from earlier diplomatic setbacks, leverages a proposal from a third faction of Frost Giants to initiate peace talks, offering a neutral ground in Asgard for the negotiations.
+During the peace talks, Thor and the Jotunheim king uncover and thwart sabotage attempts from extremist rebels.
+The summit leads to a historic treaty between Jotunheim factions and a renewed alliance with Asgard.) --> RRL
+RRL[[S: A historic treaty has been signed, signaling the end of the conflict.
+G: To solidify the achieved peace and strengthen the alliances.]] --> |Solidify alliances|RRLLE
+RRL --> |Prepare for future conflicts|RRLRE
+RRLLE(Thor decides to utilize the peace treaty as a foundation for a renewed alliance between Asgard and Jotunheim, establishing himself as a diplomatic force.
+The successful conclusion of the summit and the thwarting of sabotage attempts demonstrate the need for unity against external threats.
+Thor emerges as a defender of peace, successfully undermining Loki's manipulative efforts and securing a stable alliance.)
+RRRE(Thor decides to escalate Asgard's military involvement in Jotunheim
+Thor leads Asgardian forces into Jotunheim, causing significant damage and civilian disruption
+The military action strains Asgard's relationships and increases diplomatic tensions) --> RRR
+RRR[[S: Jotunheim is destabilized with increased hostility towards Asgard
+G: To rebuild trust with Jotunheim and establish a lasting peace]] --> |Initiate reconstruction and dialogue|RRRLE
+RRR --> |Fortify Asgard's defenses|RRRRE
+RRRLE(Thor decides to initiate reconstruction efforts and dialogue for shared governance
+Thor seeks out leaders from various factions within Jotunheim for dialogue
+A fragile but enduring peace begins to take shape in Jotunheim)
+RRRRE(Thor decides to withdraw Asgard's involvement in Jotunheim, focusing instead on fortifying Asgard's defenses.
+Thor's decision leaves a power vacuum in Jotunheim, leading to new alliances among the Nine Realms, with some offering aid to Jotunheim and others forming pacts against Asgard.
+Faced with the need to rejuvenate ancient barriers, Thor seeks out lost artifacts and the assistance of Asgard's most skilled magicians, turning the endeavor into a unifying mission for Asgard's people.)
+RRLRE(Thor decides to remain vigilant and prepares Asgard for potential future conflicts, focusing on strengthening Asgard's defenses and forging alliances with other realms.
+To counterbalance potential critiques of isolationism, Thor initiates a series of diplomatic missions aimed at showcasing Asgard's commitment to peace through strength.
+Thor, aware of Loki's schemes, counters by openly discussing his strategies with the council of allied realms, promoting transparency, and reinforcing the shared commitment to peace, which strengthens trust and bonds between Asgard and its allies.)
+RLRE(Thor decides to retaliate against the rebel Frost Giants with force.
+The fierce battle deeply scars Jotunheim, causing widespread destruction and weakening the realm’s infrastructure.
+Odin is disappointed in Thor's impulsiveness, fearing it could lead to a larger conflict between realms.) --> RLR
+RLR[[S: Thor is aware of the consequences of his impulsiveness
+G: To prove his worth and restore peace]] --> |Gather a loyal force|RLRLE
+RLR --> |Confront Loki|RLRRE
+RLRLE(Thor decides to gather a small force loyal to him to prove his worth.
+He launches a covert operation to reveal Loki’s manipulations and restore peace by showing the commonfolk of Jotunheim and Asgard the damage caused by endless conflict.
+Thor, after a journey of self-discovery and guidance from unexpected allies, learns the value of diplomacy over warfare.)
+RLRRE(Thor decides to confront Loki directly in Asgard instead of gathering a covert force
+Loki turns the public narrative against Thor, painting him as a warmonger
+Thor seeks the wisdom of the Norns and embarks on a journey to rally support and obtain proof of Loki's deceit)
+RLLRE(Thor decides to confront Loki aggressively, leading to an escalated conflict.
+Thor's rash decision shocks both the Asgardians and the Jotuns, casting doubt on his leadership and diplomatic abilities.
+The tentative peace in Jotunheim is shattered, as both realms perceive Thor's behavior as a reflection of Asgard's official stance.)
+LRE(Thor decides to patiently learn about Earth and its people as a means to prove his worthiness.
+Thor volunteers at a local community center, learning about human struggles, compassion, and resilience.
+Thor begins understanding the value of diplomacy and teamwork, fundamentally viewing conflicts and resolutions differently.) --> LR
+LR[[S: Thor has gained a new understanding of Earth and its values.
+G: To protect the local community from a powerful creature without his powers.]] --> |Rally and strategize|LRLE
+LR --> |Seek Asgardian help|LRRE
+LRLE(Thor decides to rally the people and strategize a plan to safeguard the community.
+Through leadership and innovative use of Earth's resources, Thor shows the power of unity and resourcefulness.
+News of Thor's acts of heroism spreads, making him a beloved figure in the community.) --> LRL
+LRL[[S: Thor has become a community hero and embraced the values of Earth.
+G: To use his newfound wisdom and alliances to prevent Loki's plan and foster peace.]] --> |Devise a Peaceful Solution|LRLLE
+LRL --> |Confront Loki Directly|LRLRE
+LRLLE(Thor decides to use his newfound wisdom and alliances to devise a peaceful solution to Loki's plan.
+Seeing Earth's potential for good, Thor inspires a collaborative effort between Earthlings and his Asgardian friends.
+Thor's actions and transformation make him worthy of Mjolnir once again, choosing to remain a bridge between Earth and Asgard.)
+LRRE(Thor decides to seek assistance from Asgard by using ancient Asgardian lore
+Using knowledge from Odin, Thor activates a portal to Asgard and retrieves the Eternal Flames
+Thor summons an ensemble of Asgardian spirits, including ancient warriors, to Earth) --> LRR
+LRR[[S: Thor and the summoned Asgardian spirits are on Earth
+G: To integrate Asgardian wisdom with human forces in confronting the threat]] --> |Foster cooperation|LRRLE
+LRR --> |Lead a solo mission|LRRRE
+LRRLE(Thor decides to foster cooperation between Asgardian spirits and the local community
+Thor introduces the Asgardian spirits to the community and explains their purpose
+The combined forces of Asgardian spirits and Earth's residents resolve the threat)
+LRRRE(Thor decides to lead the Asgardian spirits in a solo mission to combat the looming threat, utilizing their combined might and ancient strategies to minimize human involvement and protect them from potential harm.
+Thor and the spirits encounter unexpected challenges due to a lack of human insight and understanding of Earth's terrain and the subtleties of the conflict.
+Thor learns the importance of vulnerability, trust, and unity; he begins integrating human strategies and seeking counsel from humans and spirits, leading to a new form of collaboration.)
+LRLRE(Thor decides to confront Loki directly, relying on his combat skills.
+A fierce battle ensues between Thor and Loki, showcasing their lifelong rivalry and differing ideologies.
+Thor, realizing the collateral damage, innovates to minimize harm while still aiming to subdue Loki.)
+LLRE(Thor decides to devise a plan with Jane and the scientists to disable the Destroyer using their technology.
+In collaboration with Jane's team, Thor learns to appreciate human ingenuity and develops a deeper understanding of the value of mortal perspectives and resourcefulness, this collaboration leads to the creation of a device capable of neutralizing the Destroyer's power source temporarily.
+Using the device, Thor and the team confront the Destroyer. In the midst of a tense battle, the device is successfully activated, rendering the Destroyer inert and showing that intellect and unity can prevail over brute strength.) --> LLR
+LLR[[S: The Destroyer is rendered inert, and Thor's approach to conflict resolution has evolved
+G: To resolve the situation with Loki and the Bifrost, maintaining peace]] --> |Reason with Loki|LLRLE
+LLR --> |Force Loki's removal|LLRRE
+LLRLE(Thor decides to confront Loki not with the intention to fight but to reason, offering a chance for redemption and understanding.
+Thor's changed approach alters the dynamics between him and his brother, leading to a resolution that does not involve the destruction of the Bifrost.
+This allows Thor to maintain the connection between Asgard and Earth, fostering a deeper alliance between the realms and setting the groundwork for future cooperation against universal threats.)
+LLRRE(Thor decides to leverage his reinstated powers to forcefully remove Loki from power, leading to a violent but decisive confrontation.
+The clash between the brothers is monumental, causing destruction in parts of Asgard. Thor emerges victorious.
+Thor faces the challenge of rebuilding Asgard and mending his relationships, realizing the damage done to both the realm and their familial bond.)
+LLLRE(Thor decides to use diplomacy and reasoning with Loki, appealing to him as a brother.
+Moved by Thor's genuine effort, Loki hesitates in his plan, revealing his insecurities about his place in Asgard.
+Thor and Loki propose a new plan to Odin, mending the rift between Asgard and Jotunheim and starting reparations.)

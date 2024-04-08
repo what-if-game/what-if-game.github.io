@@ -1,0 +1,137 @@
+S[[S: Scott Lang is a well-meaning thief who is unable to maintain employment due to his criminal record.
+G: To provide for his daughter and gain visitation rights.]] --> |Join Luis' crew|LE
+S[[S: Scott Lang is a well-meaning thief who is unable to maintain employment due to his criminal record.
+G: To provide for his daughter and gain visitation rights.]] --> |Seek legal employment|RE
+LE(Scott Lang decides to join Luis' crew and commit a burglary.
+Lang breaks into a house and cracks its safe, stealing what he believes to be an old motorcycle suit.
+Scott Lang is caught and arrested after trying to return the suit.) --> L
+L[[S: Scott Lang is in jail for the burglary.
+G: To escape jail and avoid further damaging his record.]] --> |Use Ant-Man suit to escape|LLE
+L --> |Wait for a lawyer|LRE
+LLE(Scott Lang decides to wear the Ant-Man suit to break out of jail.
+Lang successfully escapes jail with the help of Pym's ant control technology.
+Lang meets with Hank Pym, learning about the suit's technology and the mission to stop Darren Cross.) --> LL
+LL[[S: Scott Lang understands the potential of the Ant-Man technology and the threat posed by Darren Cross.
+G: To prevent the Yellowjacket technology from being weaponized.]] --> |Accept Pym's mission|LLLE
+LL --> |Walk away from the mission|LLRE
+LLLE(Scott Lang decides to accept Pym's mission to become the new Ant-Man and infiltrate Pym Technologies.
+Lang trains under Pym and Hope, learning to control ants and the suit's technology.
+Lang successfully infiltrates Pym Technologies and sabotages the servers and plants explosives.) --> LLL
+LLL[[S: Scott Lang is committed to stopping Darren Cross and has infiltrated Pym Technologies.
+G: To defeat Darren Cross and safely return from the quantum realm if necessary.]] --> |Fight Darren Cross|LLLLE
+LLL --> |Find another way|LLLRE
+LLLLE(Scott Lang decides to fight Darren Cross, even if it means shrinking to subatomic size to sabotage the Yellowjacket suit.
+Lang successfully sabotages the Yellowjacket suit, causing it to shrink uncontrollably and defeat Cross.
+Lang risks his life by shrinking to a subatomic level and manages to revert back, sparking new possibilities about the quantum realm.)
+RE(Scott Lang decides to seek legal employment despite his criminal record.
+Lang lands a low-level job at a security firm, thanks to his engineering background and his unique perspective on security, from his past criminal activities.
+Scott Lang starts working on upgrading security systems for various clients.) --> R
+R[[S: Scott Lang is employed at a security firm and working on various projects.
+G: To prove himself valuable as an employee while seeking opportunities for personal and professional growth.]] --> |Use the Ant-Man suit|RLE
+R --> |Report the suit discovery|RRE
+RLE(Scott Lang decides to utilize the Ant-Man suit after discovering it during a project at Pym Technologies.
+Hank Pym observes Lang's interaction with the suit and decides to approach him, seeing potential in Lang's good heart and technical skills.
+Scott Lang agrees to help Pym in stopping Darren Cross.) --> RL
+RL[[S: Scott Lang has aligned with Hank Pym and is aware of the threat posed by Darren Cross.
+G: To stop Darren Cross legally, leveraging his position within the security firm without compromising his cover or resorting to criminal methods.]] --> |Gather incriminating evidence|RLLE
+RL --> |Confront Darren Cross directly|RLRE
+RLLE(Scott Lang decides to gather incriminating evidence against Darren Cross, aiming for a legal takedown.
+Using his new skills and the Ant-Man suit, Lang manages to legally sabotage Cross’ plans while maintaining his cover at the security firm.
+As Cross becomes desperate and uses the Yellowjacket suit himself, Lang realizes legal routes are not sufficient.) --> RLL
+RLL[[S: Scott Lang understands that legal means alone are not sufficient to stop Darren Cross.
+G: To confront Darren Cross directly and prevent him from weaponizing and selling the Yellowjacket technology.]] --> |Confront Cross directly|RLLLE
+RLL --> |Seek help from law enforcement and heroes|RLLRE
+RLLLE(Scott Lang decides to physically confront Cross using the Ant-Man suit.
+During the confrontation, Lang is forced to shrink to a subatomic size to dismantle the Yellowjacket suit from within, risking his life.
+Lang successfully reverts back from the subatomic level, preventing a disaster and exploring new possibilities of the quantum realm.)
+RRE(Scott Lang decides to report the discovery of the Ant-Man suit to his superiors, avoiding direct involvement.
+Pym Technologies, under Darren Cross, looks to repurpose the suit for military applications, straining relationships.
+Feeling betrayed, Hank Pym secretly approaches Scott Lang, offering a chance to work together under the radar.) --> RR
+RR[[S: Scott Lang is approached by Hank Pym to work secretly against Darren Cross.
+G: To stop Darren Cross's plans without using the Ant-Man suit directly]] --> |Gather information discreetly|RRLE
+RR --> |Confront Darren Cross directly|RRRE
+RRLE(Scott Lang decides to leverage his position and expertise to discreetly gather information on Darren Cross's plans.
+Lang uses his knowledge to sabotage Cross's efforts from within, causing delays and malfunctions.
+As Cross tightens security due to internal sabotage, the company faces harsh conditions and moral dilemmas.) --> RRL
+RRL[[S: Scott Lang has successfully disrupted Darren Cross's plans internally.
+G: To expose and stop Darren Cross's illegal activities definitively]] --> |Enlist former colleagues|RRLLE
+RRL --> |Leak information to media|RRLRE
+RRLLE(Scott Lang decides to enlist the help of his former colleagues to gather crucial evidence against Darren Cross.
+Using the evidence, Lang and Pym expose Cross to the authorities, leading to his arrest and the project shutdown.
+Story culminates in Scott Lang securing a position at Pym Technologies under Hank Pym, dedicated to positive use of the suit.)
+RRRE(Scott Lang decides to confront Darren Cross directly, risking exposure and immediate conflict.
+Cross underestimates Lang's awareness and resolve, accelerating his military plans for the Ant-Man suit.
+Lang realizes the need for a more robust approach to dismantle Cross's operations.) --> RRR
+RRR[[S: Lang realizes confrontation requires a robust strategy
+G: To effectively dismantle Cross's operations with a focused team]] --> |Rally colleagues for team effort|RRRLE
+RRR --> |Infiltrate Pym Technologies alone|RRRRE
+RRRLE(Scott Lang decides to rally his former colleagues earlier for a tight-knit team effort against Cross.
+Together, they face heightened security at Pym Technologies and a personal vendetta from Cross.
+Their direct confrontation and actions against Cross lead to public attention and legal scrutiny.)
+RRRRE(Scott Lang decides to infiltrate Pym Technologies alone, using stealth to avoid confrontation.
+During his solo mission, Lang demonstrates exceptional problem-solving skills by navigating through state-of-the-art security systems and utilizing improvised gadgets.
+This solitary infiltration allows him to access confidential information and reveals the existence of allies within Pym Technologies, sympathetic to his cause.)
+RRLRE(Scott Lang decides to anonymously leak information about Darren Cross's plans to the media.
+The leak sparks public outrage and prompts a governmental investigation into Pym Technologies.
+The media frenzy and scrutiny bring increased attention to the company, complicating Scott Lang's position but initiating Darren Cross's eventual downfall.)
+RLRE(Scott Lang decides to resign from his security firm job and confront Darren Cross directly using the Ant-Man suit
+Darren Cross accelerates the deployment of the Yellowjacket suit and ambushes Lang during a reconnaissance mission
+Scott Lang is now fully committed to stopping Darren Cross and the Yellowjacket suit in a more direct confrontation) --> RLR
+RLR[[S: Scott Lang is fully committed to stopping Darren Cross
+G: To neutralize the Yellowjacket suit without killing Darren Cross]] --> |Trap Cross in quantum realm|RLRLE
+RLR --> |Disable Yellowjacket conventionally|RLRRE
+RLRLE(Scott Lang decides to use a prototype quantum tunnel device to trap Cross in the quantum realm
+Lang and Cross battle fiercely, with Lang using his training and gadgets to outmaneuver Cross, successfully attaching a modified Pym Particle disc to the suit
+Scott Lang enters the quantum realm himself to save Cross, successfully bringing both back to the macroscopic world, opening new avenues for exploring the quantum realm)
+RLRRE(Scott Lang decides to devise an intricate plan using electronic warfare and direct sabotage.
+Following the successful apprehension of Darren Cross, Scott's innovation is praised by Hank Pym, albeit with a hint of disappointment for not exploring the quantum realm.
+As Scott's actions gain public attention, he becomes respected within his firm and community, but also a target for forces after the Pym Particle technology.)
+RLLRE(Scott Lang decides to seek help from law enforcement and other superheroes to deal with Cross.
+Lang leverages his firsthand knowledge of Cross’ plans, uses the Ant-Man suit to demonstrate the threat level, and shares incriminating evidence against Cross.
+Law enforcement agrees to a discreet operation while superheroes decide to lend their unique abilities, altering the approach to deal with Cross.)
+LRE(Scott Lang decides to wait for legal representation instead of breaking out of jail using the Ant-Man suit.
+While in jail, Lang attends a rehabilitation program and meets a reformed thief turned tech consultant who introduces him to Hank Pym.
+Hank Pym, intrigued by Lang's skills and redemption attempts, meets him offering a job to stop Darren Cross.) --> LR
+LR[[S: Scott Lang meets Hank Pym and is offered a mission to stop Darren Cross.
+G: To stop Darren Cross without breaking the law or violating his parole.]] --> |Accept Pym's offer legally|LRLE
+LR --> |Decline Pym's offer|LRRE
+LRLE(Scott Lang decides to accept Pym's offer in a legal manner, focusing on using his intellect and skills without the Ant-Man suit.
+Lang, Pym, and Hope plan to legally expose Cross's dangerous experiments by gathering evidence and hacking Pym Technologies' servers.
+The team successfully exposes Cross, but he activates the Yellowjacket suit, threatening the city.) --> LRL
+LRL[[S: Darren Cross becomes a threat to the city with the Yellowjacket suit.
+G: To stop Darren Cross and ensure the safety of the city.]] --> |Don the Ant-Man suit|LRLLE
+LRL --> |Stop Cross without the suit|LRLRE
+LRLLE(Scott Lang convinces Pym to let him use the Ant-Man suit, promising to return to custody if necessary.
+Lang, now as Ant-Man, confronts Cross and manages to disable the Yellowjacket suit without going subatomic.
+After ensuring Cross’s defeat, Lang voluntarily returns to custody, earning public and legal recognition and eventually a sentence reduction.)
+LRRE(Scott Lang decides to collaborate with his former contacts in the tech world to legally gather evidence against Cross.
+Lang teams up with a skilled hacker and an investigative journalist to plan the legal exposure of Cross's illicit activities.
+As a result, they began closely monitoring Cross's actions through legal hacks and surveillance.) --> LRR
+LRR[[S: Lang and his team are closely monitoring Cross's actions and gathering evidence.
+G: To leak the evidence to the public and authorities, thereby stopping Cross.]] --> |Leak evidence publicly|LRRLE
+LRR --> |Tip off authorities anonymously|LRRRE
+LRRLE(Scott Lang decides to use high-tech equipment and legal hacking to leak documents and videos, publicly exposing Cross.
+The leaked evidence leads to widespread outrage and prompts an official investigation into Cross's experiments.
+Cross is arrested and his dangerous operations are dismantled, with Lang earning a reduced sentence due to his anonymous role in the exposure.)
+LRRRE(Scott Lang decides to anonymously tip the authorities about Darren Cross's dangerous experiments and operations.
+Lang collaborates with a hacker acquaintance to send an untraceable digital drop of evidence to authorities, ensuring the tip is taken seriously.
+The investigation into Cross unfolds quietly, straining relationships within Lang's team and leading to increased security measures by Cross.)
+LRLRE(Scott Lang decides to find another way to stop Cross without using the Ant-Man suit, leading to a different strategy involving the authorities.
+Lang collaborates with the authorities and his team to set up surveillance and hacking operations to gather evidence of Cross's dangerous experiments.
+With solid evidence, Lang and the authorities organize a sting operation, and when Cross attempts escape using the Yellowjacket suit, they neutralize it using non-lethal means, leading to his arrest.)
+LLRE(Scott Lang decides to walk away from Hank Pym's mission and return the Ant-Man suit.
+Without the Ant-Man suit and alienated from Hank and Hope, Scott faces financial hardships and struggles to find a stable job.
+His determination to provide a safer life for Cassie pushes him to pursue an education in electrical engineering.) --> LLR
+LLR[[S: Scott Lang has begun to make a new life by pursuing an education, but he's aware of Darren Cross's dangerous actions.
+G: To make amends for not stopping Cross sooner and protect the world from the Yellowjacket technology.]] --> |Work covertly with whistleblowers|LLRLE
+LLR --> |Directly confront Darren Cross|LLRRE
+LLRLE(Scott Lang decides to work covertly with whistleblowers within Pym Technologies to expose Cross's illegal dealings.
+Scott's efforts with the whistleblowers lead to a significant breakthrough, exposing Cross's sales to dangerous factions on an international news platform.
+The public backlash is swift, putting Cross's operations under government scrutiny and leading to his arrest, but the technology's blueprints leak online.)
+LLRRE(Scott Lang decides to directly confront Darren Cross by breaking into Cross Technologies to destroy the Yellowjacket prototypes and erase all related data.
+Lang's decision brings him back into alliance with Hank Pym and Hope van Dyne, who provide tactical support and technological assistance.
+The assault attracts media attention and a rival tech company attempts to steal the Yellowjacket blueprints, leading to an intense battle.
+With the help of new allies, Lang secures the blueprints and entrusts them to Hank Pym for safekeeping. Darren Cross is arrested, and Lang navigates legal repercussions with public support and a skilled legal team funded by Pym.)
+LLLRE(Scott Lang decides to seek another way to defeat Darren Cross without risking a journey to the quantum realm, which could involve teaming up more closely with the Avengers.
+Teaming up with the Avengers, Lang and the team devise a plan to use a combination of Stark's tech innovations and a distraction operation led by Captain America to infiltrate Cross Technologies undetected.
+With the help of the ants controlled by Pym's technology, Lang successfully plants the EMP device, rendering the Yellowjacket suit powerless and trapping Cross.)

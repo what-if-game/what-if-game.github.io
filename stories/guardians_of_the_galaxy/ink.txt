@@ -1,0 +1,284 @@
+-> S
+== S ==
+After a daring journey through the cosmos, you find yourself on the rain-drenched, largely abandoned planet of Morag. It's eerily quiet, save for the occasional sound of distant creatures or the rumble of thunder. Ignoring the discomfort, you press onwards, your goal clear in your mind.
+
+You navigate through the dilapidated ruins and treacherous terrain, guided by the dim light of your torch and the treasure map grasped firmly in your hand. The thrill of adventure and the promise of untold riches fuel your determination, undeterred by the looming threats that lie in the shadows.
+
+Finally, you arrive at the hidden chamber housing the ancient and valuable orb. The sight of it sends a surge of excitement through you. This is it, the moment you've been waiting for. The orb, glowing softly under the dust of ages, represents not just wealth but the culmination of your daring quest on Morag.
++ [Steal the orb] -> L
++ [Wait for Yondu] -> R
+== L ==
+In a moment of audacious ambition, you decide to steal the orb, fully aware of the risks involved. It's a priceless artifact, shrouded in mystery and coveted by powers you're only beginning to understand.
+
+Your theft does not go unnoticed. Korath, a formidable adversary, intercepts you. Despite the danger, you manage to escape with the orb, relying on your wits and agility. The chase is exhilarating, a reminder of why you chose this life among the stars.
+
+However, your actions have consequences. You soon become a target for bounty hunters and space pirates, each more ruthless than the last. Your name spreads across the galaxy, not as a hero or adventurer, but as prey. With the orb in your possession, the stakes are higher than ever.
+
+Now, with the orb still in your grasp and the galaxy's most dangerous individuals on your tail, you're faced with a critical decision. You need to sell the orb on Xandar to not only rid yourself of the burden but also to escape your pursuers. Xandar offers a slim chance at safety, but the journey there is fraught with peril.
++ [Try to sell the orb on Xandar] -> LL
++ [Negotiate with Yondu for protection] -> LR
+== LL ==
+Hoping to cash in on a mysterious orb you've recently acquired, you make your way to Xandar, intent on finding a buyer. However, your plans are rudely interrupted when Gamora, a well-known assassin, ambushes you, hungry for the orb herself. The skirmish quickly draws the attention of Rocket and Groot, two bounty hunters with their own agenda, causing chaos in the public square.
+
+As the fight escalates, the Nova Corps, Xandar’s official military and police force, swoops in. Amidst the mayhem, you, Gamora, Rocket, and Groot are all arrested, shackled, and taken away. The prospect of selling the orb has vanished like a shadow, replaced now by cold, hard restraints.
+
+The reality of your situation sinks in. You're behind bars, far from the free-wheeling space adventurer life you're used to. With the orb now a ticking time bomb and Ronan’s interest in it a bad omen, you know you can't afford to sit tight. You need to escape from this prison and make sure that orb doesn't end up in Ronan's destructive hands.
++ [Plan a daring prison escape] -> LLL
++ [Negotiate with the Nova Corps] -> LLR
+== LLL ==
+In a daring move, you decide to team up with an unlikely crew: Gamora, Rocket, Groot, and Drax. Together, you plot an audacious escape from the clutches of the high-security space prison known as the Kyln, where each of you has been unjustly held. The synergy between your unique skills turns out to be more effective than you could have hoped, leading to a successful breakout.
+
+With freedom just within reach, you race to retrieve your ship, the Milano, hidden not far from the Kyln. Your heart pounds as you ignite the engines, the sounds of pursuit fading into the distance behind you. The Milano, with its familiar controls and chambers, welcomes you and your new companions as you navigate through the stars towards your next destination.
+
+The team heads to Knowhere, a lawless planetary outpost in the far reaches of space, known as a haven for all manner of scum and villainy. It's here you plan to find a buyer for the orb—a mysterious relic you've acquired that holds unimaginable power. The goal is clear: sell the orb and prevent it from being used to destroy planets.
+
+As you approach Knowhere, you're torn between the urge to confront Ronan to protect Xandar and the galaxy, and the option to hide the orb and evade Ronan indefinitely. Each choice has its consequences and weighs heavily on your mind.
++ [Confront Ronan] -> LLLL
++ [Evade Ronan] -> LLLR
+== LLLL ==
+With the fate of Xandar hanging in the balance and the galaxy teetering on the brink of destruction, you make the resolute decision to confront Ronan. Your sense of responsibility towards the innocent lives at risk, combined with your own personal quest for redemption, compels you to take a stand, regardless of the potentially dire consequences. It's a moment that defines not just the hero you aspire to be but the leader you've become.
+
+As the battle unfolds, the stakes could not be higher. The Guardians, rallying alongside the Ravagers and the Nova Corps, throw themselves into the fray against Ronan's formidable forces. The chaos of combat surrounds you, a tempest of energy and determination. It's a testament to the unlikely alliances you've forged, a motley crew united under a common cause - the protection of the galaxy from tyranny and destruction. Amid the cacophony of war, there's a singular focus: victory at all costs.
+
+In the climax of the conflict, you and your allies harness the orb's unfathomable power to obliterate Ronan. The energy surges through you, a torrent of light against the darkness, as you direct it towards the enemy who sought to bring Xandar to its knees. As Ronan disintegrates under the force of the orb, you realize the magnitude of what you've achieved. Xandar is saved; the galaxy breathes a sigh of relief. Though the cost was high, the triumph is undeniable. You've not only averted a cosmic calamity but also found a new family among the stars.
+
+As the dust settles on the battlefield, you gaze at the horizon, a sense of peace mingling with the exhaustion. The galaxy remains vast, full of mysteries to unravel and dangers to confront. But for now, Xandar is safe, and you've proven that even in the darkest of times, hope can prevail. A new chapter awaits, but the legacy of what you've accomplished will echo through the stars forever.
+
+THE END
+-> END
+== R ==
+Despite the immense temptation to sell the orb for a hefty sum on the galactic black market, you decide to wait for Yondu and hand it over as you had originally agreed. It's a test of patience and loyalty, but one you're willing to endure. 
+Yondu meets you with a mix of surprise and respect, his features hard to read. But then, cutting through the tension, he decides to share the orb's true nature and the potential cataclysms it could unleash if it falls into the wrong hands. This moment of vulnerability and trust from Yondu is unexpected, marking a pivotal point in your relationship.
+The trust between you and Yondu solidifies, weaving you deeper into the fabric of the Ravagers. You find yourself taking on more significant tasks and being looped into the inner workings of the group. It's a clear sign of your increased status and Yondu's belief in your abilities.
+
+Now a trusted member of the Ravagers, you are fully aware of the orb's dangers and the catastrophic consequences should it fall into Ronan's hands. Protecting this artifact not just from petty thieves but from cosmic tyrants becomes your paramount concern.
++ [Ally with Gamora] -> RL
++ [Bargain with Ronan] -> RR
+== RL ==
+After much negotiation, you manage to convince Yondu, despite his initial reluctance, to join forces with Gamora. The goal? To protect the orb from falling into the wrong hands. It's an uneasy alliance, but you sense that the combined skills of a Ravager and an assassin might just tip the scales in your favor.
+
+As you and your newfound allies navigate through the galaxy, you unexpectedly cross paths with Rocket and Groot. Initially, their intentions aren't clear, and a tense confrontation ensues. However, when it's revealed they're being pursued by the same foes due to a third-party bounty on the orb, the situation takes a surprising turn towards collaboration. United by a common enemy, your groups merge, expanding your ranks and bolstering your capabilities.
+
+The final piece of your eclectic puzzle is Drax. Driven by a thirst for vengeance against Ronan, he joins your ranks. His motivations may be personal, but his strength and ferocity are undeniable assets. With your team now assembled, you formulate a daring plan to safeguard the orb. Everyone has a role to play, and if you succeed, you might just prevent Ronan from wreaking havoc across the galaxy.
+
+Now, with a plan in place and the stakes higher than ever, you and your allies stand ready to protect the orb and thwart Ronan's ambitions. The task ahead is daunting, but the resolve within you burns bright. The safety of the galaxy hangs in the balance, and it's up to you to keep the orb out of Ronan's clutches.
++ [Confront Ronan in Knowhere] -> RLL
++ [Hand orb to Nova Corps] -> RLR
+== RLL ==
+After narrowly escaping the bustling markets of Knowhere with the orb in tow, your plan to vanish into the crowd fails miserably when Ronan's spies, sharper and more relentless than anticipated, sniff out your trail, leading to an unavoidable showdown right in the heart of the chaos. The tension is cutting, with every escape route meticulously blocked by the encroaching enemy.
+In a desperate bid to turn the tide, you rally your team around a hair-brained scheme: to harness the orb's untold power directly against Ronan himself. However, using it requires a perilous move, one that could very well end your existence in a blaze of glory or, worse, absolute oblivion. Despite the fear gnawing at your bones, the determination to not let the galaxy fall into Ronan's hands burns even brighter.
+As the space around you erupts into a cacophony of blaster fire and the screech of metal, an unexpected alliance forms. The Ravagers, alongside the stoic ranks of the Nova Corps and your ragtag group of heroes, forge a united front against Ronan's onslaught. The epic space battle that unfolds is nothing short of legendary, with the fate of the galaxy hanging precariously in the balance.
+Amidst the chaos, you find yourself at the epicenter of this cosmic struggle, with the sole goal of defeating Ronan to preserve the fragile peace of the galaxy.
++ [Unleash the orb's power] -> RLLL
++ [Keep the orb's power secret] -> RLLR
+== RLLL ==
+In a climactic moment of bravery and selflessness, you tap into the orb's true power, managing to defeat Ronan and save the galaxy from certain doom. Your actions resonate far beyond the immediate victory, proving that sometimes, the heart of a hero is the most powerful force in the universe.
+
+In the aftermath of the battle, you and your allies receive accolades for your heroic deeds. More importantly, through the trials and tribulations, you've forged an unbreakable bond, a sense of family that you hadn't realized you were searching for. This ragtag group of misfits has become your home, united in the common goal of safeguarding the galaxy.
+
+Your decisive actions have not only thwarted a universal threat but have also precipitated a shift in the galaxy's power dynamics. Amidst the changing tides, you find a newfound sense of belonging. No longer just a lone scavenger traversing the cosmos, you've become a central figure in a larger narrative, embraced by a community that values courage, resilience, and the pursuit of justice.
+
+As you gaze into the vast expanse of the cosmos, you can't help but feel a profound connection to the universe and its infinite possibilities. With your newfound family by your side, you're ready to face whatever adventures lie ahead, confident in the bonds you've formed and the role you play in shaping the future. This is not just the end of a chapter but the beginning of a grand, cosmic saga.
+-> END
+== RR ==
+You take a bold step, deciding to bargain directly with Ronan using the orb. It's a high stakes game and you're all in, betting everything on the hope of a successful negotiation. Your audacious move, while strategic, doesn't sit well with everyone. Specifically, Yondu and the Ravagers, who've been your somewhat reliable allies up till now, feel blindsided. Their surprise quickly turns to betrayal, leaving you out in the cold. Without Yondu's backing, your options narrow considerably. That's when you turn to Gamora. Given her direct connections to Ronan and complex history, she's your best shot at getting through to him. It's a tense alliance, born out of necessity, but it's the best play you have.
+
+Now, standing on the precipice of a momentous decision, you're allied with Gamora and alienated from Yondu. The goal is clear: to negotiate with Ronan and avoid a direct confrontation that could lead to unimaginable destruction. It's a delicate balance of diplomacy and strategy, requiring a clear head and a steady hand.
++ [Attempt to negotiate with Ronan] -> RRL
++ [Lead a preemptive strike] -> RRR
+== RRL ==
+In a risky move to avert a galactic catastrophe, you attempt to negotiate with Ronan, the Accuser. But your efforts swiftly take a nosedive, forcing you to make a hasty retreat as the situation spirals out of control. During your frenetic escape, fate brings you together with Rocket and Groot. Perceiving the formidable threat Ronan poses, they decide without hesitation to join forces with you, finding common cause in the looming shadow of his tyranny. As the unlikely coalition takes shape, Drax the Destroyer, driven by a vendetta against Ronan, crosses paths with your burgeoning team. Consumed by a thirst for revenge, he sees your quest as a means to his end and pledges his allegiance, completing the circle of warriors set against Ronan.
+
+Your alliance now forged with Gamora, Rocket, Groot, and Drax, you stand at a crossroads. United by a shared determination, your team is poised to recover the orb and protect the galaxy from Ronan's grasp. The path forward is fraught with danger, yet the weight of the galaxy's fate rests upon your shoulders.
++ [Lead the daring heist] -> RRLL
++ [Wield the orb’s power against Ronan] -> RRLR
+== RRLL ==
+With a mix of adrenaline and strategy coursing through your veins, you orchestrate a daring heist aboard Ronan's imposing warship. The plan is audacious, relying on stealth, cunning, and a fair bit of luck. Your heart pounds as you navigate the dimly lit corridors, your team in tow, each step bringing you closer to the orb's unassuming yet potent presence.
+
+Fuelled by necessity and a deep-seated resolve, you face Ronan in a direct showdown. The moment is tense, electric with the possibility of failure, but as the confrontation escalates, a vulnerability in Ronan's defenses becomes blatantly apparent. Seizing the moment with a blend of desperation and tact, you utilize the orb's untapped power against him, altering the course of the battle in a display of wit and will.
+
+Just when the odds seem overwhelmingly against you, the unexpected arrival of Yondu and the Ravagers turns the tide. Their timely intervention, inspired by bonds of the past and perhaps, a shared dream for the future, cements your advantage. Together, you overpower Ronan's forces, his defeat marking not just a victory in battle, but a personal triumph over your own demons.
+
+With Ronan defeated and the galaxy once more teetering back from the brink of destruction, you take a moment to reflect on the journey. The battles fought, the alliances forged, and the tales that will be told. A smile plays on your lips as you realize this is but one chapter in the grand adventure of your life, a fleeting moment in the infinity of the cosmos. And with that thought, you turn your gaze to the stars, ready for whatever comes next.
+-> END
+== RRR ==
+Feeling the weight of responsibility to halt Ronan's tyranny, you make the bold choice to mount a preemptive strike against him, aiming to shift the balance of power before it tilts irrevocably in his favor. Your decision, while heroic, sparks a mixture of respect and tension within your circle. Yondu, viewing your initiative positively, nonetheless worries about the Ravagers' readiness for such open conflict, hinting at the enormity of the challenge you've chosen to undertake.
+
+In your endeavor to forge a path forward, you manage to draw together an unlikely band of allies. Your leadership within the Ravagers plays a crucial role, persuading them with the promise of a share in the orb's immense value. Gamora, fueled by a personal quest; Rocket, with his tactical genius; Groot, the gentle giant with formidable strength; and Drax, driven by a deep vendetta, all rally to your side, forming a team with a blend of skills as diverse as their motivations.
+
+With your team assembled and brimming with a blend of anticipation and readiness, you stand at a pivotal moment. The goal is clear: to execute a successful strike against Ronan and bring his reign of tyranny to a halt. The strategy you choose now could define the path ahead, whether to amplify your chances with ancient artifacts or to confront the challenge with the strength and resources at hand.
++ [Seek Ancient Artifacts] -> RRRL
++ [Direct Attack on Ronan] -> RRRR
+== RRRL ==
+Deciding to alter the course of your mission, you steer your focus towards acquiring ancient artifacts believed to have the power to amplify the orb's immense energy. It's a risky move, fraught with unknowns and the potential for untold power, but the promise it holds to tip the scales in your favor drives you forward. Each artifact is a puzzle piece in a galactic game of power, and you're determined to put them all together.
+
+Under the cloak of stealth, you and your team execute a series of subterfuge and guerrilla tactics that catch Ronan off guard. The element of surprise is on your side, allowing you to land critical hits and forcing the powerful Kree warlord to retreat, albeit temporarily. These skirmishes, though minor, signify a pivotal shift in the power dynamics of the galaxy, proving that even the mighty can be shaken.
+
+Empowered by the discovery of the orb's potential for amplification, you channel all your efforts into the galaxy-spanning campaign against Ronan. Each artifact acquired brings you one step closer to ultimate victory. The once scattered and disjointed missions now converge into a singular, focused effort to end Ronan’s tyranny. Unity, forged in the fires of relentless pursuit and unwavering determination, becomes your greatest asset in this final stand.
+
+As Ronan falls, defeated by the amplified power of the orb combined with the artifacts you've painstakingly gathered, the galaxy breathes a collective sigh of relief. You stand at the center of what feels like a maelonic victory, knowing the balance of power has shifted permanently. Peace, for now, is restored, but the echoes of this battle will resonate for eons, a testament to the day you changed the fate of the galaxy.
+
+THE END
+-> END
+== RRRR ==
+In an audacious move, you decide to focus your energies and resources on a direct attack against Ronan, dismissing the idea of seeking additional power sources as a distraction. This strategy emphasizes the element of surprise and the raw power of your team, betting everything on a single, powerful strike. Your choice signals a clear path forward, one fraught with danger but also with the potential for a swift and decisive victory.
+
+With your strategy in place, you and your team engage in intensive training sessions, honing your combat skills and planning strategies to exploit Ronan's weaknesses. Every member of your eclectic group brings their unique abilities to the table, working tirelessly to synchronize your efforts. This preparation fosters a deep bond among you, turning a group of once-unlikely allies into a finely tuned machine ready to take on a formidable foe.
+
+Seeing an opportunity to broaden your coalition, you reach out to rival factions among Ronan's enemies, offering them a share of the orb's value in exchange for their support in the upcoming battle. This bold diplomatic move not only increases your forces but also complicates the dynamics of power, making it harder for Ronan to predict your moves. As the final piece of your strategy falls into place, the Nova Corps, intrigued by your plan, decide to back you indirectly, adding significant strength to your forces.
+
+The direct assault proves to be both daring and cunning, leveraging the unexpected alliances you've forged and sowing seeds of distrust among Ronan's allies. The battlefield is chaotic, but as Ronan's forces find themselves outmaneuvered and divided, they are forced into a tactical retreat. In the aftermath, while cleaning your weapons and tending to your wounds, you and your team can't help but feel a mix of exhaustion and exhilaration. Ronan's retreat marks not just a victory, but the beginning of a new chapter. One where you've shown that even the galaxy's most daunting threats can be overcome with the right mix of bravery, strategy, and teamwork.
+
+THE END
+-> END
+== RRLR ==
+Choosing to confront Ronan directly, you decide to wield the orb's power against him, deviating from the original covert heist plan. It's a gutsy move, one born of desperation and a sliver of hope. You know it's risky, potentially suicidal, but the stakes are too high to play it safe now. There's a certain madness in your eyes as you make this decision, a spark that speaks of untold power and the will to use it.
+
+Yondu and the Ravagers, initially taken aback by your audacious plan, consider abandoning you to your fate. They watch from a distance, their skepticism mingled with a hint of reluctance. Yet, as the gravity of your decision settles, they start to see the resolve in your actions. Their surprise turns to begrudging respect, a recognition of the courage it takes to face such overwhelming odds. The disbelief that had clouded their judgement begins to clear, replaced by an uncertain anticipation.
+
+As the moment of confrontation draws near, your team gathers around you, each member poised to lend their unique abilities to the fight. There's a palpable sense of unity, a bond formed not just from friendship but from the understanding that this battle could very well be your last. Each teammate steps forward, offering their strength, their skills, and their unwavering support. It's a powerful testament to the loyalty you've inspired, a force that, when combined, feels invincible against even the darkest of foes.
+
+As Ronan faces you, the energy of the orb pulsing in your hand, you lock eyes with your adversary. Time seems to slow, the air charged with anticipation. With the combined strength of your team behind you, you unleash the orb's power. Light floods the battleground, consuming Ronan in its brilliance. As the dust settles, you stand victorious, your team by your side, having defied the odds. The galaxy, for now, is safe, thanks to the unity and bravery of an unlikely band of heroes. THE END.
+-> END
+== RLR ==
+After a prolonged internal debate, you've decided to hand over the orb to Nova Corps, convinced it's the safest option for everyone involved. The orb's power is too great for any single individual to wield safely, and Nova Corps’ secure vaults seem like the best bet for protecting the galaxy from its potential wrath.
+
+However, this decision does not sit well with everyone. Yondu, who you've always had a complicated relationship with, feels utterly betrayed. In his eyes, choosing Nova Corps over the Ravagers — the closest thing you've had to a family in the cosmos — is a direct affront. The tension between you two is palpable, marking a significant rift in your bond.
+
+Your action seems to have set off a domino effect of unforeseen consequences. Ronan, whose desire for the orb was no secret, is now beyond enraged. Viewing the transfer as a direct challenge, he launches a full-scale assault on Xandar in a bid to retrieve what he considers rightfully his. The attack is swift and brutal, leaving no doubt of his intentions.
+
+Caught in the midst of this chaos, you now face a daunting task. Ronan's direct assault on Xandar to retrieve the orb has placed the entire galaxy in jeopardy. It's up to you to protect Xandar, defeat Ronan, and ensure the safety of the galaxy. The stakes could not be higher, and the path forward is fraught with danger.
++ [Form an alliance to fight Ronan] -> RLRL
++ [Negotiate with Ronan for peace] -> RLRR
+== RLRL ==
+In a daring move, you broker a risky but necessary alliance with Yondu, Gamora, Rocket, Groot, and Drax. Each of them, with their unique skills and dubious reputations, agree to join forces with you to combat the looming threat of Ronan, understanding the gravity of the situation and the potential benefits of pooling your resources.
+
+As time narrows and Ronan's forces draw closer, you find an unexpected breadth of support. The Nova Corps, the Ravagers, and your newfound group come together in a remarkable show of unity. You prepare for a massive defensive against Ronan's advancing fleet, strategizing and allocating every available resource and ally to fortify your position, aware that the ensuing battle will determine the fate of the galaxy.
+
+A climactic and chaotic battle ensues, marked by a showcase of valor, strategic sabotage, and cooperation among erstwhile rivals and newfound allies. Through the synergy of your combined efforts, Ronan's defeat is secured, turning the tide of the conflict in an explosion of heroism and tactical ingenuity. The galaxy breathes a sigh of relief as the threat is quelled through the most unlikely of alliances and strategies, proving once again that unity in diversity can herald unprecedented victories.
+
+In the aftermath of the battle, as Ronan's forces are vanquished and peace is restored, you can't help but reflect on the journey. The bonds formed in the heat of battle, the defeats faced, and the victories achieved have forever changed the course of the galaxy—and your own destiny. The universe is vast, filled with infinite stories and endless possibilities. And this is just the beginning.
+
+THE END
+-> END
+== RLRR ==
+Deciding to take matters into your own hands, you choose to negotiate directly with Ronan, hoping to trade the orb for a promise of peace. It's a bold move, one that could alter the fate of the universe, or at least, that's the gamble you're willing to take. You're not just fighting for survival now; you're fighting for a future where perhaps, just perhaps, peace might be an option.
+
+Ronan, surprisingly intrigued by your audacity, agrees to a meeting. This unexpected development, however, does not sit well with your team. Yondu, Gamora, Rocket, Groot, and Drax view your initiative with suspicion and mistrust, feeling sidelined by your decision. Their unease grows, worried about Ronan's true intentions and whether your actions might have unwittingly jeopardized the team's very existence.
+
+The negotiations take a tense turn when Ronan demands a sacrifice to prove your commitment to peace. You're suddenly thrust into a treacherous game of wit and will, where every choice could tip the balance between maintaining your morals and betraying your friends. Navigating this tightrope, you realize that outmaneuvering Ronan's psychological ploys is your only path forward. It's a test of your resolve, pushing you to the edge of your principles and forcing you to confront what you're truly willing to sacrifice for peace.
+
+In a universe where trust is as rare as it is valuable, you've managed to navigate the treacherous waters of diplomacy and deceit. Your choices have reshaped the destinies of many, forging paths where there were none. And yet, as the dust settles, you find yourself pondering the true cost of peace and whether the sacrifices made were worth the fragile harmony achieved. The galaxy, for now, breathes a sigh of relief, but the echoes of your decisions will reverberate across the stars for ages to come. THE END.
+-> END
+== RLLR ==
+You decide to keep the orb's immense power a secret, convinced that revealing its capabilities could disrupt the fragile balance holding the galaxy together. You understand the magnitude of your decision, holding a power that could reshape destinies, yet you choose the path of concealment, believing it to be for the greater good.
+
+Instead of using the orb's power to publicly defeat Ronan, you lead a covert operation to outmaneuver him. With strategic brilliance, you convince Ronan that the orb was destroyed. This move not only keeps the orb's power hidden but also eliminates the immediate threat posed by Ronan, without revealing your true capabilities. Your actions require a delicate balance of secrecy and manipulation, ensuring the safety of the galaxy while keeping the truth hidden in the shadows.
+
+This decision to maintain secrecy strengthens the bond within the Guardians due to the shared secrets and the trust grown from such experiences. However, it also sows the seeds of distrust among allies like the Nova Corps, who are left in the dark regarding the orb's fate. Your choice has created a complex web of alliances and secrets, where trust is both a currency and a casualty. The path ahead is uncertain, influenced by the strength of your bonds and the ghosts of your decisions.
+
+Navigating the consequences of your choices, you lead the Guardians on a precarious path between light and shadow. Each day holds the promise of new adventures and the peril of newfound threats. Yet, in the heart of uncertainty, lies the unbreakable spirit of camaraderie and the undying quest for peace. As you stare into the vastness of the universe, you realize that the true power lies not in the orb, but in the unity and resolve of those who stand beside you.
+
+THE END
+-> END
+== LR ==
+Instead of attempting to hawk the orb on the bustling markets of Xandar, you choose to strike a deal with Yondu for protection, hoping to leverage your connections and avoid unnecessary confrontations. The urgency of the situation becomes clear, as Yondu consents to your proposal but not without his conditions. He tasks you and your motley crew with a perilous mission: to procure a legendary artifact held by a menacing warlord, known across the galaxy for his ruthlessness and power. Unfazed, you gather Gamora, Rocket, Groot, and Drax, briefing them about the daunting task ahead. As you all prepare, your bonds strengthen, and a sense of unity prevails amongst the team. Not only does the mission offer a chance to prove your worth in Yondu's eyes, but also solidifies the camaraderie within your group, transforming you into more than just allies.
+
+Fully prepped and with strategies laid out, you stand at the edge of a potentially groundbreaking mission. The highly coveted artifact awaits, guarded by the formidable warlord, marking your goal as clear as the starlit sky of the galaxy. The path ahead is fraught with risks, but success could bring unparalleled rewards and secure your team's safety. The question now is how you choose to approach this daunting challenge.
++ [Lead the mission, risking alert to the Collector] -> LRL
++ [Seek alternative to the dangerous quest] -> LRR
+== LRL ==
+Leading your team on a covert mission, you accidentally draw the attention of the Collector, blowing your cover and setting off a chain of unforeseen events. Your decision to forge an alliance with Yondu has unintended consequences, putting you at odds with both the Ravagers and the Nova Corps, complicating your situation further. In the midst of chaos, you uncover a shocking truth: the orb you've been fighting over contains an Infinity Stone, a relic with the power to alter reality itself.
+
+Aware of the orb's immense power, you recognize the gravity of the situation. The responsibility to prevent such a destructive force from falling into the wrong hands weighs heavily on your shoulders.
++ [Destroy the orb] -> LRLL
++ [Hand over to Nova Corps] -> LRLR
+== LRLL ==
+In a bold decision, you choose to destroy the artifact, fully aware of the enormous power it holds and the potential for misuse. This decision doesn't sit lightly with you, but the thought of it falling into the wrong hands is a risk you're not willing to take.
+
+However, your decision triggers an unforeseen conflict with the Collector, a formidable adversary who had his eyes set on the orb. He amasses a vast force, determined to seize the artifact for his collection. The stakes are higher than ever, as you find yourself clashing with an army fueled by greed and the thirst for power.
+
+Despite the mounting opposition, you rely on strategic plays and form new alliances, turning the tide in your favor. Through cunning, strength, and a bit of luck, your team overpowers the Collector's forces. With a final, decisive action, you seal the orb away in a dimensional rift, ensuring it can't be used for harm. The galaxy breathes a sigh of relief, owed to your courage and quick thinking.
+
+With the artifact secured and the galaxy safe, you look up at the stars, knowing that today's choices have altered the course of history. Your actions have not only prevented a great evil but have also sown the seeds for a brighter tomorrow. As you set your sights on new adventures, you're reminded of the power of unity and the strength found in facing fears head-on.
+
+THE END
+-> END
+== LRR ==
+In a moment of clarity, you decide that the mission's dangers far outweigh the promised rewards. Determined not to fall for the seductive lure of apparent fortune, you opt out, looking for another path that would still keep your agreement with Yondu intact. However, things take a harsh turn. A new player enters the scene - Vala Kor, a name synonymous with terror across galaxies. She's a bounty hunter without a match, known for her cold-blooded efficiency. Her interest in the orb, spurred by rumors of its unmatched power, puts her directly in your path, escalating the stakes. In response, you and your team concoct a risky strategy. By creating decoy orbs, you hope to lead Vala Kor on a wild goose chase. It's a high-stakes game of intergalactic cat-and-mouse, designed to keep her off your trail while you work on figuring out how to neutralize the orb's potent power.
+
+Now, you and your team are planning to mislead Vala Kor using those very decoys, while simultaneously seeking a secure method to defuse the orb's power. Your overarching goal is crystal clear: to ensure the orb's power is neutralized safely, preventing it from falling into the wrong hands.
++ [Trap Vala in a fabricated reality.] -> LRRL
++ [Negotiate directly with Vala Kor.] -> LRRR
+== LRRL ==
+With the stakes higher than ever, you ingeniously craft a plan to ensnare Vala Kor, employing a decoy orb within a fabricated reality as the centerpiece. Meanwhile, the genuine orb lies secured beyond reach in a quantum vault, a marvel engineered by Rocket's unmatched genius. The ruse not only demonstrates your strategic acumen but also protects the orb from falling into the wrong hands.
+
+In the thick of your mission to outsmart Vala Kor, fate intervenes, leading you to cross paths with a disillusioned Nova Corps member, Captain Rael. The captain's unexpected alliance and his deep-seated knowledge of the inner workings of the corps provide you with an unforeseen advantage. His commitment to your cause strengthens your resolve, adding a powerful ally to your ranks as you navigate the treacherous waters ahead.
+
+The successful execution of your elaborate plan earns you not just the grudging respect of Yondu but also forges a promising alliance with Captain Rael. This newfound bond with the captain hints at future collaborations aimed at dismantling systemic corruption. As the dust settles, you realize that your actions have paved the way for lasting alliances and changed the cosmic balance of power, setting the stage for your next adventure among the stars.
+
+THE END
+-> END
+== LRRR ==
+In a daring move, you decide to negotiate directly with Vala Kor, offering her information on more vulnerable targets in exchange for her temporary allegiance and the safety of your team. The stakes are high, and your heart pounds as you lay your cards on the table, hoping your gamble pays off.
+
+Vala Kor, intrigued by your proposition, counters with an offer of her own. She proposes an alliance to take down a mutual enemy and share the secrets of the orb's power. This twist in negotiations takes you by surprise, hinting at a possible change in the dynamics of power across the galaxy.
+
+The alliance with Vala Kor leads to an unprecedented battle against corrupt factions within the Nova Corps and a radical sect of the Kree. As allies, you navigate the treacherous waters of interstellar politics and warfare, ultimately testing the strength and resilience of your new bond. The battle results in an uneasy peace among the affected interstellar communities, marking a momentous shift in the galaxy's balance of power.
+
+As you reflect on the tumultuous events, you realize that the galaxy is ever-changing, and alliances, however unlikely, can shift the tide in unimaginable ways. The future is uncertain, but for now, peace reigns, and the galaxy breathes a sigh of relief. THE END.
+-> END
+== LRLR ==
+After a period of immense deliberation, you decide that the orb is far too powerful and dangerous to be left in the hands of just anyone, even yourself. Trusting in the integrity and capabilities of the Nova Corps, you hand over the orb to them for safekeeping. It's a decision that doesn't come lightly, but it's one that seems to promise a semblance of peace, or at least, the hope that the galaxy might be a safer place.
+
+However, rather than bringing peace, the Nova Corps' possession of the orb serves as a beacon, attracting heightened tensions across the cosmos. Various factions, both mighty and obscure, begin to vie for the favor of the Nova Corps, or worse, plot nefariously to seize the orb for themselves. The galaxy, it seems, has become a far more dangerous place, the orb at the center of a web of greed and power struggles, with you caught in the midst of it all.
+
+The situation escalates when a rogue faction within the Nova Corps reveals itself, with ambitions to exploit the orb's boundless power. This betrayal forces you and your team to navigate a treacherous path through the murky waters of galactic politics and betrayal. Trust becomes a luxury you can hardly afford as the delicate balance of peace and power you'd hoped for teeters on the brink of collapse. In the end, the choices you make in the face of such adversity define not just your fate but that of the entire galaxy.
+
+Standing among your team, with the fate of countless lives intertwined with your decisions, you can't help but wonder if a different choice at the outset might have led to a different journey. But in the heart of the conflict, surrounded by friends who've become your family, you know one thing for certain: no matter the outcome, you'll face it together. And with a determined breath, you step forward into the unknown, prepared to defend the galaxy, one more time.
+
+THE END
+-> END
+== LLR ==
+Finding yourself within the formidable walls of a space prison, you see an opportunity rather than a punishment. Instead of plotting an immediate escape, you choose to remain behind bars, using this unexpected turn of events as leverage. Your knowledge about the orb's power and the looming threat of Ronan becomes a bargaining chip, one that sparks interest among the Nova Corps officers.
+
+Through careful negotiation and showcasing unparalleled knowledge of cosmic affairs, you manage to convince the Nova Corps of the dire situation. By outlining a meticulous plan on how to handle the orb safely, you demonstrate not just the urgency but also offer a solution, building trust and an unlikely alliance within these confined walls.
+
+Now, recognized not as a mere prisoner but as a key strategist, your role shifts. You find yourself at the helm of diplomacy and strategic alliance-building, engaging both the Nova Corps and fellow inmates. Your actions have paved the way for unexpected alliances, turning a grim situation into a beacon of hope.
+
+Armed with newfound alliances and a strategic vision, your goal evolves. Now, it's not just about survival or escape; it's about forming a solid coalition. A coalition strong enough to neutralize the threat Ronan poses and safeguard Xandar's future.
++ [Use orb as bait in a trap] -> LLRL
++ [Directly attack Ronan with a stolen ship] -> LLRR
+== LLRL ==
+Utilizing your newfound coalition, you orchestrate a daring plan where the orb is used as bait to lure Ronan into a meticulously crafted trap. Your leadership and quick thinking shine as you navigate through the complexities of deception and strategy, aiming to bring the formidable Ronan into a position of vulnerability. The weight of the galaxy rests on your shoulders, but the hope of outsmarting a tyrant fuels your resolve.
+
+Your coalition, now bolstered by the unlikely addition of Gamora, Rocket, Groot, and Drax—who've come to understand and support your true intentions—work in unison from within the shadows and the light. Together, you infiltrate, sabotage, and disable Ronan's forces, leveraging each member's unique abilities. The orchestration resembles a symphony of chaos, each note played at the precise moment, leading to a crescendo that even Ronan's might cannot withstand. The prison that once confined your allies now serves as the stage for a daring rebellion.
+
+In a final act of cunning and unity, you employ a strategy that allows yourself and your allies to harness the orb's overwhelming power. This act not only neutralizes Ronan but also saves Xandar from annihilation. It's a demonstration of the might of unity and strategic planning over brute force and tyranny. Ronan's fall marks not just a victory for Xandar but a testament to the power of coming together against seemingly insurmountable odds. The galaxy, once on the brink of devastation, breathes a sigh of relief, united by a common savior.
+
+As you stand among your allies, the dust settling and the cheers of the freed echoing through the cosmos, you realize the journey has only just begun. The galaxy is vast, and its need for guardians is ever-present. With a smirk and a nod to your newfound family, you set off into the stars, ready for whatever adventure awaits. The legend of the Guardians of the Galaxy has only just been written, but its chapters will be remembered for eons to come.
+
+THE END
+-> END
+== LLRR ==
+In a bold move fueled by a mix of guts and desperation, you decide to steal a ship and launch a direct assault on Ronan. Banking on the element of surprise, you aim to catch the warlord off his guard and defeat him once and for all. The audacity of this plan is matched only by its risks, but you know deep down that it's the only way to end Ronan's reign of terror.
+
+The attack puts your leadership and decision-making skills to the ultimate test. You navigate through heavily fortified defenses, outmaneuvering obstacles that would deter any ordinary opponent. But then, Ronan's elite forces launch a surprise counterattack, throwing your plans into chaos. This moment defines your resolve, as you quickly adapt, cutting through the enemy lines, proving that under pressure, your instincts and strategy can turn the tide of battle.
+
+In an adrenaline-fueled climax, you and your team manage to board Ronan's warship. It's a testament to your cunning and bravery. Inside, you devise a daring plan to use the orb's power to overload the warship's power core. The stakes couldn't be higher as you race against time, facing overwhelming odds. It's a plan only you could have conceived, a blend of reckless courage and unmatched wittiness.
+
+As the warship's power core begins to overload, a bright light consumes everything. In that moment, you know your gamble has paid off. The explosion that follows eradicates Ronan's threat once and for all, saving countless lives and proving that sometimes, against all odds, the bravest decisions lead to the greatest victories. Your heart pounds in your chest, not just from the battle, but from the realization that you've changed the course of history.
+
+THE END
+-> END
+== LLLR ==
+Deciding to hide the orb and evade Ronan indefinitely, you embark on a dangerous journey through the galaxy in search of the safest place to conceal the powerful stone. The vastness of space becomes both your shield and your battlefield, as each star system brings new challenges and potential hiding spots for the orb, but also inches you closer to the danger you're trying to escape.
+
+This decision strains the bonds within the Guardians of the Galaxy. Not all members support your strategy, fearing it merely postpones an inevitable showdown with Ronan and puts the galaxy at even greater risk. Tensions flare, and heated arguments become as much a part of the journey as dodging enemy fire. Yet, the resolve to protect the galaxy, even through disagreement, keeps you united in purpose, if not in method.
+
+In the course of your quest, you encounter the Shadows, beings who seek the orb for their own forms of protection, and a fragmented coalition of planets resisting Ronan's tyranny. These encounters pave the way for an unlikely alliance and a high-stakes operation aimed at stopping Ronan once and for all. Courage, cunning, and the power of unity propel you into the heart of danger, where the fate of the galaxy rests on the outcome of your daring plan.
+
+With the orb securely hidden and Ronan's threat neutralized thanks to your alliances and strategic gambits, peace returns to the galaxy. As you look towards the stars, you know deep down that the adventure is far from over. But for now, the galaxy is safe, and the Guardians of the Galaxy stand ready to face whatever comes next, together.
+
+THE END
+-> END
