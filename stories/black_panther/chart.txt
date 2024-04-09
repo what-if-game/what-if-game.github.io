@@ -1,0 +1,136 @@
+S[[S: T'Challa returns to Wakanda to assume the throne after his father's death.
+G: To successfully become king and maintain Wakanda's isolation while protecting its secrets.]] --> |Maintain isolation|LE
+S[[S: T'Challa returns to Wakanda to assume the throne after his father's death.
+G: To successfully become king and maintain Wakanda's isolation while protecting its secrets.]] --> |Reveal Wakanda|RE
+LE(T'Challa decides to continue Wakanda's policy of isolation and secrecy.
+T'Challa is challenged by M'Baku of the Jabari Tribe but defeats him, securing his place as king.
+T'Challa now focuses on his leadership and the protection of Wakanda.) --> L
+L[[S: T'Challa is now the king and focused on protecting Wakanda's secrets.
+G: To capture Ulysses Klaue, a threat to Wakanda's secrecy, and bring him to justice.]] --> |Lead mission to South Korea|LLE
+L --> |Send covert team|LRE
+LLE(T'Challa decides to lead a mission to capture Klaue in South Korea.
+The mission leads to a public shootout, and Klaue is temporarily captured before being freed by Erik Stevens.
+T'Challa must now deal with the repercussions of the failed mission and the revelation of Wakanda's secrets to the world.) --> LL
+LL[[S: T'Challa faces the consequences of the failed mission and the challenge to his kingship by Erik Killmonger.
+G: To defeat Killmonger and prevent him from taking over Wakanda and executing his aggressive global agenda.]] --> |Accept Killmonger's Challenge|LLLE
+LL --> |Arrest Killmonger|LLRE
+LLLE(T'Challa decides to accept Killmonger's challenge for the throne in ritual combat.
+T'Challa is defeated by Killmonger, who then becomes king and plans to execute his vision of global liberation using Wakandan weapons.
+T'Challa is left for dead, and Killmonger destroys the heart-shaped herb to solidify his rule.) --> LLL
+LLL[[S: T'Challa is healed and must reclaim his throne to save Wakanda and the world.
+G: To defeat Killmonger, regain his position as king, and correct the path Wakanda is on.]] --> |Rally the Jabari Tribe|LLLLE
+LLL --> |Sabotage weapons alone|LLLRE
+LLLLE(T'Challa decides to rally support from the Jabari Tribe and confront Killmonger.
+With the help of the Jabari and his allies, T'Challa defeats Killmonger in combat.
+T'Challa reclaims his throne and decides to open Wakanda to the world, establishing outreach centers to share their technology and aid global development.)
+RE(T'Challa decides to announce Wakanda's technological prowess at his coronation.
+The announcement shocks global powers and puts Wakanda in the international spotlight.
+Wakanda's secrets are now public knowledge.) --> R
+R[[S: Wakanda's secrets are now public knowledge.
+G: To integrate Wakanda into the global community while maintaining sovereignty and tradition.]] --> |Collaborate with global enforcement|RLE
+R --> |Conduct a covert operation|RRE
+RLE(T'Challa decides to collaborate with international law enforcement to legally apprehend Klaue.
+His approach showcases Wakanda's willingness to cooperate with the global community.
+M'Baku becomes an advisor instead of challenging T'Challa's rule, leading to stronger unity within Wakanda.) --> RL
+RL[[S: Wakanda begins integrating into the global community, with internal unity strengthened.
+G: To protect Wakanda’s sovereignty while engaging in global humanitarian efforts.]] --> |Present vision at UN Summit|RLLE
+RL --> |Focus on internal advancement|RLRE
+RLLE(T'Challa decides to present Wakanda's vision for global partnership at the UN summit.
+Wakanda offers sustainable technology to countries in need with strict regulations to protect its resources.
+Erik Killmonger challenges T'Challa's leadership, seeing the international stage as a new battlefield.) --> RLL
+RLL[[S: Wakanda faces internal and external challenges as it steps onto the global stage.
+G: To solidify Wakanda’s place as a pivotal member of the international community.]] --> |Establish Global Defense Initiative|RLLLE
+RLL --> |Strengthen Wakanda's Isolation|RLLRE
+RLLLE(T'Challa decides to establish the Wakanda Global Defense Initiative.
+New alliances are formed with nations and organizations dedicated to humanitarian efforts.
+T'Challa oversees the opening of Wakandan Outreach Centers around the world, fostering cultural exchange.)
+RRE(T'Challa decides to pursue Klaue through a covert operation, maintaining a stance of secrecy and traditional isolation.
+Wakanda's continued secrecy sparks curiosity and suspicion among global powers, leading to intensified espionage efforts to uncover its true capabilities.
+The covert operation leads to an unintended international incident, raising diplomatic tensions and forcing T'Challa to navigate a complex web of global politics without exposing Wakanda.) --> RR
+RR[[S: T'Challa is facing intensified global scrutiny and internal dissent due to the unintended consequences of his covert operation.
+G: To alleviate global suspicion and internal dissent without compromising Wakanda's secrecy.]] --> |Gift Advancements Anonymously|RRLE
+RR --> |Address the United Nations|RRRE
+RRLE(T'Challa secretly engineers a series of advancements in sustainable technology, which are anonymously gifted to needy countries, creating goodwill towards an unknown benefactor.
+The anonymous gifts of technology begin to reshape global energy and technological landscapes, with nations frantically trying to uncover the source, leading to a wave of positive speculation about Wakanda among a few investigative entities.
+Erik Killmonger leverages the international incident to foment dissent within Wakanda, arguing that T'Challa's secretive methods weaken Wakanda's position and security.) --> RRL
+RRL[[S: Despite easing some global tensions and creating a positive speculative buzz about Wakanda, T'Challa faces a direct challenge to Wakanda's traditional stance and his leadership.
+G: To cement Wakanda's global influence in a way that aligns with its values without betraying its secrecy.]] --> |Launch the Global Influence Initiative|RRLLE
+RRL --> |Host the Global Technology Conference|RRLRE
+RRLLE(T'Challa counters Killmonger's challenge by quietly establishing the Wakanda Global Influence Initiative, a covert network of Wakandan agents aimed at strategically supporting global stability and progress while keeping Wakanda's involvement hidden.
+Killmonger, viewing the shifting global landscape as an opportunity, challenges T'Challa to embrace a more aggressive expansion of Wakanda's influence, sparking a battle for the heart and future of Wakanda.
+Despite maintaining secrecy, T'Challa's decisions lead to a new era of undercover diplomacy and influence, with Wakanda secretly shaping global affairs, marking a paradigm shift in international relations under the veil of mystery, and cautiously opening the door for a new kind of alliance with select nations who share Wakanda's vision for a sustainable future.)
+RRRE(T'Challa decides to address the United Nations, subtly revealing Wakanda's capabilities and proposing a groundbreaking global environmental initiative.
+T'Challa's speech sparks worldwide interest and admiration for Wakanda, significantly influencing the global environmental agenda.
+Global powers are surprised, reshaping their perception of Wakanda from a secretive, isolationist nation to a proactive leader in global sustainability.) --> RRR
+RRR[[S: Wakanda is now seen as a leader in sustainability and advanced technology on the global stage.
+G: To navigate the tense geopolitical landscape, solidifying Wakanda's position as a global leader without compromising its security.]] --> |Secure Wakanda's interests globally|RRRLE
+RRR --> |Retract initiative and focus inward|RRRRE
+RRRLE(T'Challa decides to meticulously work to secure Wakanda's interests, leveraging new alliances while tactfully managing adversarial relations.
+T'Challa ensures that technology sharing does not compromise Wakanda's security or reveal the full extent of its technological capabilities.
+Wakanda navigates new adversities and alliances with caution, fostering a network of partnerships focused on mutual growth and sustainable development.)
+RRRRE(T'Challa decides to retract Wakanda's global environmental initiative and return to isolation.
+This abrupt shift causes international confusion and disrupts global environmental agendas.
+Internally, the decision instigates a debate among Wakandans, causing disillusionment among those who supported the initiative.)
+RRLRE(T'Challa decides to make Wakanda's advanced technology openly available to the world
+T'Challa leads a global conference on technology and ethics, showcasing Wakandan innovations
+The conference sparks a complex mixture of alliances and conflicts among nations and corporations)
+RLRE(T'Challa decides to announce Wakanda's new policy of internal advancement and defense, prioritizing the development of technology and resources for the well-being and security of Wakanda above external alliances.
+Wakanda's sudden withdrawal from international cooperation leads to increased suspicion and espionage attempts by global powers, eager to uncover Wakanda's secrets and technology for themselves.
+Erik Killmonger, now unable to leverage the international stage to challenge T'Challa directly, starts a covert operation aiming to align with dissenting factions within Wakanda.) --> RLR
+RLR[[S: Wakanda faces external threats from global powers and internal dissent from factions within, influenced by Erik Killmonger.
+G: To unify Wakanda, enhancing its technological defenses, and to counteract both external and internal threats effectively.]] --> |Initiate Wakanda Sovereignty Project|RLRLE
+RLR --> |Open secret negotiations and dialogue with Killmonger|RLRRE
+RLRLE(T'Challa initiates the 'Wakanda Sovereignty Project,' a comprehensive initiative to strengthen Wakanda's technological defenses and promote unity.
+T'Challa holds a series of public forums and consultative committees with Wakandan citizens and local leaders to justify his isolationist stance, emphasizing the need for technological and cultural preservation.
+Despite facing challenges, T'Challa's policies lead to unprecedented technological advancements, establishing a self-sustaining utopia that secures Wakanda's borders and significantly improves the quality of life within.)
+RLRRE(T'Challa decides to open secret negotiations with global powers to reduce espionage and tension, and seeks Erik Killmonger for dialogue to address internal dissent and explore more inclusive policies.
+The secret negotiations lead to a landmark agreement where global powers agree to respect Wakanda's sovereignty and cease espionage activities in exchange for limited sharing of technological insights, under Wakanda's strict oversight.
+T'Challa's dialogue with Killmonger uncovers deep-seated disparities in Wakandan society, leading to reforms that start to bridge the gap between the elite and marginalized, and establishing the 'Wakanda Global Initiative' aimed at responsible sharing of technology.)
+RLLRE(T'Challa decides to enhance Wakanda's isolation, defending against threats alone, foregoing the establishment of the Global Defense Initiative.
+He initiates secretive projects aimed at bolstering Wakanda's defenses, including developing an advanced satellite system and constructing hidden bases around the world.
+This approach leads to mounting tensions with global powers, strains Wakanda's international relationships, and sparks criticism both internationally and within Wakanda.)
+LRE(T'Challa decides to send a covert team without him to capture Klaue, believing his place is in Wakanda to strengthen its leadership.
+The covert team, led by Nakia and Okoye, faces unforeseen difficulties without T'Challa's presence, resulting in Klaue evading capture and exposing a hint of Wakanda's true capabilities to the world.
+T'Challa faces criticism from within Wakanda for not leading the mission himself, challenging his decision-making and leadership in the eyes of his people.) --> LR
+LR[[S: T'Challa faces criticism and diminished confidence in his leadership.
+G: To regain his standing as a strong leader and mitigate the fallout from the mission's failure.]] --> |Confront Killmonger|LRLE
+LR --> |Strengthen defenses and seek alliances|LRRE
+LRLE(T'Challa decides to confront Killmonger upon his arrival, but the lack of direct combat experience from the South Korea mission affects his confidence and strategy in their battle.
+During T'Challa's recovery after being defeated, M'Baku of the Jabari Tribe emerges as an unexpected ally, offering sanctuary and support, hinting at a deeper unity within Wakanda.
+With the threat of global exposure looming, T'Challa must navigate political unrest within Wakanda, balancing the calls for retaining secrecy with the need for a stronger global presence.) --> LRL
+LRL[[S: T'Challa is recovering and reassessing his strategy for Wakanda's future.
+G: To reclaim his throne and establish Wakanda as a progressive leader on the global stage.]] --> |Pursue diplomacy and innovation|LRLLE
+LRL --> |Enhance military, preserve isolation|LRLRE
+LRLLE(T'Challa decides to reclaim his throne through diplomacy and a strategic showcase of Wakanda's advancements in a global summit, marking a new era of openness and collaboration with the world.
+Shuri steps up to refine Wakandan technology for defensive purposes, inadvertently creating new advancements that catch the attention of global powers, further complicating Wakanda's position.
+Reinvigorated by his time with the Jabari, T'Challa reclaims his throne, establishing a new era of openness and collaboration with the world, and securing Wakanda's position as a progressive leader on the global stage.)
+LRRE(T'Challa decides to enhance Wakandan defenses and seek international alliances before directly confronting Killmonger.
+This strategic shift leads to a pivotal meeting between T'Challa and global leaders, facilitated by Nakia's diplomatic connections, where T'Challa subtly showcases Wakanda’s advancements, proposing a unified front against common global threats.
+Internal dissent grows in Wakanda as traditionalists challenge T'Challa's approach, but Shuri and Okoye defend his strategy.) --> LRR
+LRR[[S: Wakanda is facing internal dissent while building international relationships and enhancing its defenses.
+G: To unify Wakanda under his leadership and defend against Killmonger’s challenge, ensuring internal and global security.]] --> |Rally allies against Killmonger|LRRLE
+LRR --> |Undermine Killmonger stealthily|LRRRE
+LRRLE(T'Challa decides to rally his allies, both domestic and international, in the wake of Killmonger's attack on Wakanda.
+Killmonger's daring attack aims to destabilize T'Challa's regime by inciting a civil war, leveraging the growing internal dissent within Wakanda.
+The international allies and M'Baku, leading the Jabari forces, come to T'Challa's aid, marking the first time in history external forces fight alongside Wakanda, resulting in Killmonger’s defeat and T'Challa's approach being vindicated.)
+LRRRE(T'Challa decides to utilize Wakanda's advanced technology to launch covert cyber-attacks and surveillance operations against Killmonger's network, dismantling his resources and capabilities from within.
+The international community begins to notice unusual cyber patterns and disruptions linked to Killmonger's allies, leading to speculation about an invisible player on the global stage.
+Facing both internal dissent and external scrutiny, T'Challa orchestrates diplomatic meetings under the guise of addressing the cyber anomalies, reassuring global leaders of Wakanda's peaceful intentions and laying the groundwork for an international accord on cyber warfare and technology sharing.)
+LRLRE(T'Challa decides to militarize Wakanda using Vibranium and enhance its defense mechanisms.
+His decision leads to the development of advanced weapons and the reinforcement of Wakanda's physical and metaphorical walls.
+This shift towards militarization and isolation provokes both internal opposition and global apprehension, resulting in an international arms race and espionage against Wakanda.)
+LLRE(T'Challa decides to arrest Killmonger immediately upon his challenge, citing his betrayal and crimes against Wakanda.
+The decision to arrest Killmonger sparks controversy among the Wakandan people and council members.
+Pockets of unrest in Wakanda emerge, as Killmonger's vision resonates with some citizens.) --> LLR
+LLR[[S: T'Challa is facing internal dissent and global attention due to his decisions.
+G: To reunite his people and positively influence global affairs, while addressing the roots of the unrest.]] --> |Initiate Dialogues|LLRLE
+LLR --> |Intensify Isolation|LLRRE
+LLRLE(T'Challa decides to engage with both his allies and detractors within Wakanda, initiating a series of dialogues to address the nation's future direction.
+News of Killmonger's arrest and his vision for global liberation sparks a wave of international protests against oppression.
+T'Challa implements a new initiative using the heart-shaped herb to aid not just future Black Panthers but also to explore its medical capabilities for the benefit of all humanity.)
+LLRRE(T'Challa decides to reinforce Wakanda's isolation from the world, firmly believing that focusing on internal stability and safeguarding Wakandan technology outweighs the risks of global engagement.
+He strengthens the nation's borders with advanced surveillance and defense mechanisms, limits external communication, and enforces strict penalties for those caught sharing Wakandan secrets.
+This shift in policy leads to a temporary pacification of dissent within Wakanda, but marks the beginning of a more secretive and guarded era for the kingdom.)
+LLLRE(T'Challa decides to embark on a lone mission to infiltrate Wakanda and sabotage its advanced weaponry.
+T'Challa hacks into Wakanda's communication networks, disperses false orders, and sets non-lethal traps for Killmonger's loyalists.
+T'Challa's mission leads to the covert destruction of weapon depots but faces complications, including a near-fatal encounter with Dora Milaje.)

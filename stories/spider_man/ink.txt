@@ -1,0 +1,272 @@
+-> S
+== S ==
+As the sun sets over the city, you feel the weight of your two worlds balancing precariously on your shoulders. School, with its exams and extracurriculars, demands the attention of a dedicated student. Yet, as darkness blankets the city, your sense of duty as a part-time superhero pulls you into the shadows, urging you to protect the innocent. Amidst this chaos, an opportunity to prove your worth to Tony Stark surfaces, hinting at a chance to become a full Avenger. The thought exhilarates you, promising an escape from the mundane struggles of high school and into the ranks of those you've idolized. However, to seize this opportunity, a sacrifice must be made. Torn between your responsibilities and your dreams, you stand at a crossroads.
++ [Quit the decathlon team] -> L
++ [Stay on the decathlon team] -> R
+== L ==
+It's a pivotal moment in your life, and after much consideration, you decide to quit the academic decathlon team. The weight of responsibility as a superhero, dedicating yourself to fighting crime, outweighs everything else. The pursuit of justice and protection of the city becomes your primary focus, overshadowing academic achievements and team commitments. 
+While thwarting an ATM robbery executed with shockingly advanced alien technology, the thrill of the chase leads you back to the safety of your apartment. However, the unexpected happens - Ned, your best friend, accidentally discovers your secret identity. The revelation shocks him, but it also forges a deeper bond between you two, as he begins to understand the double life you've been leading. 
+Your curiosity and sense of responsibility draw you deeper into the underbelly of the city's crime. Investigating the source of the advanced alien weapons becomes your new mission. Encounters with the criminals selling this dangerous technology become more frequent and perilous, entangling you further in a web of intrigue and danger. 
+You find yourself deeply involved in your quest to halt the illegal trade of alien tech weapons. The stakes are higher than ever as you aim to locate the source of these advanced weapons and bring those responsible to justice.
++ [Interfere on the Ferry] -> LL
++ [Contact Tony Stark] -> LR
+== LL ==
+It's a pivotal moment as you decide to disrupt Toomes' illicit arms trade on the Staten Island Ferry. Believing in your abilities and the technology at your fingertips, you dive into action, unaware of the chaos that would ensue.
+In the heat of the confrontation, something goes horribly wrong. A weapon malfunction—not your doing, but certainly your responsibility—causes the ferry to split in half. Panic spreads as the vessel begins to sink, the lives of innocent passengers hanging in the balance.
+Then, like a beacon in the night, Tony Stark appears. Iron Man saves the day, rescuing passengers and using his technology to hold the ferry together. After the dust settles, Stark's disappointment is palpable. He questions your readiness, and as a consequence, takes away your advanced suit. The very tool that made you feel equal to the task of being a hero is gone. Now, standing in the shadow of this monumental setback, stripped of your advanced technology and facing the stern admonition of your mentor, you're at a crossroads. The challenge is clear: you must prove that you can be a hero without the advanced suit and earn back Tony Stark's approval.
++ [Attend homecoming and confront Toomes] -> LLL
++ [Call authorities about Toomes] -> LLR
+== LLL ==
+You make a bold decision to attend the homecoming dance, not just as Peter Parker, but with the intention of confronting Toomes in your homemade suit. The atmosphere of the dance blurs into the background as your mission becomes clear. However, upon discovering Toomes's sinister plans to hijack a D.O.D.C. plane loaded with invaluable technology, your priorities shift dramatically. Without a second thought, you abandon the dance and rush to stop him, driven by a duty far beyond the high school halls. Your confrontation with Toomes escalates into an intense battle. With every ounce of strength and wit, you manage to save both the villain's life and prevent the catastrophic crash of the plane, safeguarding the technology onboard. The ordeal tests your limits, reinforcing your resolve.
+
+Following your significant victory over Toomes and his nefarious scheme, you find yourself at a crossroads. Despite your success and the heroism displayed, you choose to decline an offer to join the Avengers full-time. The weight of the choice rests heavily on you, as you consider how best to balance your dual identity. Your core aim remains unchanged; to continue living as a high school student in Queens, embracing the challenges and responsibilities of being Spider-Man on your own terms.
++ [Continue as Spider-Man in Queens] -> LLLL
++ [Become a full-time Avenger] -> LLLR
+== LLLL ==
+After much contemplation, you decide to return to your life in Queens, leaving the door ajar for any future involvement with the Avengers. It's a decision that feels right, anchoring you to the reality you've always known, yet leaves a pathway to the extraordinary whenever duty calls.
+
+When the opportunity arises to join the Avengers full-time, you politely decline. Balancing the scales between your academic responsibilities and your extracurricular activities has always been a challenge, but one you're keen to maintain. Prioritizing your studies and personal growth seems the best course, reminding you of the grounded life you're fighting to protect.
+
+Slipping into your Spider-Man suit once again feels like embracing an old friend. The fabric against your skin doesn't just signify a mask and a set of responsibilities; it's a reminder of who you are at your core. With renewed vigor, you're ready to take on the world, cutting a solitary figure against the sprawling cityscape, ready to continue your superhero activities, independent but never alone.
+
+In the quiet moments between the chaos, you find a profound sense of purpose. The decisions you've made have not only defined your path but have also helped light the way for others. Each swing between the skyscrapers, each moment spent changing lives, small and large, reaffirms your commitment. They say that with great power comes great responsibility, and you are ready to face whatever comes next, knowing you've found the balance you sought. There's a world out there that needs you, and you are up to the challenge, today, tomorrow, and every day after.
+
+THE END
+-> END
+== R ==
+Despite your passion for crime-fighting, you've chosen to remain committed to the academic decathlon team, even though it means you have less time to patrol the streets as Spider-Man. This decision weighs heavily on you when you learn that an ATM robbery occurred, executed with advanced alien technology. The robbery escalates local criminal activity, as they now possess similar high-tech weapons.
+
+Feeling a heavy sense of guilt for not being there to stop the robbery, you refuse to let this setback defeat you. Instead, it fuels your resolve to be smarter about your role as Spider-Man. You start applying your academic team's research methods to analyze crime patterns, focusing on strategic interventions that could have a more significant impact.
+
+Your responsibility weighs on you, but you're determined to rectify your earlier absence. With a blend of guilt and a newfound strategic approach, you aim to use both your intellectual talents and your superhero abilities to fight crime more effectively. The challenge is to balance these aspects of your life without sacrificing effectiveness in either domain.
++ [Thwart cyber-attack] -> RL
++ [Reveal identity to friends] -> RR
+== RL ==
+In the quiet hum of your school's computer lab, you employ your unique skills to quietly neutralize a cyber-attack targeting the school's network. Unbeknownst to those around you, this attack has links to a dangerous group involved in the sale of advanced weaponry. Your actions not only save the school's digital infrastructure but also give you a lead on a growing criminal enterprise.
+
+Balancing school, life, and your clandestine activities as a superhero begins to take its toll. The strain is visible enough that Tony Stark, a mentor figure in your life, notices the slipping grades and the bags under your eyes. He approaches you with concern and an offer to help navigate these turbulent waters.
+
+Stark's suggestion of a part-time mentorship comes as a lifeline. Under his guidance, you find new ways to manage your dual responsibilities more efficiently, making significant strides both academically and in your crime-fighting efforts. With Stark's support, you become a force to be reckoned with, setting your sights on dismantling the network of criminals trading in advanced weapons plaguing your city.
++ [Focus on the source] -> RLL
++ [Confront the criminals] -> RLR
+== RLL ==
+With the city's crime rate on a mysterious downturn, you've found yourself with unusually free evenings. Instead of patrolling till the break of dawn, you dedicate your newfound time to unravel the mysteries behind the scene. Your investigation leads you to believe that cutting off the head of the snake—dismantling the criminal network from its source—might just rid the city of its incessant villainy once and for all.
+
+An upcoming academic competition in Washington, D.C., presents the perfect alibi for your sleuthing activities. Under the guise of representing your school, you're actually there to tail a major weapons dealer suspected to be the linchpin behind the city's escalating crime rates. Your academic obligations and superhero duties blur as you tread carefully on this dual-edged sword.
+
+Things take an unexpected turn when your covert operations catch the eye of Adrian Toomes, a significant figure in the criminal underworld. Your attempts to dismantle his operations quietly backfire, marking you as a direct threat to his livelihood. Toomes, who now sees Spider-Man as a nemesis to be eliminated, ignites a personal vendetta that dangerously crosses into your civilian life, endangering those you hold dear.
+
+Caught in a precarious situation, your secret identity and the safety of your teammates hang by a thread. The increased risk to your friends because of your dual life forces you to make a pivotal decision. To protect them and confront Toomes, all while keeping your masked persona under wraps, requires a careful, considered approach.
++ [Team up with Stark and authorities] -> RLLL
++ [Reveal identity to save team] -> RLLR
+== RLLL ==
+Working side by side with the legendary Tony Stark and law enforcement, you find yourself at the crux of a mission critical to your team's safety and the well-being of countless innocents. Your quick thinking and unique abilities allow you to confront Michael Toomes, averting a potential disaster. Amazingly, you manage to keep your secret identity intact, a testament to your growing expertise and cunning in the face of danger.
+
+The ordeal strengthens the bond between you and Stark, who openly acknowledges your remarkable growth and the refreshing uniqueness you bring to the table of superheroes. This recognition from someone as esteemed as Stark serves as a powerful affirmation of your journey, further fueling your resolve to continue on this path.
+
+In moments of reflection, you ponder over the journey that brought you here. The realization dawns upon you that true strength lies in the delicate balance between your intellectual prowess and the responsibilities of your superhero persona. Embracing the harmonious integration of both aspects of your life, you decide to continue walking the tightrope between your dual identities, convinced that this is the only way to truly make a difference.
+
+With a newfound sense of purpose and clarity, you look towards the future, ready to face whatever challenges it may bring with grace and strength. Balancing the books and the responsibility of saving the city, you swing into the night, embracing your destiny as both a guardian of peace and a beacon of hope for those who believe in the power of doing good.
+
+THE END
+-> END
+== RR ==
+In a moment of trust, you decide to share your secret identity as Spider-Man with your closest friends on the academic decathlon team. The revelation brings you closer together, forging a bond strengthened by your vulnerability. Surprisingly, they rally to support you, forming a covert operations team. Their determination and quick wit soon lead to the assembly of a network, dedicated to gathering intelligence on crimes tied to advanced alien technology. As you integrate into this new dynamic, your initial feelings of being overwhelmed start to fade, replaced by a sense of camaraderie and purpose. Everyone's unique skills contribute to forming an effective strategy to combat the looming threat.
+
+Now, united with your friends, you face a daunting challenge - a cyber-attack on the national power grid, traced back to alien weapon dealers. It's a race against time to prevent a catastrophe that could plunge the entire nation into darkness.
++ [Infiltrate the network with team's help] -> RRL
++ [Confront the weapon dealers directly] -> RRR
+== RRL ==
+With the support and technical prowess of your team, you dive deep into the underworld, infiltrating the communication networks of a notorious criminal group. It's a risky move, but one you're willing to take to keep the city safe. The operation is a resounding success, halting a planned attack in its tracks and, unexpectedly, capturing the attention of none other than Tony Stark. Stark is impressed by your ingenuity and offers his support and resources, enabling you to think bigger and act bolder than before.
+Your ambitions swell with the added firepower at your disposal. No longer limited by your previous constraints, you begin to craft plans for more aggressive and sweeping operations against the city's weapons dealers. With Stark's technological resources and your team's undeterred spirit, you're set on curbing the illegal arms movement more effectively.
+You find yourself at a crossroads, planning to dismantle the weapon dealers' vast network. The perfect opportunity arises during an academic competition in Washington, D.C. This mission is not just about thwarting the villains' plans; it's about safeguarding your friends and ensuring the safety of all participants, balancing heroism with the ordinary trials of youth.
++ [Protect friends and confront villains] -> RRLL
++ [Call in Tony Stark and the Avengers] -> RRLR
+== RRLL ==
+In the heart of a pulsating metropolis, you find yourself juggling the weighty responsibility of safeguarding your friends while also facing off against formidable adversaries. Your mind races, calculating every possible outcome, striving to ensure that no harm comes to those close to you, all while standing resolute against the tide of villainy that threatens the peace.
+
+The air crackles with tension as you confront Toomes and his menacing crew in a high-stakes showdown. Each punch thrown, each web slung, is with the dual purpose of protecting your friends and thwarting the evil plans that loom over the city. The battle tests every fiber of your being, pitting your resolve against the cunning and strength of those who wish to do harm.
+
+Triumphantly, through a combination of sheer will, astute strategy, and a timely partnership with Tony Stark and local authorities, you manage to ensnare Toomes and dismantle the network of alien weaponry. This victory not only signifies the end of a perilous chapter but cements your belief in the potent blend of might and mind. It's a testament to the idea that true heroism is about leveraging every asset at your disposal—be it the astonishing powers you wield or the sharp intellect you possess.
+
+As the dust settles, you stand tall among those you've protected, basking in the glow of a job well done yet humbly acknowledging the ever-present call to action. Knowing that the battle may be won but the war is far from over, you realize that this is but one chapter in the ongoing saga of justice and responsibility. And with that, you sling a web towards the horizon, ready for whatever challenges may come next.
+-> END
+== RRR ==
+Stepping out into the night, you decide to face the weapon dealers head-on, unafraid and determined to put an end to their operations. Your confidence in your abilities as a superhero drives you, pushing doubts and fears to the back of your mind. However, this bold move isn't without its consequences.
+
+The decision to confront the dealers directly doesn't sit well with everyone, especially your academic decathlon team. Their worry over safety is one thing, but the growing concern over the potential exposure of your secret identity adds a rift within the group. Despite their fears, you sense their unwavering support, though you can't help but feel the strain it places on your friendships.
+
+In an act of solidarity and determination to help, your friends equip themselves with makeshift masks and voice modulators to conceal their identities. But as fate would have it, during the heat of the confrontation, a malfunction exposes someone's true identity. The shock of this exposure adds a new layer of urgency and complexity to the situation.
+
+Following the confrontation, your team faces unexpected challenges. The task ahead is clear: to navigate the aftermath of your actions while maintaining your secret identities. The road won't be easy, but it's a burden you must bear, together as a united front.
++ [Gather evidence on dealers] -> RRRL
++ [Seek superhero assistance] -> RRRR
+== RRRL ==
+Determined to put an end to the nefarious activities plaguing your city, you decide to directly confront the weapon dealers, gathering evidence to ensure their capture. Your mind races with plans and contingencies, as you leap from rooftop to rooftop, your senses heightened and ready for the confrontation ahead.
+
+Just as you swing into action, your instincts scream a warning too late. The weapon dealers, now acutely aware of your tactics, have set a trap. A sudden, jarring explosion erupts from your web-shooters, throwing you off balance and into the harsh glare of the public eye. Pain flares in your body, but it's the ripple of shocked voices and the flash of media cameras that truly wound you, exposing your battle to an unprepared world.
+
+The chaos of the explosion, while momentarily crippling, ultimately serves as the catalyst for the weapon dealers' downfall. Amidst the swirling public scrutiny and the relentless press, the evidence you've gathered shines a spotlight on the malefactors, leading to their apprehension. In the aftermath, amidst apologies and explanations, an offer finds its way to you. A secretive organization, impressed by your resilience and dedication, reaches out, proposing a partnership that could change everything. With a careful blend of hope and skepticism, you ponder their offer, realizing that, despite the challenges, your journey is far from over.
+
+THE END
+-> END
+== RRRR ==
+Feeling outmatched and recognizing the complexity of the situation, you decide that seeking help is the smartest course of action. You head straight to Tony Stark, hoping that he and the Avengers can offer the support and firepower you lack. It's a humbling moment, but one that underscores the importance of teamwork, even for someone as independently capable as you.
+
+Once Tony Stark hears you out, he promptly organizes a meeting with you and a handpicked group of Avengers. The room buzzes with strategic talk, focusing on how to neutralize the weapon dealers discreetly. The plan needs to be foolproof, avoiding any public or media spectacle. It's impressive to see such minds at work, discussing nuances you hadn't even considered, all to ensure the safety and secrecy of the operation.
+
+The day of the operation, everything goes according to plan. The coordination and expertise of the Avengers, combined with your inside knowledge and agility, allow for a smooth execution. The weapon dealers are apprehended, and the alien technology is secured, all without a single bystander the wiser. It's a remarkable achievement that further cements the importance of allies in your fight against crime.
+
+Reflecting on the events, you realize the invaluable lessons learned about teamwork, trust, and the complexities of dealing with threats not just as a hero, but as part of a formidable alliance. With the city safe once again, you swing through the skyline, a sense of pride and accomplishment filling you. Today was a victory, not just for you, but for the united front against adversity. And as the sun sets on the city you vow to protect, you know that whatever comes next, you're not alone. THE END
+-> END
+== RRLR ==
+Recognizing the immense challenge ahead, you decide to call in Tony Stark and the Avengers right from the start. Understanding the limitations of your academic decathlon team in dealing with a threat of this magnitude, it feels like the only sane choice. There's a certain comfort in knowing that these seasoned heroes are now in your corner, ready to take on whatever daunting adversary you're facing.
+
+With the Avengers at the forefront of the battle, you pivot from direct engagement to intelligence gathering, harnessing both your personal abilities and your decathlon team's research skills to aid in the mission. This shift in tactics not only keeps you and your friends out of direct harm but also plays to your strengths, leveraging your collective intellect to support the Avengers in a crucial, albeit less visible, way.
+
+Engaging with such esteemed heroes, you experience a whirlwind of emotions, from feelings of inadequacy to significant personal growth. Tony Stark, along with the Avengers, imparts vital lessons on leadership, strategic decision-making, and the power of collaboration. Through observing their actions and heeding their advice, you begin to see the vast potential within yourself, not just as a superhero but as a leader and a strategist. Embracing these insights, you find newfound confidence in your role, understanding that heroism manifests in many forms, and sometimes, the might of the mind surpasses that of the muscles.
+
+Emboldened by your journey and the lessons learned from it, you stand ready to face any future challenges with a deeper understanding of your capabilities and the value of calling on others. The road ahead seems less daunting, knowing that you're not alone and that, together, you can overcome anything. This adventure has solidified your place not only among heroes but as a pillar of collaboration and strategic thinking in the ever-expanding universe of those who fight for good.
+
+THE END
+-> END
+== RLR ==
+In a daring act of heroism unlike any before, you soar through the skyline of New York, confronting criminals in broad daylight. Your actions, captured live by hovering news helicopters, unfold for the entire city to witness. It's a spectacle of courage and agility, as you deftly outmaneuver and apprehend the felons, all under the watchful eyes of an amazed public.
+
+This unprecedented display of bravery instantly elevates your status. You're no longer just a masked vigilante skulking in the shadows; you're a citywide hero, celebrated by the masses and feared by the criminal underworld. Your alter-ego, Spider-Man, becomes a household name, creating an intricate web of fame and notoriety that you now find yourself entangled in.
+
+With your identity teetering on the edge of exposure due to your heightened visibility, you retreat to your lab. Utilizing your profound academic prowess, you begin to develop advanced counter-surveillance technology. This new gear, you reason, will protect your secret and those you hold dear. It's a critical investment in your double life, one you hope will shield you from the prying eyes that now seem to follow your every move.
+
+As Spider-Man, you've ascended to unforeseen heights of fame, walking a tightrope between adulation and peril. With every eye in the city potentially watching, you find your identity on the verge of being unmasked. Yet, with great power comes great responsibility. You aim to use this growing infamy to gather intelligence on criminal activities, all while safeguarding your identity and the lives of those close to you.
++ [Launch a social media campaign] -> RLRL
++ [Infiltrate the criminal underworld] -> RLRR
+== RLRL ==
+Feeling the weight of responsibility on your shoulders, you decide to leverage your unique position in the community. Without revealing your true identity, you start a social media campaign resembling a citywide community watch. The goal is clear: encourage the citizens to keep their eyes open and report any unusual activities they might encounter. Your message spreads like wildfire, stirring up a sense of empowerment among the residents.
+
+The initiative pays off more than you had anticipated. Tips begin flooding in, leading to a significant breakthrough about a network of advanced weapons dealers operating within the shadows of the city. It dawns on you that your fame, both as a superhero and a symbol of hope, can be an incredibly powerful tool in gathering essential intelligence. This revelation fills you with a renewed sense of purpose and determination.
+
+Equipped with cutting-edge intelligence, you embark on a stealth operation to dismantle the weapons network that has plagued the city's underbelly. Utilizing a combination of your Spider-Man abilities, gadgets, and strategies developed under the meticulous mentorship of Tony Stark, you move with precision. Each move is calculated, each decision is strategic, ensuring that the operation leaves no stone unturned in erasing the network's existence from the city.
+
+As the dust settles, you stand atop a building overlooking the city skyline, a silent guardian watching over your home. The success of your mission not only reinforces your confidence in your capabilities but also cements your belief in the importance of community and cooperation. In this moment of quiet triumph, you realize that despite the challenges that lie ahead, you're never truly alone in your fight against evil. The people of the city, inspired by your actions, have proven they can stand together against darkness, making tomorrow a little brighter for everyone. THE END
+-> END
+== RLRR ==
+Deciding to take matters into your own hands, you infiltrate the criminal underworld, adopting a disguise to gather information directly from those who would rather you not know their secrets. The risk is immense, but the need for answers drives you forward, blending into the shadows where danger and deceit lie in wait.
+
+In order to better navigate this treacherous world, you create a new persona for yourself, 'The Shadow Spider'. This identity isn't just a name; it's a symbol of the cutting-edge stealth technology and gadgets you've developed. These tools not only mask your true identity but also alter your appearance, making you a specter unseen and unknown to your foes. It's a necessary deception to protect those you care about, and to gather the intelligence you desperately need.
+
+Your audacious endeavor leads you to an underground auction, a hub of illicit activity where alien technology is bartered like common goods. Your involvement in the criminal underworld deepens, drawing you into a web of intrigue and danger that promises to change everything. As you stand among shadows, your heart races, knowing that what you're about to do could either dismantle this criminal empire or ensnare you further into its dark depths.
+
+In a daring move, you decide to expose the auction to the authorities, using the intelligence you've gathered to coordinate a raid. As chaos erupts and the criminals are apprehended, you slip away unnoticed, the thrill of victory fleeting. The night air greets you as you ponder the cost of your double life, knowing well that the line between hero and vigilante is a thin one indeed. But for now, you've made the city a safer place, and that's what truly matters. Remembering those you're fighting for, you disappear into the night, your journey far from over.
+
+THE END
+-> END
+== RLLR ==
+In the heat of a climactic confrontation with Toomes, you make a decision that feels like the only option left: to reveal your identity as Spider-Man. The weight of the mask falls away, both literally and metaphorically, as the words leave your lips, hanging in the air between you and the assembly of stunned faces. Among them is Toomes, his expression shifting from malice to disbelief.
+
+This moment of shock provides the opening you desperately need. With Toomes and his cronies momentarily off balance, you spring into action. Your moves are precise, fueled not only by your powers but by the adrenaline that comes with your revelation. In a breathtaking display of agility and strength, you manage to subdue Toomes, safeguarding the safety of your team and bystanders. The threat is neutralized, but the echo of your confession rings in the air, irreversible and potent.
+
+No sooner has Toomes been dealt with than you realize the full impact of your decision. Cameras, ever-present in the hands of bystanders, have captured the entire ordeal. Your face, once hidden behind the guise of Spider-Man, now floods social media, catapulting you into a spotlight you never sought. The virality of the event is relentless, painting you not just as a hero, but as a public figure vulnerable to the world's scrutiny. The privacy you once cherished is stripped away, leaving you exposed to a future uncertain and fraught with new challenges.
+
+Navigating this new reality, you understand the true weight of responsibility and identity. The mask was not just for your protection, but for those you hold dear. As the world gains a hero in full view, you reconcile with the consequences of your transparency, embracing the journey ahead with a resolve stronger than web. Your story, marked by courage and sacrifice, continues to unfold under the watchful eyes of the world, forever altered by one pivotal decision.
+
+THE END.
+-> END
+== LR ==
+After pondering the complexities of the situation, you make a pivotal decision to reach out to Tony Stark about the looming weapons deal. Believing in the power of collaboration, you allow the Avengers to take the lead, hoping for a more secure resolution. 
+Tony Stark swiftly organizes a covert Avengers operation, meticulously planning to dismantle Toomes' dangerous operation from the shadows. With the might of the Avengers assembled, success seems almost guaranteed. 
+The operation unfolds with precision, effectively preventing the catastrophic event that would have been the Staten Island Ferry incident. In the aftermath, Tony Stark offers you praise for your exceptional judgment and integral role in the operation's success, recognizing your potential amidst heroes. 
+In this moment of accolade, you sense an opportunity to further prove your worth and solidify your place alongside the Avengers. Tony's trust in you has been renewed, and with the right next steps, you could ensure your position as an indispensable ally.
++ [Assist the Avengers in operations] -> LRL
++ [Focus on school and personal life] -> LRR
+== LRL ==
+Dressed in your homemade suit, you play a pivotal role from the sidelines during the Avengers' operations. Your inside knowledge and support are not just appreciated; they're critical. With every mission, the trust within this elite group strengthens, and before you know it, you're being invited to training sessions. These aren't your average workouts; they're advanced combat and tactical skill-building exercises with some of the most powerful beings on the planet. 
+
+Feeling empowered by these new experiences, you find yourself striking a balance like never before. Your grades are up, and the streets of New York are safer because of your nightly patrols. It's a golden equilibrium - attending school by day and fighting crime by night. 
+
+With your identity and role within the superhero community elevated, you're at a crossroads. There's pressure to maintain your unique identity as Spider-Man while being part of a team as prestigious as the Avengers. The balance is delicate, and the choices you make next could redefine who you are, both as a hero and as a person.
++ [Question Avengers Role] -> LRLL
++ [Focus on Solo Vigilantism] -> LRLR
+== LRLL ==
+As the world around you becomes increasingly complex, you find yourself at a crossroads, grappling with deep-seated questions of dependence and identity. The weight of being an Avenger hangs heavily on your shoulders, challenging your understanding of yourself and your place within the team. These internal battles are relentless, forcing you to reassess not just your role but your very essence as a hero.
+
+Just when you think you've faced every conceivable challenge, a new and formidable villain emerges, presenting threats you've never encountered before. This conflict pushes you to the brink, testing not only your individual strengths but also your reliance on your fellow Avengers. It's a pivotal moment that demands everything you have, requiring you to dig deep into your reserves of courage and determination.
+
+Through these trials, a transformation occurs within you. You emerge not only victorious in battle but also more sure of yourself and your unique place in the world. The journey reaffirms your role as a singular and capable hero, both as part of a team and on your own. This realization brings a sense of peace, as you understand that your value doesn't solely lie in your association with the Avengers but in the hero you are in your own right.
+
+As you stand on a rooftop overlooking the city, you feel a renewed sense of purpose and confidence. You've proven to yourself and the world that you are more than just a part of a team — you are a hero in your own right. With the city safe below, you swing into the night, ready for whatever comes next, secure in your identity as both a protector of the innocent and an Avenger.
+
+THE END
+-> END
+== LRR ==
+After much contemplation, you decide to hang up your Spider-Man suit and dedicate more time to your schoolwork and personal life. It's a tough decision, but you feel it's for the best, especially given the mounting pressure from your academic and family responsibilities. 
+As time goes on, your focus pays off. You lead your decathlon team to a championship victory, and the bonds with your friends and family deepen. However, you can't shake off the feeling of growing apart from the Avengers, the distance between your previous life and your current one widening each day. 
+Now, grounding yourself more firmly in your personal achievements and relationships, you find yourself drifting further away from your superhero duties. The thrill of swinging through the city fades into the background as your life takes on a new direction. Yet, amidst all this success, there's a gnawing sensation inside you, a feeling of disconnection from your former identity as a protector of the city.
+You realize you're excelling in your personal life but can't ignore the disconnect from your superhero identity. The challenge now is to find a balance, to contribute to the battle against crime without jeopardizing the personal life and safety you've worked so hard to secure.
++ [Aid the Avengers Anonymously] -> LRRL
++ [Suit Up as Spider-Man] -> LRRR
+== LRRL ==
+You decide to leverage your academic prowess to assist the Avengers covertly in their battle against an emerging threat. Recognizing the importance of brains over brawn in this scenario, you work tirelessly, analyzing data and patterns to outwit the villain from the shadows. Your contributions remain anonymous, but you know the incredible impact your intellect can have against the forces of evil.
+
+When a close friend falls victim to an attack orchestrated by this new villain, your motivation skyrockets. The incident fuels your determination, and you delve deeper into your research and surveillance, providing the Avengers with key intelligence that becomes instrumental in anticipating and counteracting the enemy’s next moves. Your friend's injury serves as a grim reminder of the stakes at hand, pushing you to use your skills more effectively and discreetly.
+
+Your critical behind-the-scenes contribution leads to the Avengers' triumphant victory. This experience profoundly alters your perception of heroism; you realize that there are various ways to make a difference, beyond donning the Spider-Man suit and engaging in physical combat. This revelation marks a significant growth in your journey, embracing your intellectual gifts as your superpower and redefining what it means to be a hero.
+
+As you reflect on these events, you understand that every challenge presents an opportunity to evolve and discover new facets of yourself. Heroism can take many forms, and your journey is far from over. It's the impact that matters, not the method. With this newfound wisdom, you are more prepared than ever for whatever comes next, knowing that you can make a difference in countless ways.
+
+THE END
+-> END
+== LRRR ==
+Feeling the weight of responsibility heavier on your shoulders than ever before, you don the suit once again, becoming Spider-Man to face a new menace threatening the city. The decision isn't made lightly; the echoes of past sacrifices and battles fought in those colors resonate deeply within you. But the emergence of this new villain leaves you no choice. Your commitment to protect overshadows any lingering doubts.
+
+As if drawn by some malevolent force, the villain's sinister plans target not just the city, but zero in on your school and everyone you hold dear. This direct threat propels you into action, forcing you to navigate the precarious balance between your two worlds. With each daring confrontation, you're more than just Spider-Man; you're a protector of all you cherish, driven by a resolve that's as unyielding as it's desperate.
+
+The pursuit of justice and protection for those you love begins to toll on your life as Peter Parker. Classes missed, assignments turned in late, and cutting conversations short have become all too familiar. The friends and loved ones who once stood by your side start feeling the distance growing, as Spider-Man's shadow looms large over your personal commitments. Despite the strain, your resolve remains undeterred, for the safety of the city and the people you love outweighs any personal cost.
+
+As you stand atop the city, the silent guardian once more, you realize the journey of Hero and Man is one fraught with sacrifice and responsibility. Yet, in your heart, you know the path you've chosen is right. The city sleeps below, unaware of the battles fought and the sacrifices made for its continued peace. As dawn breaks, you swing away, a figure of hope in the dim light, ever ready to face whatever comes next, knowing the balance you straddle is delicate, but necessary. For in the end, it's not just Spider-Man or Peter Parker, but the unity of both that truly makes a hero.
+-> END
+== LRLR ==
+Feeling the weight of your responsibilities and seeking a more personal connection to your mission, you decide to step back from fighting alongside the Avengers and embrace solo vigilantism. It's a decision that feels right, offering a chance to return to the roots of what drove you to put on the mask in the first place. And so, with a sense of renewed purpose, you patrol the streets of New York, ready to face whatever comes your way alone.
+
+Without the support of the Avengers, you quickly find yourself up against a new villain whose mastery over quantum technology threatens to unravel the very fabric of reality itself. The challenges you face are unlike any before, pushing you to your limits and forcing you to confront the stark reality of your situation. This villain's ability to warp reality itself makes every encounter unpredictable and dangerous, challenging your resolve and the very principles you stand for.
+
+In your quest to counter this unparalleled threat, you seek the expertise of Dr. Hank Pym, a pioneer in quantum technology. With his help, your suit is upgraded with materials resistant to quantum fluctuations, giving you a fighting chance against your reality-warping foe. Not only that, but you also find an unexpected ally in Riri Williams, a young genius whose brilliance and courage inspire you. Together, you form a new alliance, combining strength, intellect, and technology in a shared battle for the future.
+
+The experiences garnered through your journey, the battles fought, and the alliances formed redefine you in the eyes of the public. You become more than just a superhero; you emerge as a symbol of resilience, empowerment, and hope. Through sheer will and unwavering determination, you forge a new path, one that solidifies your legacy and cements your role as a pillar of strength in a world teeming with chaos and uncertainty.
+
+THE END
+-> END
+== LLR ==
+After much contemplation, you decide to contact the authorities with the information you've gathered about Toomes, choosing not to engage him in a direct confrontation. Knowing the risks involved, you believe this to be the safer, more responsible course of action.
+Leveraging your remarkable technical skills, you manage to anonymously supply law enforcement agencies with concrete evidence of Toomes' illegal activities. This includes detailed plans of his intent to hijack the D.O.D.C. plane. Your efforts lead to a significant escalation in law enforcement activities aimed at preventing the heist and apprehending those involved.
+With law enforcement now on high alert and fully prepped to intercept the heist, you shift gears. While you've done much from the sidelines, the weight of responsibility still bears heavily on your shoulders. You understand that despite your decision to involve the authorities, your role in ensuring the operation's success and safeguarding all parties involved isn't over yet.
++ [Help covertly in Spider-Man suit] -> LLRL
++ [Trust the authorities to handle it] -> LLRR
+== LLRL ==
+Feeling the weight of responsibility on your shoulders, you slip into your homemade Spider-Man suit, determined to offer your covert assistance. Staying in the shadows, you're aware that your actions could tip the scales in favor of justice without revealing your identity. The city needs you, and you can't let it down.
+
+As the operation unfolds, you subtly intervene at critical moments. Your aim is to ensure the safety of the officers involved while keeping yourself away from the direct line of action. Each movement is calculated, each decision crucial. You're like a guardian angel, steering events from the fringe, making sure that good prevails without ever stepping into the limelight.
+
+The operation culminates in a resounding success, with Adrian Toomes, also known as the Vulture, being apprehended and his stolen technology secured. However, the victory is bittersweet as the ordeal inadvertently draws a target on your back and, by extension, on those you hold dear. Toomes' associates begin a relentless hunt for the mole who undermined their plans, putting everyone you care about in unforeseen peril.
+
+Despite the impending threats and the looming sense of danger, you're resolute. The choices you've made, born out of a deep sense of duty and responsibility, have not only tested your mettle but also reaffirmed your commitment to protecting the city and its inhabitants, no matter the personal cost. As you stand vigilant against the night sky, you're ready to face whatever comes next, embodying the true essence of a hero.
+-> END
+== LLRR ==
+Deciding to place your complete trust in the authorities, you firmly believe that the extensive evidence you've gathered against Toomes' operation will suffice for a successful takedown without your direct intervention. It's a significant decision, one that underscores your belief in the importance of the rule of law and the power of the systems in place to protect the city.
+
+However, Toomes employs sophisticated counter-surveillance measures that lead to a catastrophic failure of the operation. With your unique abilities and insights sidelined, key figures, including Toomes himself, manage to evade capture. The setback hits hard, not just as a blow to the authorities' efforts, but as a personal failure in your decision to take a step back.
+
+When you learn of the operation's failure through news reports, a deep sense of guilt and frustration washes over you. The news anchors' words seem to echo your thoughts on the balance of power, responsibility, and trust. Lying in bed, staring at the ceiling, you can't help but fear for the safety of your city and your loved ones. It's a moment of reflection on what it means to be both a hero and a citizen—in which the lines are blurred, and the path forward seems more challenging than ever before.
+
+In the weeks that follow, you redouble your efforts, driven by the lessons learned from this experience. Understanding more deeply the weight of your responsibilities, you pledge to find a balance that neither shirks the duty you owe your city nor ignores the value of trust in those around you. It's a new chapter, one filled with determination and hope, but also a recognition of the complexities of the choices you face.
+-> END
+== LLLR ==
+Accepting Tony Stark's invitation, you become a full-fledged Avenger, stepping into a world that expands far beyond the streets of Queens. The decision weighs heavily on you, but the thrill of joining forces with the Earth's mightiest heroes overshadows any doubt. This is a turning point in your life, one that sets you on a path of unparalleled adventure and responsibility.
+
+Your induction into the Avengers is nothing short of spectacular. The ceremony is rich in tradition and solemnity, emphasizing the gravity of the commitment you're making. As you stand among legends, you feel a sense of belonging and purpose that you've never experienced before. This moment marks not just the acceptance of a new member, but the birth of a new era for the Avengers, with you at its heart.
+
+On your very first mission as an Avenger, you're thrust into a situation that tests every fiber of your being. The threat you face is unlike any other, spanning continents and challenging the very essence of international diplomacy and ethical conduct. Navigating through these complexities, you're forced to make decisions that don't just affect you, but the entire world. It's a harrowing experience, but it solidifies your resolve and your understanding of what it means to be a hero on a global scale.
+
+In the aftermath, you reflect on the journey that has led you here, realizing that every challenge has prepared you for this moment. As you stand ready to face whatever comes next, you know that as long as you stay true to yourself, there's no obstacle too great, no villain too powerful. With the support of the Avengers and the strength within you, the future is limitless. And so, a new chapter begins.
+
+THE END
+-> END

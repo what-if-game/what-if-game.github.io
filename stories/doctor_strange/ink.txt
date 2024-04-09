@@ -1,0 +1,271 @@
+-> S
+== S ==
+In a twist of fate that seems especially cruel given your career, you find yourself the victim of a car accident that robs you of the precise control of your hands that your profession demands. Every attempt at surgical reconstruction and rehabilitation ends in frustration, the fine motor skills required for surgery just out of reach. Desperate, you begin a frenetic search for any solution that could restore your dexterity, your life's work slipping through your fingers like sand.
+
+In this low moment, you learn of Jonathan Pangborn, a man whose case mirrors your own yet who has somehow managed to not only walk again after a paralyzing injury but seemingly recovered completely. The possibility of a similar miracle for yourself sparks a flicker of hope in the darkness.
+
+Yet, another part of you considers embracing this new reality. The world of medicine still holds a place for you, albeit not in the operating room. As a consultant, you could still save lives, applying your knowledge and experience from a different vantage point. The choice before you is stark: chase the whisper of a miracle or find purpose in a new role.
++ [Seek out Pangborn] -> L
++ [Become a consultant] -> R
+== L ==
+After hearing tales of Jonathan Pangborn's inconceivable recovery, you find yourself driven by a mixture of desperation and curiosity. The spectacular turn from a paralytic state to living a fully functional life ignites a spark of hope within you, leading you to seek him out. 
+Upon locating Pangborn, he shares his secret with you, directing you to a mysterious place known as Kamar-Taj. It's here, he assures, that you'll find the answers and healing you seek, away from the conventional paths of medicine you've walked so far. 
+You arrive in Kamar-Taj, greeted by the ancient and mystical atmosphere of the place. It's a significant departure from your life of surgeries and medical consultations, but the promise of healing and power through the mystic arts is an irresistible lure. You stand on the threshold of a new chapter, leaving your old life behind.
+As you begin your new life in Kamar-Taj under the tutelage of the Ancient One, your goal becomes clear: to master the mystic arts and heal your hands through their power. The journey ahead is daunting, yet it holds the promise of restoration and newfound prowess.
++ [Embrace the teachings wholeheartedly] -> LL
++ [Steal the Eye of Agamotto] -> LR
+== LL ==
+You've decided to embrace the teachings of the mystic arts wholeheartedly, dedicating yourself to understanding powers beyond the grasp of conventional science. Your journey is arduous, filled with ancient texts, complex spells, and the persistent threat of madness. But your determination never wavers.
+You learn to harness energy from the multiverses, creating spells for both protection and combat. This newfound power feels like a natural extension of your will, a testament to your dedication and your tutors' wisdom. Every incantation, every gesture draws you closer to mastering the arcane.
+Your prowess in the mystic arts leads you to discover the Eye of Agamotto. With it, you learn to bend time to your will, furthering your understanding and power within the mystical realms. This artifact, capable of altering the very fabric of reality, holds secrets that you've only begun to uncover.
+Having grown significantly in power and understanding of the mystic arts, you know your purpose extends beyond mere self-improvement. The Earth is vulnerable to threats from beyond its dimensional boundaries, and your mastery over the mystic arts places you as its first line of defense.
++ [Confront Kaecilius] -> LLL
++ [Consult the Ancient One] -> LLR
+== LLL ==
+Feeling the weight of responsibility on your shoulders, you decide to confront Kaecilius and prevent the summoning of Dormammu. His intentions could spell doom for the world as you know it, and only you stand in his way. The confrontation leads you into the depths of the Mirror Dimension, a place where the laws of physics are mere suggestions, and then through the ancient halls of various Sanctums. Each battle is more intense than the last, pushing your skills to their limits.
+Kaecilius proves to be a formidable adversary, and despite your efforts, he succeeds in bringing part of the Dark Dimension to Earth. Reality itself begins to warp and bend in horrifying ways, signaling the impending doom of your world. But amidst the chaos, you form a daring plan. A plan to confront Dormammu directly in his own realm, a risk that few would dare to take.
+However, the Earth now teeters on the edge of annihilation, teeming with the malevolent energies of the Dark Dimension. The very fabric of reality is at stake, and you know that it falls upon you to stop Dormammu and save the Earth. The decision you make next could alter the course of history itself.
++ [Trap Dormammu in time loop] -> LLLL
++ [Go back in time to stop Kaecilius] -> LLLR
+== LLLL ==
+In a bold and seemingly endless cycle, you choose to entrap yourself and the formidable Dormammu within a time loop. This daring strategy forces both of you into a scenario where you endlessly experience your own demise, a confrontation with no end in sight. The stakes could not be higher, and yet, it feels like the only card left to play against such an overpowering foe.
+
+After what feels like an eternity of suffering and relentless resolve, your repeated sacrifices finally bear fruit. Dormammu, overwhelmed by the loop’s unyielding repetition, concedes to your terms. With a begrudging agreement to leave Earth and take Kaecilius along, the nightmare that had loomed over humanity begins to dissolve. It’s a victory achieved not through brute strength, but through an unbreakable will and a clever exploitation of time itself.
+
+Having ended the calamitous threat posed by Dormammu, you save Earth from imminent destruction. The victory, though exhausting and pyrrhic, solidifies your standing as Earth’s mystical protector. With the immediate threats quelled, you take up residence in the New York Sanctum, ready to face whatever challenges may come next in the defense of the reality you're sworn to protect. There, amidst ancient relics and mystical tomes, you begin to truly understand the weight of your new role, standing guard over the fabric of reality itself.
+
+THE END
+-> END
+== R ==
+After years of brilliance in the medical field, you decide to shift your focus towards consultancy, applying innovative techniques interwoven with cutting-edge technology. Your unique approach not only solidifies your reputation but also ushers in a new era of medical consultancy.
+
+Soon, your expertise in aiding surgeries remotely gains international acclaim. While analyzing medical scans, you begin to uncover mystical symbols hidden within the human anatomy. This discovery is not just a breakthrough in medical science but also a window to something far more ancient and mystical.
+
+Your deep analysis and the unveiling of these arcane symbols do not go unnoticed. The Ancient One, a figure shrouded in mystery and vested with unimaginable power, takes a keen interest in your work. The convergence of medicine and mysticism under your investigation has blurred the lines between what's scientifically explainable and the unknown.
+
+As the Ancient One reaches out to you, you're caught at a crossroads. The logical part of you is intrigued by the unexplainable symbols and phenomena you've encountered. Yet, the beckoning of the mystic arts promises a journey beyond the boundaries of conventional science.
++ [Embrace the mystic arts] -> RL
++ [Focus on your medical career] -> RR
+== RL ==
+After being offered a mystic and unparalleled path by Mordo, you find yourself diving into the world of the mystic arts, motivated by a series of vivid dreams and sudden, unexplainable disruptions to the fabric of reality that you've observed. The pursuit of answers leads you to a reality far beyond the confines of conventional science.
+
+You soon begin your training under the guidance of the Ancient One. Your exceptional ability to grasp complex concepts allows you to master spells with an impressive speed, demonstrating a natural affinity for the mystic arts that surprises even your mentors.
+
+Leveraging your unparalleled analytical skills honed through years of neurosurgical practice, you innovate in the realm of magical defense, weaving your knowledge into spells that fortify Earth's defenses against mystical threats. Your unique approach strengthens the barriers between dimensions, safeguarding the planet from entities that seek to harm it.
+
+Now, as you stand adept in the mystic arts and a guardian of Earth's mystical defenses, you're faced with a critical decision. Kaecilius seeks to summon Dormammu to merge Earth with the Dark Dimension, a move that would spell catastrophe. Your mission is clear: prevent this merger and secure the safety of your world.
++ [Confront Kaecilius directly] -> RLL
++ [Strengthen Sanctums only] -> RLR
+== RLL ==
+You engaged Kaecilius directly, your unique combination of knowledge and sorcery disrupting his nefarious plans. Diving deep into the mystic arts, you identify critical weaknesses within his scheme, successfully thwarting his attempts to bend reality to his will. Your victory is short-lived, however, as Kaecilius manages to capture you during a moment of vulnerability. It's only through a daring rescue by Mordo and the other sorcerers that you find yourself free once again. Now, as a linchpin in the ongoing battle against mystic threats, you're faced with a crucial decision. With the safety of Earth hanging in the balance, it's up to you to stop Kaecilius and prevent the Dark Dimension from consuming your world.
++ [Outsmart Kaecilius with illusions] -> RLLL
++ [Negotiate with Kaecilius] -> RLLR
+== RLLL ==
+You decide to outsmart Kaecilius by leveraging your dual expertise in neurosurgery and mystic arts, creating disorienting illusions. Your unique approach combines precise, calculated movements with the vast, unpredictable nature of magic. This combination proves to be disorienting not just for your foes, but also for allies who have never seen such tactics. The battlefield transforms into a chessboard, where every move you make is both a medical incision and a spell cast, leaving your opponents unable to anticipate your next move.
+
+In a climactic battle, your approach leads to Kaecilius's defeat. As the environment around you shifts and bends to your will, Kaecilius finds himself lost in a maze of his own making. Each attempt he makes to bend reality is countered with a precision that is both surgical and mystical. Ultimately, his defeat isn't just physical but also ideological, as he realizes the depth of your understanding of both the mystic arts and the human body.
+
+You continue to balance your consulting work with your role in defending the Earth, becoming a bridge between two realms. Your days are a blend of consulting for the world's most challenging neurosurgeries and protecting it from threats others can't even begin to comprehend. This dual life you lead enriches your understanding of both science and magic, making you a unique guardian of not just the physical world but also the mystical.
+
+THE END
+-> END
+== RR ==
+After years of groundbreaking work, you've decided to fully devote yourself to advancing your medical career, specifically at the intersection of neurology and the mystic arts. Your relentless pursuit leads to the establishment of a new field, which you dub 'Neuro-Mystical Studies.' This innovative approach allows for groundbreaking treatments for neurological disorders, merging the precision of science with the boundless possibilities of magic. Your work quickly gains international acclaim, positioning you as a pioneer. However, your success does not come without its challenges. Kaecilius, fearing the implications of your discoveries, views your work as a direct threat to the mystical order he seeks to protect. Your scientific approach to the mystic arts, while revolutionary, has earned you both acclaim and enemies.
+
+In this perilous moment, your primary goal is to safeguard your research and yourself from the imminent threats, while continuing to explore the depths of the neuro-mystical connection.
++ [Collaborate with Mordo] -> RRL
++ [Publicly expose findings] -> RRR
+== RRL ==
+In a bold move, you decide to collaborate with Mordo, merging your expertise to develop defenses against mystic threats through non-magical means. This partnership marks a new chapter, one where science meets the arcane in ways previously unimagined. 
+Mordo then leads a covert rescue operation to save you when you're kidnapped, cementing the trust and the strength of your newfound partnership. His actions not only free you but also demonstrate the depth of his commitment to your shared goals. 
+Together, using your combined knowledge of magic and science, you devise the 'Neuro-Mystic Interface,' a revolutionary device capable of manipulating mystical energies through neurological understanding. This invention embodies the perfect synthesis of your and Mordo's visions, merging the mystic arts with cutting-edge science.
+
+Having successfully created a device that blends science with the mystic arts, you are now faced with a significant decision. Kaecilius poses a grave threat to the world, misusing the mystic arts for his own nefarious purposes. With the power of the Neuro-Mystic Interface at your fingertips, you must choose how best to confront him and safeguard the world from his malevolent intentions.
++ [Use the Interface against Kaecilius] -> RRLL
++ [Destroy the Interface] -> RRLR
+== RRLL ==
+In an unprecedented blend of your surgical precision and newfound mystical knowledge, you decide to utilize the Neuro-Mystic Interface. The device, a testament to your innovative spirit, aims to scientifically manipulate the very fabric of the mystical energies at play, directly disrupting Kaecilius's intricate rituals. The halls of the sanctum echo with the hum of technology meeting ancient power, a symphony of your making.
+
+Facing Kaecilius, the air crackles with tension as you wield the Interface with unwavering confidence. The clash is not just of powers, but of ideology, pitting your blend of science and nascent mystical skills against his dark, unfettered sorcery. Each move, empowered by the device, showcases not only your scientific acumen but a growing mastery over the mystic arts, confounding Kaecilius at every turn.
+
+Victory is sweet, as the analytical framework provided by the Neuro-Mystic Interface allows you to anticipate and counter Kaecilius's every move. Through a remarkable synthesis of your life's work in medicine and the mystic arts, you defeat him, thereby securing your position as not just a master of the mystic arts but as a true protector of this reality. With Kaecilius's defeat, peace is momentarily restored, and the sanctum stands safe under your watchful eye, a beacon of balance between science and magic.
+
+THE END
+-> END
+== RRR ==
+In an unprecedented move, you decide to publicly reveal your groundbreaking findings in the field of Neuro-Mystical Studies. By laying your discoveries bare for the world to see, you hope that the light of transparency will shield you from the shadows of mystical threats that lurk in secrecy.
+
+Your revelations set the world ablaze with both fascination and controversy, igniting fervent debates among scientific circles and mystic communities alike. The crux of the discourse lies in the ethical implications of merging these two realms traditionally seen as distinct and incompatible.
+
+The spotlight you now find yourself under not only brings critics and naysayers to your doorstep but also draws the attention of potential allies. These range from forward-thinking tech innovators to rogue sorcerers, each offering their unique skills and resources to support your cause.
+
+Despite the global attention and the array of allies rallying to your side, you find yourself at the heart of public controversy and opposition. Your goal is now clear: to legitimize your revolutionary work in the face of skepticism and direct opposition, ensuring your findings are used for the peaceful betterment of humanity.
++ [Demonstrate Neuro-Mystic Interface] -> RRRL
++ [Battle Kaecilius in secret] -> RRRR
+== RRRL ==
+You stand confidently before the cameras, the weight of the world on your shoulders. With the Neuro-Mystic Interface secured firmly to your forehead, you tap into the unseen energies that bind the universe. Your aim is clear: to neutralize the chaos unleashed by Kaecilius using the very essence of magic itself, but in a manner that benefits humanity. The live audience and those watching from afar are awestruck as you effortlessly weave through complex spells, showcasing the device’s ability to tame the mystic arts for peace.
+
+In retaliation, Kaecilius orchestrates a cunning media onslaught against you. Employing illusions and a deep command of the mystic arts, he twists the public's perception, portraying your groundbreaking theories and demonstrations as nothing more than elaborate hoaxes. The very essence of your credibility is threatened as Kaecilius’s influence spreads, sowing seeds of doubt among those you aimed to enlighten and protect.
+
+Undeterred, you find yourself facing Kaecilius across a digital battlefield, the eyes of the world fixed on the both of you through a global livestream. Utilizing your profound understanding of both mystical and scientific realms, you outwit Kaecilius at every turn. With each move, you counter his spells, debunk his accusations, and dispel the illusions he's cast over the masses. As the final enchantments dissolve, your reputation is not only restored but elevated. You stand as a symbol of innovation and unity between two worlds once thought irreconcilable.
+
+As the dust settles and the world cheers your name, you realize that the victory is not just yours but for all those who dare to dream of a better future. And while new challenges will surely arise, the legacy you've created stands as a beacon of hope, proof that courage and knowledge can indeed change the world. You glance once more at the horizon, ready for whatever comes next, secure in the knowledge that your journey has only just begun.
+
+THE END
+-> END
+== RRRR ==
+Deciding to engage in a shadowy battle against Kaecilius, you step into the shadows, your mind focused on the formidable task ahead. This isn't just about power; it's a fight to protect the very fabric of reality from being torn asunder by dark forces. With determination, you prepare yourself for the encounters that lie ahead, knowing well that the balance of mystical energies must be maintained, and any threat to it thwarted at all costs.
+You enlist the help of Wong and underground sorcerers to gather evidence against Kaecilius's misuse of mystical arts. Together, you delve into hidden archives, consult ancient tomes, and navigate the secretive sorcerer communities that span across the globe. Your efforts are focused on building a case that could expose Kaecilius's malfeasances without bringing the mystical world into the spotlight of the uninitiated. It's a delicate task, requiring finesse and a deep understanding of both the mystic and the material.
+Using the Neuro-Mystic Interface, you subtly safeguard research and influence the underground medical and mystic communities. This delicate operation calls for precise manipulation of energies and knowledge, ensuring that your actions remain undetected by hostile forces. Your team's discovery of Kaecilius's plot to unleash a mystical virus marks a critical turning point. Employing the Neuro-Mystic Interface in a stealth operation, you neutralize the threat, saving countless lives from an unseen menace.
+The incriminating evidence against Kaecilius is anonymously leaked to global authorities, leading to his arrest. This strategic move eliminates a dangerous adversary without exposing your involvement or the secret world of mystics to the prying eyes of the public. The battle may be over, but the war for the protection of reality goes on. You stand ready, knowing that as long as dark forces threaten the balance, you will be there, a silent guardian of both the mystic and mortal worlds.
+THE END
+-> END
+== RRLR ==
+In an act driven by the concern of its immense power being misused, you make the weighty decision to destroy the Neuro-Mystic Interface. The potent artifact, once a beacon of potential synergy between mysticism and modern science, now lays in ruins by your hand, ensuring that its capabilities would not fall into the wrong hands. The decision, though difficult, seems to you the only way to protect the fragile balance of the realms.
+
+The shattering of the Interface necessitates a recalibration of your strategic approach towards the looming mystic threats. Alongside Mordo, you delve deeper into the ancient tomes and artifacts, seeking a way to fortify your defenses against the dark forces that stalk the edges of reality. The combination of your medical expertise and the mystical knowledge becomes a new foundation on which to build your strategies, a blending of worlds that provides a fresh perspective on the battles to come.
+
+The absence of the Interface, however, has unexpected repercussions. Kaecilius, sensing an opportunity amidst the chaos, accelerates his malevolent efforts to unleash havoc upon the world. This escalation forces you and Mordo to extend your hands in alliance to other Masters of the Mystic Arts. United in purpose, you set out to gather a formidable force capable of standing against the darkness, each Master bringing their unique skills and knowledge to fortify your ranks against what lies ahead.
+
+As you stand on the precipice of war, the alliances you've formed and the strategies you've devised are put to the test. The battle that ensues is fierce, with the fabric of reality itself at stake. Through unparalleled bravery and mastery of the Mystic Arts, you manage to turn the tide, securing a victory not just for yourselves but for the entire fabric of reality. As the dust settles, you know that despite the sacrifices, you've managed to avert a catastrophe, preserving the balance for another day. The path before you remains fraught with danger, but for now, the world is safe.
+-> END
+== RLR ==
+After prolonged contemplation, you decide that fortifying the Sanctums is the most strategic approach to safeguarding the world. This isn't a decision you make lightly, understanding the immense responsibility it carries. The weight of the world's safety rests on your shoulders, but you stand firm in your conviction that this is the right path.
+
+However, your choice does not come without its repercussions. Your relationship with Mordo and the Ancient One shifts, marked by a growing concern over your reluctance to confront Kaecilius directly. They fear that by not facing him head on, you might be missing an opportunity to nip the threat in the bud. Their apprehension hangs heavily in the air, casting a shadow of doubt over your chosen course of action.
+
+As if on cue, Kaecilius intensifies his assault on reality. Unleashing threats that weaken the barriers between dimensions, he poses a dire threat to the very fabric of reality itself. It seems your fears are becoming reality faster than you anticipated, and now, with the barriers weakening, the clock is ticking louder than ever.
+
+Kaecilius unleashes threats that begin to weaken the barriers between dimensions. You realize the gravity of the situation and understand that you must act quickly to reinforce the fabric of reality and prevent otherworldly creatures from invading Earth. The fate of the world hangs in the balance, and it's up to you to decide how to protect it.
++ [Enhance Sanctums' defenses] -> RLRL
++ [Seek other dimensions' aid] -> RLRR
+== RLRL ==
+With a determination that marries the precision of your past as a renowned neurosurgeon with the mystic knowledge you've acquired, you set forth to augment the defenses of the Sanctums. This ingenious blend of science and sorcery is something the world, or rather the multiverse, has yet to witness. You can't help but feel a twinge of excitement at the potential of your creation.
+
+The defenses you've engineered begin to operate beyond all expectations, displaying a prowess that is nothing short of miraculous. They not only repel the assaults of those who would do harm but also mend the very fabric of reality that had been frayed by their attacks. It's a testament to the potency of combining fields of knowledge thought to be worlds apart, and you can't help but wonder at the other possibilities this opens up.
+
+However, the relentless aggression unleashed by Kaecilius brings forth an unforeseen consequence. A powerful entity from another dimension is drawn to the fray, challenging the very foundations of your strategy and forcing a reevaluation of your approach. This adversary demands more than just a keen mind and powerful magic; it requires a wisdom and resilience forged from facing the impossible.
+
+In the face of this new challenge, you realize that the true strength lies not in defenses or attacks, but in the ability to adapt and to find strength even in vulnerability. As you prepare to confront this entity, embracing both science and magic, you're not just fighting for the here and now, but for the very fabric of reality across all dimensions. It's a monumental task, but one you accept with the full weight of your combined knowledge and experience. This might just be your most defining moment, a trial by fire that will either forge a legend or see the end of all you've fought for. The fate of the multiverse rests in your hands.
+
+THE END
+-> END
+== RLRR ==
+Deciding that the threats you face are beyond the scope of your current abilities, you resolve to seek the aid of beings from other dimensions, hoping to forge an alliance that might bolster your strength. The multiverse is vast and unknown, but within it, you believe allies can be found.
+
+Using your deep knowledge of mystical symbols and ancient texts, you carefully open portals to dimensions unexplored by any sorcerer of this Earth. Through these shimmering gateways, you recruit beings possessing unique and powerful mystical abilities. Each of them, intrigued by your cause, agrees to lend their strength to your own.
+
+The alliance you've forged brings together an impressive array of powers: foresight into multiple futures, the ability to manipulate time in localized zones, and even the skill to heal wounds in the very fabric of reality itself. With these allies at your side, you feel a newfound confidence that you can confront the looming threats head-on, preserving the balance of the multiverse.
+
+However, as the threads of reality weave around the actions of you and your newfound allies, you understand more deeply than ever that with great power comes grave responsibility. Your choices have helped avert disaster, but they've also changed the cosmic balance in ways that will unfold across time and space. As the portal closes behind your final ally, you stand ready to face whatever comes next, guardian of not just your reality, but countless others.
+
+THE END
+-> END
+== RLLR ==
+Believing that a peaceful resolution can prevent further destruction and loss of life, you decide to negotiate with Kaecilius. Your approach is guided by the understanding that every conflict has layers of misunderstanding and historical pain that, if addressed, could unveil a path to peace. The destruction that has leveled cities and torn asunder the fabric of reality itself weighs heavily on your conscience, driving you towards this moment of diplomacy.
+
+During the negotiation, you empathize with Kaecilius using your deep knowledge of neurosurgery and the mystic arts. You propose a unique collaboration that promises to enhance Earth's magical defenses rather than weaken them through continued conflict. Your words, imbued with sincerity and a shared sense of loss, strike a chord. The possibility of turning an erstwhile enemy into a powerful ally seems within reach, as you both discuss the intricate ways your combined efforts could fortify the planet against otherworldly threats.
+
+The negotiations lead to a groundbreaking agreement. Kaecilius and his followers, recognizing the wisdom in your proposal, agree to integrate into the Sanctum’s ranks. This historic alliance significantly bolsters Earth's magical defenses and marks a turning point in the way mystical threats are contested. Moreover, your role as the architect of this peace establishes you as a key mediator, someone capable of bridging worlds through wisdom and empathy. This newfound unity within the mystic community heralds a era of unprecedented protection for Earth.
+
+In the end, despite the odds and past enmities, you've managed to forge a powerful alliance, transforming potential devastation into a bastion of peace and security. Your actions not only avert a crisis but also weave a stronger fabric of unity among Earth's defenders. The balance between the mystical and the mundane has been restored, owing largely to your leadership and vision. As peace settles over the Sanctum, you feel a profound sense of accomplishment. The world may never know the extent of what's been averted, but in the quiet after the storm, you know the galaxy spins on a safer axis.
+-> END
+== LR ==
+In a moment of desperation and ambition, you decide to steal the Eye of Agamotto, believing its power can heal your hands immediately and restore your former life. The allure of reversing your tragedy and regaining your status as a renowned surgeon proves too tempting to resist.
+
+Your hands are healed, visibly restoring their dexterity and strength, a miraculous recovery that would have been celebrated under different circumstances. However, this triumph comes with a dire consequence. The uncontrolled use of the Eye of Agamotto unleashes ripples through the very fabric of reality itself, attracting unknown dark entities towards Earth. The sky darkens as the unseen boundaries protecting your world begin to crumble.
+
+The repercussions of your actions become painfully clear as your relationship with the Ancient One and the dedicated sorcerers of Kamar-Taj deteriorates quickly, resulting in your expulsion. The theft of the Eye and its misuse not only endanger the world but alienate you from those who had begun to teach you the mystical arts. Isolated and burdened with guilt, you find yourself facing the consequences of your decisions, haunted by the chaos you've unleashed.
++ [Offer services in secret] -> LRL
++ [Seek refuge in other dimensions] -> LRR
+== LRL ==
+In the shadows of the grand sorcerer's sanctums, you sought redemption for past misdeeds by offering your service to the Ancient One in secret. Without the resources and support of the order, you embarked on a perilous journey, fighting dark entities and tirelessly searching for Kaecilius, driven by a resolve to make amends.
+In your quest, deprived of the Eye's immense power, you delved into ancient, almost forgotten realms of magic. Forming unlikely alliances with ancient spirits and a few sorcerers who saw beyond your past mistakes, you tracked Kaecilius across the globe. The alliances were tenuous, but driven by a common goal, your makeshift band pressed forward.
+The chase culminated in a dramatic encounter where, despite the odds, you and your newfound allies triumphed over Kaecilius. Utilizing your knowledge of primitive magic, you managed to disrupt his dark ritual and sever his connection to the Dark Dimension, retrieving the Eye in the process. The victory was bittersweet, symbolizing both an end and a beginning.
+After saving Earth and confronting the consequences of your actions, you stand at a crossroads, contemplating your future. The quest for atonement has ended, leaving you pondering how to forge a new path that honors your obligations to both the mystical and earthly realms.
++ [Establish a freelance sanctum] -> LRLL
++ [Become a nomadic sorcerer] -> LRLR
+== LRLL ==
+Deciding to forge a new path, you establish a freelance sanctum. This new endeavor focuses on threats lurking outside the traditional boundaries guarded by sorcerers, allowing you to slowly rebuild the trust that had been eroded. Your actions don't just aim at protecting; they serve as a testament to your dedication and a bridge to mend the fractured bonds within your mystical fraternity.
+
+With the immediate peril thwarted and Earth safe once more, you return the Eye to its rightful place. It's a moment of reflection and resolution as you propose a new direction for yourself. You envision becoming a bridge between the mystical and the earthly realms, a harmonizer of the two worlds that had so far seemed parallel and separate. This decision marks a pivot in your journey, symbolizing a commitment to both your roots and your role as Earth's protector.
+
+Your new role and the freelance sanctum signify the dawn of your journey towards reconciliation with the Ancient One and the sorcerers. It's a path of redemption, healing, and service to Earth. Your actions lay the foundations for a newfound respect and understanding between the mystical orders and the world you vow to protect. As you embrace this destiny, you can't help but feel that this is just the beginning of a larger story, a story where your past errors are lessons and your future is filled with promise and potential.
+
+THE END
+-> END
+== LRR ==
+After encountering a fracture in reality, you chose to leave Earth and explore the vast, mysterious expanses of the multiverse. Your journey revealed the wondrous and perilous diversity of the cosmos, far beyond any human comprehension.
+In your exploration, fate guided you to the presence of the Living Tribunal, an entity embodying the cosmic balance. The Tribunal, recognizing your unique potential among mortals, decided to impart to you the profound knowledge of balance in the universe, widening your perspective and enhancing your understanding of your place within the cosmic tapestry.
+Your journey became a quest for enlightenment as you delved deeper into the mystical arts, forming alliances with entities and sorcerers from dimensions beyond your own. These new relationships enriched you with unparalleled magical insights and perspectives, vastly augmenting your capabilities.
+Now, armed with your enhanced magical knowledge and the support of your alliances across dimensions, you stand ready to confront the looming menace of the Dark Dimension and address the chaos it has seeded on Earth. The choice before you is pivotal - utilize your newfound abilities and networks to directly confront the threat or focus on strengthening the barriers between dimensions to thwart further intrusions, buying Earth more time.
++ [Return to Earth for confrontation] -> LRRL
++ [Fortify dimensional boundaries] -> LRRR
+== LRRL ==
+After a period of self-imposed exile, you decide it's time to return to Earth. There's a new threat looming on the horizon, one that poses a danger not just to your world, but to all dimensions. Gathering your allies from across the multiverse, you prepare to face whatever is coming, knowing that the battle ahead might be your greatest challenge yet.
+
+Upon your return, you find the welcome less than warm. The Ancient One and the sorcerers of Kamar-Taj view you with skepticism and disdain, remnants of past conflicts lingering in their eyes. Despite the cold reception, you realize that collaboration is crucial. Setting aside previous grievances, you start working together with them, focusing on the threat at hand, proving that old wounds can heal when faced with a common enemy.
+
+The confrontation that follows is like none you've ever faced, testing the limits of your abilities and forcing alliances that were once deemed impossible. Your actions pave the way for a new era of cooperation between dimensions. You become a liaison, a bridge between worlds, marking the beginning of your path toward redemption. This pivotal role cements your legacy, transforming you from a solitary figure into a symbol of unity and hope.
+
+Your journey, filled with battles won and alliances forged, has led you here. Standing at the nexus of realities, you realize the vast responsibilities now resting upon your shoulders. As a guardian of not just one realm but many, your path forward is fraught with challenges and dangers. Yet, in this moment of quiet after the storm, you know you're ready to face whatever comes next. For you are more than a sorcerer; you are a mediator, a protector, and a friend to all dimensions. And so, your story continues, a never-ending saga of bravery, sacrifice, and redemption.
+-> END
+== LRRR ==
+Choosing a path of foresight over immediate action, you resolve to fortify the boundaries between dimensions, ensuring that prevention is prioritized over direct confrontation. This decision necessitates a delay in your return to Earth, as the task demands your undivided attention and mastery over the mystic arts.
+
+During your diligent efforts, you stumble upon ancient artifacts and long-forgotten spells of immense power. These discoveries promise to significantly strengthen the protective barriers you seek to reinforce, adding layers of defense previously unimagined.
+
+Your quest takes a crucial turn as you realize that to achieve the ultimate fortification, you must embark on a journey through various realities to seek out legendary artifacts. Each artifact is protected by unique guardianships or challenges, turning your mission into a test of wit, courage, and perseverance. As you traverse these realities, the fabric of your understanding of the mystic arts and the multiverse stretches and grows, preparing you for battles and alliances unforeseen.
+
+Your journey across realities slowly weaves the desired strength into the dimension's barriers, ensuring their resilience against threats. With the artifacts secured and woven into the fabric of each dimension, the boundaries stand firmer than ever. Through trials and challenges, you have not only fortified the barriers but also forged alliances and gained knowledge that will echo through the ages. As you finally return to Earth, you know the multiverse is safer, for now. But the cost of this safety, the things you've seen, and the sacrifices made, will forever linger in your heart, a testament to the burdens borne by those who stand at the crossroads of worlds.
+
+THE END
+-> END
+== LRLR ==
+Choosing to operate from the shadows, you initiate a solitary journey across the globe. As a nomadic sorcerer, you work in secrecy, intervening only when the fabric of reality itself is threatened. Your presence becomes a whisper on the wind, a rumor among those who deal in the arcane and the hidden.
+
+During your travels, you stumble upon a lost sect of sorcerers deep in the heart of an untouched forest. They teach you ancient, primal magic, a form of sorcery so old and fundamental that it expands the very boundaries of your magical knowledge. These forgotten arts allow you to tap into powers you never knew existed, further solidifying your legacy as one of the most powerful sorcerers.
+
+Your exploits and the mastery over these ancient magics inadvertently turn you into a legend within mystical communities. Eventually, you cross paths with Zelma Stanton, a bright and inquisitive soul seeking to understand the mystic arts. Seeing potential and a kindred spirit, you mentor her, imparting your knowledge and understanding the true importance of connections and allies in a world filled with hidden threats and unseen wonders.
+
+Reflecting upon your journey, you realize that despite the solitude of your early decisions, it was through connections—both old and new—that you found true strength. Zelma's apprenticeship under your guidance not only signifies the continuation of a legacy but also the importance of mentorship and friendship in the ever-twisting path of destiny. It is in these moments of teaching and learning that you find true fulfillment, closing a chapter of your life and looking forward to the many yet unwritten.
+-> END
+== LLR ==
+In search of a more strategic approach to confront the looming threat of Dormammu, you decide to consult the Ancient One. The pursuit of wisdom leads you to the doorstep of someone who has walked the line between realms, someone who has battled the shadows that lurk just beyond mortal comprehension.
+
+During your conversation, the Ancient One reveals an artifact shrouded in mystery and draped in the power of ages past - the Orb of Cagliostro. This ancient relic holds the key to unveiling the weaknesses of interdimensional entities, presenting a beacon of hope in your quest to protect Earth from Dormammu's malevolent grasp.
+
+Preparations begin for your quest to locate the Orb of Cagliostro. With the knowledge of Dormammu's vulnerability within reach, envisioning a strategic approach becomes your primary focus. Your journey ahead is marked by the convergence of mystic arts and ancient wisdom, a path that will lead to confronting an entity whose influence threatens the very fabric of reality.
++ [Craft a mystic virus] -> LLRL
++ [Negotiate with Dormammu] -> LLRR
+== LLRL ==
+In your quest for unparalleled mystical protection for Earth, you decide to craft a mystic virus. This isn't an ordinary concoction but a blend of potent spells and the unique energies harvested from various multiverses. The complexity of this task demands your utmost attention and skill, as even the slightest miscalculation could have catastrophic consequences.
+
+As Kaecilius begins the summoning of Dormammu, aiming to link Earth to the Dark Dimension permanently, you find the perfect opportunity to test the fruits of your labor. You intervene just in time, wielding the mystic virus as your weapon. The virus, designed to disrupt and weaken the fabric of Dormammu's influence, begins to take effect almost instantly. As you watch, the grasp Dormammu has over Earth starts to wane, his dark energy dissipating like mist under the morning sun.
+
+The weakened Dormammu, unable to sustain his presence in this dimension under the strain of the virus, has no choice but to retreat. Kaecilius, the mastermind behind the initial summoning, finds himself overwhelmed by the forces of the mystic virus, his plans crumbling to dust. This decisive victory not only thwarts an imminent threat but also cements your reputation as a strategic and wise sorcerer, whose innovative methods and profound understanding of the mystic arts safeguard the world from destruction. In the wake of this triumph, Earth remains safe, for now, under your vigilant watch.
+
+THE END
+-> END
+== LLRR ==
+You've come to the realization that direct confrontation with Dormammu could lead to catastrophic consequences. Instead, you decide to employ the Orb of Cagliostro, aiming to negotiate a pact with the dread being from the Dark Dimension. With the weight of the decision heavy on your shoulders, you hope your unorthodox strategy will lead to peace rather than destruction.
+
+In the days leading up to the negotiation, you immerse yourself in the study of the Orb of Cagliostro. Your dedication unveils ancient knowledge about pacts and diplomatic protocols within the mystic realms, knowledge that might be the key to navigating the treacherous waters of negotiations with Dormammu. Every page turned and spell decoded brings you closer to understanding not just the orb, but also the complex fabric of interdimensional diplomacy.
+
+The negotiation with Dormammu is tense, a high-stakes game played on the edge of reality itself. However, your preparation pays off. Dormammu agrees to withdraw from Earth and halt his invasion plans, in exchange for limited access to Earth's mystical energy under strict conditions you defined. It's a fragile pact, but it stands - a testimony to your wisdom and diplomatic prowess. The Earth is safe, for now.
+
+Victory, however, comes with the realization of the delicate balance you've created. While you've managed to avert an immediate crisis, the pact with Dormammu is but a temporary solution to an eternal problem. Still, you take solace in the fact that peace has been secured, if only for a moment. And as you gaze upon the horizon, you understand that your journey as the guardian of this reality is far from over. But for now, you allow yourself a moment of respite, knowing that the Earth has been spared from immeasurable destruction.
+
+THE END
+-> END
+== LLLR ==
+With the weight of the world upon your shoulders, you resolve to use the Eye of Agamotto to travel back in time. Everything you know hangs in the balance, but the risk feels necessary. Bright energy swirls around you, the fabric of time folding as you step backwards into history, intent on altering the course of events to save reality itself.
+
+However, your actions have unforeseen consequences. As you tamper with the timeline, reality itself begins to unravel. The very air crackles with arcane energy as temporal anomalies spring into existence, and entities that threaten the dimensional balance emerge from the chaos. You realize that your quest to save the future may have jeopardized the existence of everything.
+
+With the mystic arts as your shield and your ingenuity as your weapon, you navigate these new challenges, threading through the dangers with the grace of a practiced sorcerer. Each anomaly faced, each entity quelled, brings stability one step closer. The balance of power is delicate, and every action carries weight. Yet, through sheer will and knowledge of the arcane, you manage to weave reality back together, restoring balance to the universe.
+
+The world steadies around you, the fabric of reality weaving itself whole once again. Your journey has been fraught with danger and filled with impossible choices, but through it all, you've safeguarded existence itself. As you look upon a now tranquil world, you know that the future is secure, for now. Your tale is one of sacrifice, wisdom, and indomitable will. And though the battle may be over, the legacy of your actions will echo through the annals of time.
+
+THE END
+-> END

@@ -1,0 +1,137 @@
+S[[S: Peter Parker is a high school student and part-time superhero.
+G: To prove himself to Tony Stark and become a full Avenger.]] --> |Quit the decathlon team|LE
+S[[S: Peter Parker is a high school student and part-time superhero.
+G: To prove himself to Tony Stark and become a full Avenger.]] --> |Stay on the decathlon team|RE
+LE(Peter Parker decides to quit the academic decathlon team to focus on crime-fighting activities.
+Peter prevents an ATM robbery using advanced alien weapons, which leads him back to his apartment where Ned discovers his secret identity.
+Peter is drawn into investigating and stopping advanced weapons sales in his city, becoming more entangled with the criminals involved.) --> L
+L[[S: Peter is becoming more involved in his efforts to stop the illegal alien tech weapons trade.
+G: To locate the source of the advanced alien weapons and apprehend those responsible.]] --> |Interfere on the Ferry|LLE
+L --> |Contact Tony Stark|LRE
+LLE(Peter Parker decides to interfere with Toomes' weapons deal on the Staten Island Ferry.
+His interference leads to the ferry being split in half due to a malfunctioning weapon.
+Tony Stark intervenes, rescuing the passengers and admonishing Peter, which results in Peter having his suit taken away.) --> LL
+LL[[S: Peter is without his advanced suit and has been admonished by Tony Stark.
+G: To prove he can still be a hero without the advanced suit and win back Stark's approval.]] --> |Attend homecoming and confront Toomes|LLLE
+LL --> |Call authorities about Toomes|LLRE
+LLLE(Peter Parker decides to attend the homecoming dance and confronts Toomes, wearing his homemade suit.
+Upon discovering Toomes plans to hijack a D.O.D.C. plane, Peter abandons the dance to stop him.
+Peter battles Toomes, eventually saving both the villain's life and the technology from the plane crash.) --> LLL
+LLL[[S: Peter has successfully stopped Toomes and saved his life, but declined to join the Avengers.
+G: To continue living his life as a high school student while still being Spider-Man on his own terms.]] --> |Continue as Spider-Man in Queens|LLLLE
+LLL --> |Become a full-time Avenger|LLLRE
+LLLLE(Peter Parker decides to return to his life in Queens, keeping the door open for future Avengers involvement.
+He declines the offer to join the Avengers full-time, choosing instead to focus on his life as a student.
+Peter wears his returned Spider-Man suit once more, ready to continue his superhero activities independently.)
+RE(Peter Parker decides to stay in the academic decathlon team, reducing his time spent on crime fighting.
+Peter misses preventing an ATM robbery using advanced alien weapons, leading to increased activity from local criminals utilizing similar tech.
+Feeling guilty for not stopping the robbery, Peter becomes more strategic, using his academic team's research skills to analyze crime patterns and prioritize high-impact interventions.) --> R
+R[[S: Peter feels guilty for not preventing the robbery and becomes more strategic in his crime-fighting methods.
+G: To effectively use his intellectual talents in conjunction with his superhero duties to combat crime.]] --> |Thwart cyber-attack|RLE
+R --> |Reveal identity to friends|RRE
+RLE(Peter discreetly uses his abilities to thwart a cyber-attack on the school’s network, which indirectly relates to the criminals selling advanced weapons.
+Peter’s dual life leads to exhaustion and slipping grades, which Tony Stark notices.
+Stark offers support, suggesting a part-time mentorship to help balance his responsibilities.) --> RL
+RL[[S: Peter, with Stark's support, grows more efficient in balancing his dual life and combating crime.
+G: To dismantle the network of criminals selling advanced weapons in his city.]] --> |Focus on the source|RLLE
+RL --> |Confront the criminals|RLRE
+RLLE(Leveraging his reduced crime-fighting time, Peter focuses on dismantling the network from its source.
+Peter uses an academic competition in Washington, D.C., as cover to investigate a major weapons dealer.
+Despite his efforts to remain low-key, Peter inadvertently draws the attention of Toomes, who sees Spider-Man’s interference as a direct threat to his operations.) --> RLL
+RLL[[S: Peter’s identity is threatened, and his team is in danger due to his superhero activities.
+G: To protect his team and confront Toomes without revealing his identity.]] --> |Team up with Stark and authorities|RLLLE
+RLL --> |Reveal identity to save team|RLLRE
+RLLLE(Peter collaborates with Tony Stark and the authorities to secure his team's safety and confront Toomes, preventing a disaster without revealing his identity.
+This event brings Peter and Stark closer, with Stark acknowledging Peter’s growth and unique approach to being a superhero.
+Peter reflects on his journey, recognizing the importance of balance and the strength found in combining his intellectual talents with his superhero duties. He decides to maintain his dual life.)
+RRE(Peter Parker decides to reveal his secret identity to his closest friends on the academic decathlon team.
+His friends rally to support him, forming a covert operations team to gather intelligence on crimes involving advanced alien technology.
+Peter's state transitions from feeling overwhelmed to being supported by a team.) --> RR
+RR[[S: Peter is supported by a team, collaborating to tackle crimes involving alien technology.
+G: To prevent a cyber-attack on the national power grid linked to alien weapon dealers.]] --> |Infiltrate the network with team's help|RRLE
+RR --> |Confront the weapon dealers directly|RRRE
+RRLE(Peter Parker decides to infiltrate the criminal network's communications with his team's help.
+Their successful intervention prevents the attack and catches Tony Stark's attention, who offers additional support and resources.
+Peter's state evolves into planning more ambitious operations against the weapons dealers with enhanced resources.) --> RRL
+RRL[[S: Planning ambitious operations against the weapons dealers with enhanced resources.
+G: To dismantle the weapons dealer's distribution network during an academic competition in Washington, D.C.]] --> |Protect friends and confront villains|RRLLE
+RRL --> |Call in Tony Stark and the Avengers|RRLRE
+RRLLE(Peter Parker decides to balance protecting his friends and stopping the villains during a confrontation.
+A high-stakes confrontation with Toomes and his goons escalates, challenging Peter to protect his friends and the mission.
+Peter successfully coordinates with Tony Stark and authorities, leading to Toomes' capture and the seizure of alien weaponry, reinforcing his belief in leveraging both powers and intellect.)
+RRRE(Peter Parker decides to confront the weapon dealers directly.
+The decision causes a rift within the academic decathlon team, as they worry about safety and Peter's secret identity exposure.
+Peter and his friends, determined to help, use makeshift masks and voice modulators, leading to a malfunction and identity exposure during the confrontation.) --> RRR
+RRR[[S: Following the confrontation, Peter's team faces unexpected challenges.
+G: To navigate the aftermath of their actions while maintaining their secret identities.]] --> |Gather evidence on dealers|RRRLE
+RRR --> |Seek superhero assistance|RRRRE
+RRRLE(Peter continues his direct approach by seeking evidence to apprehend the weapon dealers.
+The weapon dealers, now aware of Peter's tactics, disrupt his web-shooters, causing a minor explosion during the confrontation.
+The explosion draws public and media attention, complicating Peter's personal life, but ultimately leads to the dealers' apprehension and offers from a secretive organization.)
+RRRRE(Peter Parker decides to retreat and seek assistance from Tony Stark and the Avengers.
+Tony Stark convenes a meeting with Peter and a select group of Avengers to devise a strategic plan to tackle the weapon dealers without drawing public or media attention.
+The joint operation is successfully executed, apprehending the weapon dealers and securing the alien technology without public incident.)
+RRLRE(Peter Parker decides to call in Tony Stark and the Avengers from the start, acknowledging the limitations of his academic decathlon team in dealing with a threat of this scale.
+With the Avengers taking charge, Peter shifts from direct combat to intelligence gathering, utilizing his and his decathlon team's research skills to support the mission.
+Peter feels a mix of inadequacy and growth as he learns the value of leadership, strategic decisions, and collaboration from Tony Stark and the Avengers.)
+RLRE(Peter Parker decides to directly confront the criminals in New York, using his powers in a bold daytime rescue that is captured live by news helicopters.
+This act of bravery turns Spider-Man into a citywide hero, significantly increasing his notoriety among the public and the criminal underworld.
+With his identity now perilously close to being uncovered due to his increased visibility, Peter uses his academic skills to develop sophisticated counter-surveillance technology.) --> RLR
+RLR[[S: Peter Parker, as Spider-Man, has become a citywide hero with increased notoriety and is close to having his identity uncovered.
+G: To leverage his growing fame to gather intelligence on criminal activities while protecting his identity and those close to him.]] --> |Launch a social media campaign|RLRLE
+RLR --> |Infiltrate the criminal underworld|RLRRE
+RLRLE(Peter Parker decides to start a social media campaign under the guise of a citywide community watch, encouraging citizens to report unusual activities.
+This initiative leads to valuable tips about the network of advanced weapons dealers, showing that his fame can be a powerful tool in gathering intelligence.
+Using the intelligence gathered, Peter launches a stealth operation to dismantle the weapons network, combining his Spider-Man abilities with gadgets and strategies developed under Tony Stark's mentorship.)
+RLRRE(Peter Parker decides to directly infiltrate the criminal underworld, disguising himself to gain information directly from the source.
+Peter develops a new persona, 'The Shadow Spider,' with stealth technology and gadgets that mask his identity and alter his appearance.
+His efforts lead him to an underground auction selling alien technology, deepening his involvement in the criminal underworld.)
+RLLRE(Peter Parker decides to reveal his identity as Spider-Man during the confrontation with Toomes.
+The revelation stuns everyone present, including Toomes, giving Peter the opening he needs to defeat Toomes and ensure his team's safety.
+The event is captured by bystanders and quickly becomes viral, propelling Peter into an unwelcome spotlight.)
+LRE(Peter Parker decides to inform Tony Stark of the weapons deal, allowing the Avengers to intervene instead.
+Tony Stark organizes a covert Avengers operation to dismantle Toomes' operation.
+The successful intervention prevents the Staten Island Ferry incident, earning Peter praise from Tony Stark.) --> LR
+LR[[S: Peter is praised by Tony Stark for his judgment and earns renewed trust.
+G: To further prove his worth and solidify his place alongside the Avengers.]] --> |Assist the Avengers in operations|LRLE
+LR --> |Focus on school and personal life|LRRE
+LRLE(Peter, wearing his homemade suit, provides critical inside information and support from the sidelines during Avengers' operations.
+Peter's relationship with the Avengers grows as he is invited to training sessions, learning advanced combat and tactical skills.
+Feeling empowered, Peter balances his life more effectively, excelling in school and crime-fighting.) --> LRL
+LRL[[S: Peter's identity and role within the superhero community are elevated.
+G: To maintain his unique identity as Spider-Man while being part of the Avengers.]] --> |Question Avengers Role|LRLLE
+LRL --> |Focus on Solo Vigilantism|LRLRE
+LRLLE(Peter faces new challenges and internal struggles about dependency and identity, questioning his role within the Avengers.
+A significant battle against a new, formidable villain tests Peter's individual strengths and reliance on the team.
+The storyline culminates in reaffirming Peter's role as a unique and capable hero both within and apart from the Avengers.)
+LRRE(Peter Parker decides to step back from his Spider-Man persona to focus on schoolwork and his personal life.
+Peter leads his decathlon team to a championship and improves his relationships with friends and family, feeling a gap growing between himself and the Avengers.
+Peter is now more focused on his personal achievements and relationships, distancing himself from his superhero duties.) --> LRR
+LRR[[S: Peter is excelling in his personal life but feels disconnected from his superhero identity.
+G: To find a way to contribute to fighting crime without compromising his personal life and safety.]] --> |Aid the Avengers Anonymously|LRRLE
+LRR --> |Suit Up as Spider-Man|LRRRE
+LRRLE(Peter Parker decides to use his academic talents to anonymously aid the Avengers against a new villain.
+A close friend is injured in an attack, motivating Peter to act indirectly by providing crucial intelligence to the Avengers.
+Peter's involvement leads to the Avengers' victory without him directly taking on his Spider-Man persona, finding a new way to be a hero.)
+LRRRE(Peter Parker decides to become Spider-Man again to confront the new villain
+The new villain targets Peter's school and loved ones, forcing Peter into action
+Peter's return as Spider-Man strains his academic commitments and relationships due to his frequent absences)
+LRLRE(Peter Parker decides to disassociate from the Avengers and focus on solo vigilantism.
+Without the Avengers' backup, Peter encounters a significant threat from a new villain using quantum technology to warp reality.
+Peter collaborates with Dr. Hank Pym, who enhances Peter's suit with quantum-resistant materials, and mentors a young genius, Riri Williams, forming a new alliance.
+Peter's actions and decisions reshape his public identity, portraying him as a symbol of resilience and empowerment.)
+LLRE(Peter Parker decides to call the authorities with the information about Toomes, deciding not to confront him directly.
+Peter uses his technical prowess to anonymously provide law enforcement with evidence of Toomes' operation, including the planned hijacking of the D.O.D.C. plane. This results in a heightened law enforcement operation aimed at thwarting the heist.
+With the authorities alerted and prepared for the heist, Peter's next goal becomes ensuring the operation's success from behind the scenes.) --> LLR
+LLR[[S: The authorities are prepared to thwart the heist, thanks to Peter's anonymous tip.
+G: To ensure the operation's success and the safety of everyone involved without revealing his identity.]] --> |Help covertly in Spider-Man suit|LLRLE
+LLR --> |Trust the authorities to handle it|LLRRE
+LLRLE(Feeling a sense of responsibility, Peter dons his homemade Spider-Man suit and provides covert aid.
+He subtly intervenes during critical moments, ensuring the safety of the officers involved while staying out of the direct line of action.
+The operation is a success, with Toomes being apprehended and the technology secured. However, the ordeal puts Peter and his loved ones in unexpected danger as Toomes' associates begin hunting for the mole.)
+LLRRE(Peter Parker decides to place complete trust in the authorities, firmly believing his extensive evidence against Toomes' operation will suffice for a successful takedown without his interference.
+Toomes employs sophisticated counter-surveillance, leading to a catastrophic failure of the operation without Spider-Man's unique intervention, resulting in key figures including Toomes evading capture.
+Peter learns of the operation's failure through news reports, feeling guilt and frustration, and contemplates the balance of power, responsibility, and trust while fearing for the safety of his city and loved ones.)
+LLLRE(Peter Parker decides to accept Tony Stark's invitation, becoming a full-time member of the Avengers.
+Peter is inducted into the Avengers with an elaborate ceremony, marking the gravity of his new role.
+He faces a complex global threat on his first mission, which pushes him to navigate international laws and moral complexities.)

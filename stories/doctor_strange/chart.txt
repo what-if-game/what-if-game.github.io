@@ -1,0 +1,138 @@
+S[[S: Stephen Strange, a brilliant neurosurgeon, loses the use of his hands in a car accident.
+G: To regain the use of his hands and return to his former life.]] --> |Seek out Pangborn|LE
+S[[S: Stephen Strange, a brilliant neurosurgeon, loses the use of his hands in a car accident.
+G: To regain the use of his hands and return to his former life.]] --> |Become a consultant|RE
+LE(Stephen Strange decides to seek out Jonathan Pangborn after learning of his miraculous recovery.
+Strange finds Pangborn, who directs him to Kamar-Taj to learn from the Ancient One.
+Strange ends up in Kamar-Taj, beginning a new journey away from his life of medicine.) --> L
+L[[S: Stephen Strange begins his new life in Kamar-Taj under the tutelage of the Ancient One.
+G: To master the mystic arts and heal his hands through their power.]] --> |Embrace the teachings wholeheartedly|LLE
+L --> |Steal the Eye of Agamotto|LRE
+LLE(Stephen Strange decides to embrace the teachings of the mystic arts wholeheartedly.
+Strange learns to harness energy from the multiverses, creating spells for protection and combat.
+Strange discovers the Eye of Agamotto and learns to bend time, advancing his understanding and power.) --> LL
+LL[[S: Stephen Strange has grown significantly in power and understanding of the mystic arts.
+G: To protect the Earth from interdimensional threats.]] --> |Confront Kaecilius|LLLE
+LL --> |Consult the Ancient One|LLRE
+LLLE(Stephen Strange decides to confront Kaecilius and prevent the summoning of Dormammu.
+Strange battles Kaecilius in the Mirror Dimension and then in various Sanctums.
+Kaecilius succeeds in bringing part of the Dark Dimension to Earth, but Strange develops a plan to confront Dormammu directly.) --> LLL
+LLL[[S: The Earth is on the brink of being consumed by the Dark Dimension.
+G: To stop Dormammu and save the Earth.]] --> |Trap Dormammu in time loop|LLLLE
+LLL --> |Go back in time to stop Kaecilius|LLLRE
+LLLLE(Stephen Strange decides to trap himself and Dormammu in a time loop to force a bargain.
+After experiencing Strange's repeated deaths, Dormammu agrees to leave Earth and take Kaecilius with him.
+Stephen Strange ends his conflict with Dormammu, saving Earth and taking up residence in the New York Sanctum.)
+RE(Stephen Strange decides to focus on his consultancy, applying innovative techniques with technology
+Strange becomes known for aiding surgeries remotely, discovering mystical symbols in scans
+Strange's deep analysis attracts the attention of the Ancient One) --> R
+R[[S: The Ancient One takes interest in Strange
+G: To explore the mystic arts after encountering unexplainable symbols and phenomena]] --> |Embrace the mystic arts|RLE
+R --> |Focus on your medical career|RRE
+RLE(Stephen Strange decides to accept Mordo's offer and learns about mystic arts, inspired by dreams and reality disruptions
+Strange begins his training under the Ancient One, mastering spells quickly
+Strange leverages his neurosurgical analytical skills in magical defense, fortifying Earth's magical defenses) --> RL
+RL[[S: Strange becomes adept in mystic arts, improving Earth's defenses
+G: To prevent Kaecilius from summoning Dormammu and merging Earth with the Dark Dimension]] --> |Confront Kaecilius directly|RLLE
+RL --> |Strengthen Sanctums only|RLRE
+RLLE(Stephen Strange decides to directly engage with Kaecilius, disrupting his plans with his unique blend of knowledge
+Strange identifies weak points in Kaecilius's plan, successfully interfering with the rituals
+Kaecilius captures Strange, leading to a daring rescue by Mordo and other sorcerers) --> RLL
+RLL[[S: Strange is a pivotal figure in the fight against mystical threats
+G: To defeat Kaecilius and safeguard Earth from the Dark Dimension]] --> |Outsmart Kaecilius with illusions|RLLLE
+RLL --> |Negotiate with Kaecilius|RLLRE
+RLLLE(Stephen Strange decides to outsmart Kaecilius by leveraging his dual expertise in neurosurgery and mystic arts, creating disorienting illusions
+In a climactic battle, Strange's approach leads to Kaecilius's defeat
+Strange continues to balance his consulting work with his role in defending Earth, becoming a bridge between two realms)
+RRE(Stephen Strange decides to devote himself entirely to advancing his medical career, focusing on the intersection of neurology and the mystic arts.
+Strange becomes a pioneer in the field of 'Neuro-Mystical Studies,' offering groundbreaking treatments for neurological disorders.
+His work gains international acclaim but draws the ire of Kaecilius, who views Strange's discoveries as a threat.) --> RR
+RR[[S: Strange's scientific approach to the mystic arts garners acclaim and enemies.
+G: To safeguard his research and himself from impending threats, while further exploring the neuro-mystical connection.]] --> |Collaborate with Mordo|RRLE
+RR --> |Publicly expose findings|RRRE
+RRLE(Stephen Strange decides to collaborate with Mordo, merging their expertise to develop defenses against mystic threats through non-magical means.
+Mordo leads a covert rescue operation when Strange is kidnapped, signaling the beginning of their partnership.
+Together, they devise the 'Neuro-Mystic Interface,' a revolutionary device that manipulates mystical energies through neurological understanding.) --> RRL
+RRL[[S: Strange and Mordo have created a device blending science with the mystic arts.
+G: To confront Kaecilius and protect the world from the misuse of the mystic arts.]] --> |Use the Interface against Kaecilius|RRLLE
+RRL --> |Destroy the Interface|RRLRE
+RRLLE(Stephen Strange decides to use the Neuro-Mystic Interface to directly disrupt Kaecilius's rituals by scientifically manipulating the mystical energies involved.
+Using the Interface, Strange confronts Kaecilius, showcasing a blend of scientific acumen and rudimentary control of mystic forces.
+Strange defeats Kaecilius by predicting his moves through an analytical framework of mystic patterns, securing his position as a protector.)
+RRRE(Stephen Strange decides to publicly expose his groundbreaking findings in Neuro-Mystical Studies, hoping that transparency will provide protection from mystical threats.
+Strange's revelations spark global fascination and controversy, leading to debates across scientific and mystic communities about the ethics of blending these realms.
+The public exposure draws the attention of allies, including tech innovators and rogue sorcerers, who offer assistance.) --> RRR
+RRR[[S: Strange has garnered global attention and allies, but also faces public controversy and opposition.
+G: To legitimize his work in the face of public skepticism and direct opposition, ensuring the peaceful application of his findings.]] --> |Demonstrate Neuro-Mystic Interface|RRRLE
+RRR --> |Battle Kaecilius in secret|RRRRE
+RRRLE(Using the Neuro-Mystic Interface in a live broadcast, Stephen Strange decides to directly counteract Kaecilius's attacks, demonstrating the device’s potential to peacefully harness mystical energies for the good of humanity.
+Kaecilius launches a public smear campaign against Strange, using his mastery of the mystic arts to discredit Strange’s theories.
+In a worldwide streamed showdown, Strange uses his combined knowledge of science and magic to outmaneuver Kaecilius, securing his reputation as a revolutionary figure.)
+RRRRE(Stephen Strange decides to engage in a shadowy battle against Kaecilius.
+Strange enlists the help of Wong and underground sorcerers to gather evidence against Kaecilius's misuse of mystical arts.
+They use the Neuro-Mystic Interface subtly to safeguard research and influence the underground medical and mystic communities.
+Strange and his team discover Kaecilius's plot to unleash a mystical virus and neutralize it using the Neuro-Mystic Interface in a stealth operation.
+Incriminating evidence against Kaecilius is anonymously leaked to global authorities, leading to his arrest without exposing Strange's involvement.)
+RRLRE(Stephen Strange decides to destroy the Neuro-Mystic Interface to keep its power from being misused.
+The destruction of the Interface forces Stephen Strange and Mordo to reevaluate their strategy against mystic threats, combining mystical knowledge with Strange's medical insight.
+Without the Interface, Kaecilius accelerates his efforts to unleash havoc, prompting Strange and Mordo to seek alliances with other Masters of the Mystic Arts.)
+RLRE(Stephen Strange decides to fortify the Sanctums, believing it the most strategic approach to safeguarding the world.
+This decision leads to a shift in his relationship with Mordo and the Ancient One, as they are concerned over his reluctance to confront Kaecilius directly.
+Kaecilius intensifies his assault on reality, unleashing threats that weaken the barriers between dimensions.) --> RLR
+RLR[[S: Kaecilius unleashes threats that begin to weaken the barriers between dimensions.
+G: To reinforce the fabric of reality and prevent otherworldly creatures from invading Earth.]] --> |Enhance Sanctums' defenses|RLRLE
+RLR --> |Seek other dimensions' aid|RLRRE
+RLRLE(Stephen Strange decides to combine his neurosurgical skills with mystical arts to enhance the Sanctums' defenses.
+The unique defenses engineered by Strange start showing unprecedented efficiency, repelling attacks and healing reality's fabric.
+Despite the defenses' success, the aggression of Kaecilius brings forth a powerful entity from another dimension, leading to a reconsideration of strategy.)
+RLRRE(Stephen Strange decides to seek the aid of other dimensions' beings for an allyship.
+Strange uses knowledge from mystical symbols to open portals to unknown dimensions and recruits beings with unique mystical abilities.
+This alliance brings diverse powers together, including foresight into multiple futures, manipulation of time in localized zones, and healing wounds in the fabric of reality itself.)
+RLLRE(Stephen Strange decides to negotiate with Kaecilius, believing that a peaceful resolution can prevent further destruction and loss of life.
+During the negotiation, Strange empathizes with Kaecilius using his deep knowledge of neurosurgery and mystic arts, suggesting a collaboration to enhance Earth's magical defenses.
+The negotiations lead to a groundbreaking agreement where Kaecilius and his followers integrate into the Sanctum's ranks, significantly bolstering Earth's magical defenses and establishing Strange as a key mediator.)
+LRE(Stephen Strange decides to steal the Eye of Agamotto to use its power for personal gain, aiming to heal his hands immediately.
+Strange successfully heals his hands but at a great cost; the Eye's uncontrolled use unleashes ripples in the fabric of reality, attracting unknown dark entities to Earth.
+The theft and Strange's misuse of the Eye severely damage his relationship with the Ancient One and the sorcerers of Kamar-Taj, leading to his expulsion.) --> LR
+LR[[S: Isolated and burdened with guilt, facing the consequences of his actions
+G: To amend his mistakes and protect Earth from the new threats]] --> |Offer services in secret|LRLE
+LR --> |Seek refuge in other dimensions|LRRE
+LRLE(Stephen Strange seeks to make amends by offering his service to the Ancient One in secret, battling the dark entities and searching for Kaecilius without the order’s resources.
+Without the Eye, Strange relies on primitive, forgotten magic and allies he forms among the ancient spirits and a few forgiving sorcerers to track down Kaecilius.
+In a climactic confrontation, Strange and his new-found allies manage to retrieve the Eye from Kaecilius. Strange uses his knowledge of primitive magic to disrupt Kaecilius's ritual, severing the connection to the Dark Dimension.) --> LRL
+LRL[[S: After saving Earth and confronting the consequences of his actions
+G: To find a new purpose and path that bridges his responsibilities to both the mystical and earthly realms]] --> |Establish a freelance sanctum|LRLLE
+LRL --> |Become a nomadic sorcerer|LRLRE
+LRLLE(Stephen Strange decides to establish a freelance sanctum, dealing with threats outside the traditional purview of the sorcerers, slowly earning back trust.
+With Earth saved from immediate peril, Strange returns the Eye and proposes a new path for himself as a bridge between the mystical and the earthly realms.
+Strange's new role and the establishment of a freelance sanctum mark the beginning of his journey to mend his relationship with the Ancient One and the sorcerers, while also serving Earth.)
+LRRE(Stephen Strange decides to leave Earth and explore the multiverse after encountering a fracture in reality.
+In his exploration, Strange meets the Living Tribunal who decides to teach him about balance in the universe.
+Strange deepens his understanding of magic and forms alliances with entities and sorcerers of other dimensions, gaining new magical perspectives.) --> LRR
+LRR[[S: Strange has deepened his understanding of magic and formed alliances across dimensions, equipped with new magical techniques.
+G: To utilize his new abilities and alliances to address the emerging threat from the Dark Dimension and repair the chaos on Earth.]] --> |Return to Earth for confrontation|LRRLE
+LRR --> |Fortify dimensional boundaries|LRRRE
+LRRLE(Stephen Strange decides to return to Earth and confront the new threat alongside his allies from other dimensions.
+Strange faces skepticism and disdain from the Ancient One and the sorcerers of Kamar-Taj but ultimately collaborates with them against the threat.
+The confrontation leads to a new era of cooperation between dimensions, with Strange acting as a liaison, marking the beginning of his path toward redemption.)
+LRRRE(Stephen Strange decides to fortify the boundaries between dimensions, focusing on prevention rather than direct confrontation, delaying his return to Earth.
+In his efforts, Strange discovers ancient artifacts and forgotten spells that could strengthen the barriers.
+Strange realizes he must seek out legendary artifacts across various realities, each with unique guardianships or challenges.)
+LRLRE(Stephen Strange decides to journey alone, becoming a nomadic sorcerer who operates in secrecy.
+Strange encounters a forgotten sect of sorcerers, learning ancient, primal magic and expanding his magical knowledge.
+Strange inadvertently becomes a legend among mystical communities and mentors Zelma Stanton, reflecting on the importance of connections and allies.)
+LLRE(Stephen Strange decides to consult the Ancient One about Dormammu before acting, seeking a more strategic approach.
+The Ancient One reveals an ancient relic known as the Orb of Cagliostro, capable of revealing the weaknesses of interdimensional entities.
+Stephen Strange's new state is preparing for a quest to locate the Orb, envisaging a strategic approach to counter Dormammu.) --> LLR
+LLR[[S: Stephen Strange, now aware of Dormammu's vulnerability and having the Orb, is preparing for the confrontation.
+G: To deploy the mystic virus and sever Dormammu's influence on Earth.]] --> |Craft a mystic virus|LLRLE
+LLR --> |Negotiate with Dormammu|LLRRE
+LLRLE(Stephen Strange decides to craft a mystic virus using a blend of spells and the unique energy from various multiverses.
+As Kaecilius begins the summoning of Dormammu, Strange intervenes, using the virus to weaken Dormammu's grasp on Earth.
+The weakened Dormammu retreats, unable to sustain his presence, and Kaecilius is taken by the forces of the mystic virus, leading to Stephen Strange being heralded as a strategic and wise sorcerer.)
+LLRRE(Stephen Strange decides to use the Orb to negotiate with Dormammu, seeking a pact instead of direct confrontation.
+In preparation, Strange meticulously studies the Orb of Cagliostro, unlocking knowledge of ancient pacts and diplomatic protocols within the mystic realms.
+The negotiation with Dormammu results in a fragile pact: Dormammu agrees to withdraw from Earth and cease his invasion plans in exchange for limited access to Earth's mystical energy under strict conditions.)
+LLLRE(Stephen Strange decides to use the Eye of Agamotto to travel back in time.
+Upon altering the timeline, reality begins to fray, causing temporal anomalies and the emergence of entities threatening dimensional balance.
+Strange navigates these challenges with the mystic arts and ingenuity to restore stability.)

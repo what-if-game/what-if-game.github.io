@@ -1,0 +1,288 @@
+-> S
+== S ==
+Returning to Wakanda fills you with a bittersweet sensation, overshadowed by the sorrow of your father's passing. As you walk through the thriving, technologically advanced cities hidden from the world's eye, you can't help but feel the weight of expectation on your shoulders. Your father was a great king, revered by all, and now it's your turn to take up the mantle. The traditions of Wakanda call to you, urging you to follow in the footsteps laid down by generations of leaders before you. The secrecy that has enveloped your nation like a protective cloak feels more tangible now, a testament to the wisdom of your ancestors who chose isolation over exposure.
+
+Your heart heavy with duty and decision, you stand before the choice that will define your reign. To follow the path laid before you by your lineage, maintaining Wakanda's isolation, thereby protecting its secrets and keeping its advancements safe from a world that may not understand or handle them wisely. Or to break the mold, to step into the unknown and reveal Wakanda's true capabilities to the world during your coronation, marking a new era for your people.
++ [Maintain isolation] -> L
++ [Reveal Wakanda] -> R
+== L ==
+In a bold move that honors your ancestors, you decide to uphold Wakanda's long-standing policy of isolation and secrecy. It's a decision that comes with great responsibility, particularly in an era where the world seems smaller and dangers loom larger. Your leadership is immediately put to the test when M'Baku of the Jabari Tribe challenges you for the throne. In a fierce and ceremonial battle, you emerge victorious, securing your place as king and earning the respect of all tribes. Now, as you sit upon the throne, your thoughts turn towards leadership and the paramount task of protecting Wakanda. With the world unaware of your nation's true might and technological advancements, the mantle of safeguarding your people and their secrets weighs heavily on your shoulders.
+
+As king, you find yourself chiefly concerned with protecting Wakanda from external threats, particularly those who might seek to exploit your nation's wealth and technology. Top of the list is Ulysses Klaue, a notorious arms dealer known for his previous theft of Vibranium from Wakanda. His actions pose a direct threat to the secrecy and safety of your kingdom. Capturing Klaue and bringing him to justice is not just a matter of national security; it's a personal mission to rectify past failures and prevent further exposure of Wakanda to the world's prying eyes.
++ [Lead mission to South Korea] -> LL
++ [Send covert team] -> LR
+== LL ==
+Under the cloak of night, you lead a daring mission in the vibrant city of Busan, South Korea, with the aim of apprehending the notorious arms dealer Ulysses Klaue. The mission, critical to Wakanda's safety and secrecy, turns the neon-lit streets into a battlefield. Amidst the chaos, Klaue momentarily falls into your grasp, hinting at success. 
+However, the victory is short-lived. A blistering attack by an unexpected adversary, Erik Stevens, enables Klaue's escape. The public shootout not only marks a mission failed but also risks exposing Wakanda’s true nature to the world. 
+The aftermath of the failed mission looms over you like a dark cloud. Wakanda's secrets teeter on the brink of global revelation, threatening the sanctity and secrecy of your homeland. Amidst this turmoil, Erik Killmonger challenges your right to the throne, unveiling his own Wakandan heritage and a vision for the world that starkly contrasts with yours. You find yourself at a crossroads, facing the dual challenge of retaining your kingship and preventing Wakanda’s exposure.
++ [Accept Killmonger's Challenge] -> LLL
++ [Arrest Killmonger] -> LLR
+== LLL ==
+With the weight of your ancestors heavy on your shoulders, you accept Killmonger's challenge for the throne, knowing full well the implications of the ritual combat. It is a tradition as old as Wakanda itself, a way to ensure that only the strongest and wisest lead. However, the battle does not go as planned, and you find yourself defeated, the future of Wakanda slipping through your fingers like grains of sand.
+
+In the wake of your defeat, Killmonger claims the throne for himself. His vision of liberation, powered by Wakanda's advanced weaponry, threatens to engulf the world in conflict. The heart-shaped herb, the source of your strength and the Black Panther's power, is destroyed by Killmonger's hand, ensuring no one can challenge his rule. You are left for dead, the hope of a nation extinguishing with your consciousness.
+
+Against all odds, you are revived. Spared by a twist of fate and the compassion of those who found you, you awaken to a world where Killmonger reigns supreme. With the heart-shaped herb gone and your kingdom in peril, the task before you is monumental. You must reclaim your throne, not just to restore order to Wakanda, but to prevent Killmonger from executing his vision of global domination. The stakes have never been higher, and the path before you is fraught with danger.
++ [Rally the Jabari Tribe] -> LLLL
++ [Sabotage weapons alone] -> LLLR
+== LLLL ==
+Summoning the strength of your ancestors and the support of the proud Jabari Tribe, you make the arduous decision to confront Killmonger. This is not just a battle for control but a fight for the very soul of Wakanda. The weight of your fallen father's dreams and the hopes of your people rest heavily upon your shoulders.
+
+With the unwavering support of the Jabari and your closest allies, you face Killmonger in a decisive battle. The clash is fierce, echoing the tumultuous struggle within your own heart between the past and the future of Wakanda. Through skill, determination, and the spirit of the Black Panther, you manage to defeat Killmonger, bringing an end to his reign of turmoil.
+
+As you reclaim your throne, a realization of your true duty as king settles within you. It's not just to protect Wakanda, but to usher it into a new era of openness and collaboration with the world. You decide to establish outreach centers across the globe, sharing Wakanda's advanced technology and aid to foster global development and unity. This marks the dawn of a new chapter for Wakanda, one of openness, understanding, and shared prosperity.
+
+THE END
+-> END
+== R ==
+During your coronation, you make a bold decision to reveal Wakanda's true technological capabilities to the world. This decision, though heavy with the weight of centuries of secrecy, feels right to you, heralding a new era for your kingdom.
+
+The announcement sends shockwaves around the globe. Countries, both allies and adversaries, are stunned. Wakanda, long thought to be a third-world country, is now the focus of international intrigue and speculation. The spotlight is bright, and the eyes of the world are fixed upon you and your nation.
+
+Suddenly, what was once hidden is now laid bare for all to see. The secrets of Wakanda's advanced technology and resources are public knowledge. This revelation changes everything, setting the stage for a new chapter in Wakanda's story. You stand at the crossroads, contemplating how to steer your kingdom through this uncharted territory. The goal is clear: to integrate Wakanda into the global community without sacrificing your sovereignty or the traditions that define your people.
++ [Collaborate with global enforcement] -> RL
++ [Conduct a covert operation] -> RR
+== RL ==
+In a bold move, you decide to collaborate with international law enforcement to legally apprehend Klaue, demonstrating a proactive stance against global threats. This decision not only aids in maintaining peace but also showcases Wakanda's willingness to cooperate with the global community, marking a significant departure from the nation's longstanding isolationist policies.
+
+Your approach wins favor not just beyond Wakanda's borders but within them as well. When M'Baku, a formidable presence and potential rival, chooses to become an advisor rather than challenge your rule, it's clear that a new era of unity and strength is dawning for Wakanda.
+
+With Wakanda beginning to integrate into the global community and internal unity stronger than ever, you face a pivotal moment. The sovereignty of Wakanda is paramount, yet the opportunity to engage in global humanitarian efforts beckons. Balancing these priorities will define your leadership and the future path of your nation.
++ [Present vision at UN Summit] -> RLL
++ [Focus on internal advancement] -> RLR
+== RLL ==
+Standing before the assembly at the UN summit, you deliver a powerful speech that unveils Wakanda's plan to offer its advanced yet sustainable technology to the world. Your words carry the weight of centuries, a promise of a brighter future through partnership rather than conquest. 
+
+In the days that follow, you work tirelessly to establish agreements with various nations. The cutting-edge technology you offer comes with strict regulations to ensure that Wakanda's resources are protected, maintaining the delicate balance between sharing and safeguarding. 
+
+However, the vision you have for international cooperation is met with an unforeseen challenge when Erik Killmonger steps forth, challenging your leadership. He views your actions on the international stage not as steps toward progress, but as opening the gates to conflict, questioning the essence of Wakanda's identity and its place in the world. 
+
+Faced with both internal dissent and external pressures, Wakanda stands at a crossroads. Your goal is clear: to affirm Wakanda’s pivotal role on the global stage, navigating the intricate dance of diplomacy and defense.
++ [Establish Global Defense Initiative] -> RLLL
++ [Strengthen Wakanda's Isolation] -> RLLR
+== RLLL ==
+Understanding the need for a more proactive stance in global affairs, you decide to establish the Wakanda Global Defense Initiative. This monumental decision marks a new era for Wakanda, promising not only the safeguarding of your own borders but also the extension of your remarkable technologies and resources to aid in global security. Your vision is clear: a world where threats are met with unity and strength, underpinned by Wakandan innovation.
+
+With the initiative in motion, new alliances form like never before. Nations and organizations dedicated to humanitarian efforts reach out, eager to collaborate. You find yourself at the heart of a growing network of global partners, each committed to the cause of peace and prosperity. These new alliances represent a bridge between Wakanda and the world, facilitating mutual understanding and shared goals. Your leadership guides these partnerships, navigating the complexities of international relations with wisdom and dignity.
+
+The opening of Wakandan Outreach Centers around the world marks yet another milestone in your journey. These centers serve as beacons of cultural exchange, where knowledge and traditions are shared freely. Under your oversight, these hubs become melting pots of innovation and learning, fostering goodwill and breaking down barriers between peoples. The world begins to see Wakanda not just as a hidden kingdom, but as a generous leader in the global community. Through these centers, you plant the seeds of change, nurturing a future where unity and understanding flourish.
+
+As you reflect on the journey, the impact of your decisions is evident. The world is changing, slowly but surely, towards a vision of unity and peace. Through your actions, Wakanda has emerged not just as a powerful nation, but as a symbol of hope and progress. You have steered the course of history, leaving an indelible mark on the world. And as the sun sets on a day of accomplishments, you know that this is just the beginning. For a king, a hero, and a visionary, the quest for a better world is never over.
+
+THE END
+-> END
+== RR ==
+Under the cloak of night, you make the critical decision to pursue Klaue with a team of your most trusted advisors, opting for a quiet, covert operation. This choice reaffirms your commitment to secrecy and the preservation of Wakanda's long-held tradition of remaining isolated from the rest of the world.
+
+However, this continued path of solitude and mystery only serves to fan the flames of curiosity and suspicion among the global powers. Their clandestine efforts to pierce through the veil of Wakanda's true nature intensify, making the geopolitical chessboard even more intricate.
+
+The ripple effects of your operation are felt far beyond your initial intentions, culminating in an unintended international incident. This escalates diplomatic tensions and thrusts you into the labyrinth of global politics, requiring a delicate balancing act to protect Wakanda's secrets while managing the fallout.
+
+You find yourself at a crossroads, facing heightened scrutiny from the world and dissent within your own borders as a result of the covert operation's unexpected consequences. Your chief concern now is to diminish the growing global suspicion and quell the rising internal discord, all while safeguarding the cherished secrecy of Wakanda.
++ [Gift Advancements Anonymously] -> RRL
++ [Address the United Nations] -> RRR
+== RRL ==
+Under the veil of night and secrecy, you orchestrate a groundbreaking endeavor, sending out waves of advanced sustainable technology to the corners of the earth most in need. These anonymous gifts spark a beacon of hope across nations, heralding the arrival of a benevolent yet mysterious benefactor.
+
+As the world slowly begins to transform, powered by the engines of the technology you've provided, murmurs grow into loud whispers among the global community. A select few investigative minds start piecing together clues that point towards Wakanda, spinning tales of wonder and speculation about your hidden kingdom.
+
+Amidst this global intrigue, a storm brews closer to home. Erik Killmonger seizes upon the international riddles you've spawned, stirring up internal conflict. He argues that your shadowy benevolence has only served to weaken Wakanda's standing and security, challenging the very core of your leadership.
+
+Despite easing some global tensions and igniting a speculative buzz around Wakanda, you find yourself at a crossroads. Erik Killmonger's challenge throws a shadow over your leadership and Wakanda's traditional secrecy. Your task is clear: to reinforce Wakanda's influence across the globe in a manner true to its values, all while navigating the perilous waters of international and internal politics without compromising your realm's cherished secrecy.
++ [Launch the Global Influence Initiative] -> RRLL
++ [Host the Global Technology Conference] -> RRLR
+== RRLL ==
+In response to the challenge posed by Killmonger, you strategically craft the Wakanda Global Influence Initiative, a clandestine operation devised to solidify global stability and progress through Wakandan expertise, all the while ensuring that the origins of this support remain shrouded in secrecy. It's a bold move, aimed at promoting peace and evolution worldwide without revealing the technologically advanced nation behind the curtain.
+
+Killmonger perceives the evolving global landscape as ripe for Wakanda's more overt leadership and influence. His challenge to you is not just for personal dominance, but a contest for the soul and future direction of Wakanda itself. The battle lines are drawn not merely on the physical plains of the nation but in the ideologies of its leaders, placing you at the heart of a struggle that will define the kingdom's identity for generations to come.
+
+Your dedication to maintaining a covertness in your international dealings ushers in a groundbreaking era of undercover diplomacy and influence. Through this, Wakanda starts to craft the global scene from the shadows, signaling a profound shift in international relations. A sense of mystery envelops these efforts, slowly opening the gates for unprecedented alliances with nations aligning with Wakanda's vision for a future grounded in sustainability and mutual respect.
+
+As you reflect on the path chosen, the impact of these decisions becomes evident. Wakanda remains a hidden gem, yet its essence and values begin to resonate across continents in unseen ways. Through this discreet influence and judicious engagement, the world inches closer towards a vision of harmony and progress, paralleling Wakanda's own ideals. It's a testament to the power of silent guidance and the enduring legacy of a king who chose the road less traveled, forever altering the course of history.
+
+THE END
+-> END
+== RRR ==
+As you stand before the gathered nations of the world at the United Nations, you subtly reveal Wakanda's true capabilities—not just as a nation veiled in mystery, but as a pioneer ready to spearhead a groundbreaking global environmental initiative. Your words resonate far beyond the walls of the assembly, sparking a worldwide fervor. Admirers from all corners of the globe look up to Wakanda, significantly influencing the global environmental agenda.
+
+In the wake of your speech, the global perception of Wakanda undergoes a dramatic transformation. Countries once skeptical of your homeland now view it through a new lens—not as a secretive, isolationist nation, but as a proactive leader in global sustainability.
+
+With Wakanda now recognized as a beacon of sustainability and advanced technology, you find yourself navigating a newly evolved geopolitical landscape. Your challenge is to strengthen Wakanda's position as a global influencer, ensuring the nation's security and prosperity without sacrificing its core values and autonomy.
++ [Secure Wakanda's interests globally] -> RRRL
++ [Retract initiative and focus inward] -> RRRR
+== RRRL ==
+In your role, you meticulously work to secure Wakanda's interests. You find yourself leveraging new alliances while tactfully managing adversarial relations, ensuring the safety and prosperity of your people. Your wisdom in diplomacy resonates through the halls of power, both within Wakanda and beyond its borders.
+
+As you navigate these complex geopolitical waters, you ensure that technology sharing does not compromise Wakanda's security or reveal the full extent of its technological capabilities. Your ingenuity protects the secrets of Vibranium, while still fostering advancements that benefit not only Wakanda but also the global community in a controlled, strategic manner.
+
+Wakanda navigates new adversities and alliances with caution under your guidance. By fostering a network of partnerships focused on mutual growth and sustainable development, you steer your nation through uncharted territories with a steady hand. These efforts not only secure Wakanda's future but also contribute to a more balanced, equitable world stage.
+
+In reflecting on the road traveled, you realize that your actions have not only safeguarded Wakanda's sovereignty but have also placed it as a pivotal player on the global stage. Through diplomacy, innovation, and unwavering leadership, you've charted a course for Wakanda that others look to for inspiration. Wakanda's strength and prosperity are testament to your visionary leadership, ensuring its legacy for generations to come.
+
+THE END
+-> END
+== RRRR ==
+After much contemplation, you decide to withdraw from the global environmental initiative you had previously committed to, guiding Wakanda back towards its traditional stance of isolation. This decision, although heavy on your heart, seems necessary to safeguard the secrets and sovereignty of your homeland. Nonetheless, the weight of this choice rests uneasy on your shoulders.
+
+The world outside does not take kindly to this sudden reversal. International leaders and environmental organizations express their confusion and dismay, as global environmental agendas, which had begun to integrate Wakandan innovations and support, face unexpected disruption. The ripple effects of your decision spread far and wide, shaking the very foundation of international environmental cooperation.
+
+Within the borders of Wakanda, your decision does not go unchallenged. A spirited debate erupts among your people, revealing a schism between traditionalists and those who had embraced the outward-looking perspective of the environmental initiative. Disillusionment spreads among the latter, as they struggle to reconcile their vision of a progressive, globally engaged Wakanda with the isolationist path you have chosen.
+
+In the aftermath, you stand firm in your convictions, navigating the turbulent waters of leadership with a heavy heart. The path of kingship is a lonely one, fraught with decisions that bear the weight of entire nations. As Wakanda retreats into the shadows once more, you ponder the future, hoping that time will prove the wisdom of your choices. Yet, the disquiet within your kingdom and the echoes of your decisions on the global stage serve as a stark reminder of the interconnectedness of the modern world. Despite the isolation, no nation is an island, and the challenges of the future will demand unity, both within and beyond Wakanda's borders.
+
+THE END
+-> END
+== RRLR ==
+With a heart brimming with hope and a mind sharp as the edge of a Vibranium blade, you take a decision that reshapes the destiny of Wakanda and the world. You choose to unveil the cloaked superiority of Wakandan technology, offering it as a beacon of advancement and progress. This decision, bold and reverberating through the echelons of power across the globe, marks the dawn of a new era.
+
+Fuelled by your vision, you spearhead an unprecedented global conference on technology and ethics. It's not just a gathering, but a showcase of Wakandan marvels, an open invitation to the world to witness what true harmony between technology and humanity can achieve. Your words, a blend of wisdom and passion, inspire, challenge, and ignite the imaginations of leaders, innovators, and dreamers alike.
+
+However, the splendor of innovation and the allure of power weave a complex tapestry of reactions. The conference, a beacon of potential, becomes a catalyst for a whirlwind of alliances and conflicts among nations and corporations. Like pieces on a grand chessboard, moves and countermoves ripple through the international community, each decision a reflection of the dual-edged sword that is progress and power.
+
+In the face of unforeseen challenges and intricate global dynamics, you navigate with unwavering resolve and wisdom. Through trials and triumphs, you remain a steadfast guardian of not just Wakanda, but of a vision for a better, more connected world. It is a testament to the belief that unity, technology, and ethics can coalesce to forge a brighter future for all. Despite the tumultuous journey, the legacy you build stands as an indomitable beacon of hope and innovation, echoing through the annals of history.
+-> END
+== RLR ==
+You decide to announce Wakanda's new policy of internal advancement and defense, emphasizing the development of technology and using resources to prioritize the well-being and security of your people over external alliances. With this declaration, Wakanda begins a period of significant inward focus, intending to fortify itself.
+
+However, Wakanda's abrupt withdrawal from international cooperation does not go unnoticed. It leads to increased suspicion and espionage attempts by global powers. They are eager to uncover the secrets of Wakanda and its advanced technology, seeing an opportunity amidst the isolation.
+
+Amidst these external pressures, Erik Killmonger, now unable to leverage the international stage to challenge you directly, begins a covert operation. He aims to align with dissenting factions within Wakanda, seeding unrest from within. The stability of your kingdom is silently threatened by those who move in the shadows.
+
+Wakanda faces external threats from global powers and internal dissent from factions within, influenced by Erik Killmonger. In this precarious moment, your goal is to unify Wakanda, enhancing its technological defenses, and to counteract both external and internal threats effectively.
++ [Initiate Wakanda Sovereignty Project] -> RLRL
++ [Open secret negotiations and dialogue with Killmonger] -> RLRR
+== RLRL ==
+In your quest to fortify Wakanda against the external world while promoting prosperity and unity within, you launch the 'Wakanda Sovereignty Project.' This comprehensive initiative is a masterstroke in both military fortification and social cohesion, underscoring your commitment to leveraging Wakanda's advanced technology to protect its rich culture and resources.
+
+Recognizing the importance of consensus, you engage with your people directly, holding a series of public forums and consultative committees. In these gatherings, you articulate your reasons for Wakanda's continued isolation, emphasizing the critical need to safeguard your technological superiority and cultural heritage from the prying eyes of the world. Your leadership in these dialogues reinforces the spirit of unity and collective resolve among your citizens.
+
+Despite the naysayers and the myriad challenges that threaten your vision, your policies mature into tangible successes. Wakanda witnesses a leap into the future, becoming a self-sustaining utopia that not only secures its borders against external threats but also significantly elevates the quality of life for its citizens. Your vision of a protected, advanced Wakanda becomes a reality, ensuring that your homeland remains a beacon of innovation and a testament to the power of unity and foresight.
+
+As the sun sets over the vibranium-rich mountains of Wakanda, you stand atop the royal palace, overlooking your kingdom. Peace has been achieved; prosperity is evident in every sphere of Wakandan life. Your heart swells with pride at what has been accomplished under your guidance. Wakanda indeed is forever, a legacy cemented by your leadership and vision. And as the stars begin to dot the sky, you realize that the true strength of Wakanda has always been its people — united, innovative, and indomitable.
+
+THE END
+-> END
+== RLRR ==
+Finding the fine balance between openness and the security of your kingdom, you choose to venture into previously uncharted territory. You reach out to Erik Killmonger, not as a foe, but as an unlikely ally, beginning a dialogue that you hope will not only quell internal dissent but pave the way for more inclusive governance within Wakanda. Concurrently, you initiate secret negotiations with the world's powers, aiming to lower the global espionage and tension that threatens your land.
+
+The outcome of your negotiations is more fruitful than anyone could have anticipated. A landmark agreement is reached, one that ensures global powers will respect Wakanda's sovereignty, ceasing their espionage activities within your borders. In exchange, you agree to a limited sharing of Wakanda's advanced technological insights, albeit under strict oversight, ensuring your people's achievements do not fall into the wrong hands.
+
+Your discussions with Killmonger reveal hard truths about the disparities within Wakandan society. These revelations become the catalyst for significant reforms, aimed at mending the rifts between the elite and the marginalized. Through these efforts, the 'Wakanda Global Initiative' is born, marking a new era of responsible technology sharing with the world, and affirming your commitment to use your kingdom's advancements to make a positive impact globally.
+
+In the end, your decisions lead not only to a more united Wakanda but also to a more peaceful and cooperative global community. Your leadership has steered your people through turbulent waters towards a brighter, more inclusive tomorrow. As you look towards the horizon, you know that while challenges may come, Wakanda is better equipped than ever to face them, together.
+-> END
+== RLLR ==
+In a decisive move to protect your kingdom, you choose to strengthen Wakanda's isolation, believing in the capacity of your people to fend off any threats without the need for a Global Defense Initiative. This path, though rooted in the preservation of your culture and technology, marks a significant shift in how you envision your nation's security and its place in the world.
+
+Under your command, secretive projects quickly take shape, aimed at fortifying the nation's defenses. An advanced satellite system capable of monitoring global movements from the sky and hidden bases scattered across the globe serve as a testament to Wakanda's might and your innovative approach to safeguarding your homeland's sovereignty and secrecy.
+
+However, your strategy does not come without its consequences. The decision to go at it alone strains relations with nations worldwide, leading to mounting tensions. Criticism begins to bubble, not just from the international community, but also among your own people. Questions about your leadership and Wakanda's stance in global affairs become increasingly prevalent, challenging the unity and strength your actions sought to ensure.
+
+As the world watches and your decisions come under scrutiny, it's clear that the path you've chosen is changing Wakanda in ways you had not anticipated. Internally and externally, the pressures mount, forcing you to consider if the sacrifices for independence and security might have been too great after all. Despite the pride in your technological and strategic advancements, the isolation has come at a heavy cost, leading you to ponder the future of your kingdom in a rapidly evolving global landscape.
+
+THE END
+-> END
+== LR ==
+Believing your place is in Wakanda to solidify its leadership, you decide to send Nakia and Okoye with a covert team to capture Klaue, opting not to join them. 
+However, the mission doesn't go as planned. Without your presence, Nakia and Okoye encounter unexpected difficulties. Klaue manages to escape, and worse, he exposes a hint of Wakanda's true capabilities to the world. This unforeseen outcome sends ripples across the global stage. 
+Upon their return, you face criticism from various factions within Wakanda. Doubts are cast on your decision-making and ability to lead, challenging your position in the eyes of your people. It becomes clear that your choice has led to a diminished confidence in your leadership.
+You are now at a crossroads, under pressure to rebuild your standing as a decisive and strong leader while mitigating the fallout from the failed mission.
++ [Confront Killmonger] -> LRL
++ [Strengthen defenses and seek alliances] -> LRR
+== LRL ==
+Upon Killmonger's arrival, you confront him, your heart heavy and hands unsteady. The recent mission in South Korea robbed you of your confidence, reflecting poorly in your strategy and combat stance. Killmonger's ferocity clashes against your hesitation, a dance of fire and faltering shadow.
+
+In the aftermath of your defeat, it's within the cold embrace of the mountains that solace finds you. M'Baku of the Jabari Tribe stands by you, an unexpected pillar amidst the storm. His offer of sanctuary and words of unity hint at a deeper bond within Wakanda, one not forged by victory, but by shared purpose and resilience.
+
+With Wakanda teetering on the brink of global exposure, the weight of leadership bears down on your shoulders. Political unrest simmers beneath the surface, a test of your will. The calls to hide away clash with the urgent need to step into the light, to forge a new path that might either unite or unravel the very fabric of your world.
+
+T'Challa is recovering and reassessing his strategy for Wakanda's future. Poised at a crossroads, you're faced with a crucial decision: To reclaim your throne and position Wakanda as a beacon of progression on the global stage, or to tread a path shrouded in shadows.
++ [Pursue diplomacy and innovation] -> LRLL
++ [Enhance military, preserve isolation] -> LRLR
+== LRLL ==
+With a resolve steeled by trials past and the spirit of the Panther guiding you, you decide to embark on a path of diplomacy to reclaim your throne. Through a strategic showcase of Wakanda's advancements at a global summit, you not only mark a new beginning for your homeland but also signal a new era of openness and collaboration with the world. Your actions spur discussions, debates, and admiration, yet you remain vigilant, knowing the path ahead requires both wisdom and strength.
+
+Meanwhile, your sister, Shuri, steps into her genius, leveraging Wakandan technology for defensive purposes. Her innovations inadvertently showcase the depth of Wakanda's technological prowess, drawing the eyes and interests of global powers. This complicates Wakanda's position on the world stage, intertwining with your efforts for diplomacy and opening new debates on international relations and security.
+
+Your time among the Jabari, filled with reflection and renewed vigor, empowers you to reclaim your throne with a clarity and vision unmatched. Under your leadership, Wakanda embarks on a new era of openness and collaboration, securing its position as a beacon of progress and a leader on the global stage. Your decisions weave the threads of the future, creating a tapestry of prosperity and unity for Wakanda and the world alike.
+
+As the sun sets on a day of celebration and forward-looking aspirations, you stand at the balcony of the royal palace, overlooking the vibrant city below. The challenges of the past have only fortified your resolve, and now, at the dawn of this new era, you are more than a king; you are a symbol of hope and progress. Wakanda thrives under your leadership, its roots deep in tradition, yet its eyes fixed firmly on the horizon. The future is bright, and it is yours to mold. Collaboratively, Wakanda shall lead, inspire, and prosper in the great tapestry of nations, ensuring peace, innovation, and unity for generations to come.
+
+THE END
+-> END
+== LRR ==
+In the face of formidable challenges, you choose to fortify Wakanda's defenses and seek the bond of international alliances before taking on Killmonger directly. This strategic pivot leads you to a significant gathering, orchestrated through Nakia's diplomatic efforts. Here, you subtly reveal the extent of Wakanda's technological advancements to global leaders, proposing a united stance against widespread threats. 
+Meanwhile, Wakanda is stirring with internal unrest. Voices of traditionalism rise in opposition to your new course, yet Shuri and Okoye stand firm by your side, championing your strategy amidst growing dissent.
+Wakanda now teeters on the brink, struggling with internal divisions while you endeavor to weave together a network of international relationships and bolster the nation's defenses. Your leadership faces its ultimate test; to meld Wakanda into a united front under your guidance, safeguarding it against Killmonger's looming threat and securing both the country's and the world’s safety.
++ [Rally allies against Killmonger] -> LRRL
++ [Undermine Killmonger stealthily] -> LRRR
+== LRRL ==
+In the wake of Killmonger's audacious assault on Wakanda, you find yourself rallying allies both from within your kingdom and from the international community. The breadth of your leadership is tested as you seek unity among your people and support beyond your borders, knitting together a coalition unseeen in Wakanda's storied history.
+
+Killmonger's bold strategy to usurp your throne involves inciting civil unrest and leveraging the simmering dissensions within your domain. This attack not only challenges your rule but threatens to unravel the very fabric of Wakandan society, pushing it to the brink of civil war. As you confront these internal schisms, you are reminded of the delicate balance between tradition and progress, a balance that your leadership must navigate with both wisdom and strength.
+
+The arrival of international allies and the Jabari forces, led by M'Baku, marks a pivotal moment in this struggle for the soul of Wakanda. For the first time, outsiders stand shoulder to shoulder with Wakandan warriors on your homeland's sacred soil. Their joint efforts culminate in thwarting Killmonger's rebellion, validating your approach to leadership and showcasing the power of unity across disparate factions and lands. This victory not only secures your position but also heralds a new era for Wakanda, one where collaboration and understanding pave the way for a brighter future.
+
+In the aftermath of this hard-won victory, you stand before your people, your allies at your side, as a beacon of peace and resilience. The challenges you faced have not only tested your mettle but have also brought forth a new dawn for Wakanda, illuminated by the principles of collaboration, understanding, and mutual respect. As you envisage the path ahead, a path of prosperity and shared destiny, you know that Wakanda will forever thrive under the guiding light of unity and justice.
+
+THE END
+-> END
+== LRRR ==
+In a bold move, you decide to leverage Wakanda's unparalleled technological prowess to initiate covert cyber-attacks and surveillance operations against Killmonger's network. This strategic decision allows you to dismantle his resources and capabilities from within, ensuring that his plans are thwarted before they can come to fruition. Each keystroke and coded command you oversee sends ripples through the digital underworld, crippling your adversary's ability to operate undetected.
+
+The world begins to take notice as unusual cyber patterns and disruptions are traced back to Killmonger's allies. Rumors swirl about an invisible force orchestrating these anomalies, leading to speculation among the international community about who could be responsible. This growing curiosity places you in the unique position to shape the narrative, even as you remain shrouded in mystery. Your actions have not only disrupted a global threat but also piqued the interest of the world's powers.
+
+In response to the escalating situation and to quell any doubts about your intentions, you orchestrate a series of diplomatic meetings under the guise of addressing the cyber anomalies. By reassuring global leaders of Wakanda's commitment to peace and proposing an international accord on cyber warfare and technology sharing, you successfully navigate the treacherous waters of international politics. Your leadership and foresight pave the way for a new era of cooperation and understanding between nations, marking a significant victory not only for Wakanda but for the world at large.
+
+As the dust settles, you stand before the United Nations, receiving applause not just as the leader of a nation but as a beacon of hope and unity in an increasingly fragmented world. This moment solidifies your legacy, ensuring that your actions will be remembered as a turning point towards a more collaborative and secure global community. Wakanda's strength, once hidden, now serves as a pillar for global stability and progress. You have not only secured your nation's safety but also championed the cause of peace and technological advancement across the globe. In doing so, you have truly become a king for the people, both within Wakanda and beyond its borders.
+
+THE END
+-> END
+== LRLR ==
+You decide to militarize Wakanda using Vibranium, enhancing the nation's defense mechanisms beyond what the world has ever seen. This strategic move involves the development of advanced weaponry and reinforcing both the physical and metaphorical walls that protect your beloved country. The sense of security among your people grows, but so does the burden of responsibility on your shoulders.
+
+As a result of your decision, Wakanda experiences a technological revolution in warfare and defense. Advanced weapons and deterrents are created, far surpassing the capabilities of any other nation on Earth. This rapid militarization strengthens Wakanda's position globally, but it also casts a long shadow over your reign, as you realize the delicate balance between peace and power.
+
+This pivotal shift towards militarization and isolation does not go unnoticed. It provokes both internal opposition among those who fear the loss of Wakanda's spirit, and global apprehension. An international arms race ensues, as world powers scramble to match Wakanda's advancements. Espionage against your kingdom becomes rampant, as foreign entities seek to uncover the secrets of Vibranium. Amidst this turmoil, you find yourself constantly defending your decisions, fighting to preserve peace within Wakanda and preventing the ignition of global conflicts.
+
+In the end, your choices lead Wakanda through turbulent times, facing both admiration and animosity from the outside world. As you reflect on the path you've taken, you realize that true strength lies not just in the might of weapons, but in the unity and resilience of your people. With this understanding, you strive toward a future where Wakanda can thrive in peace, its innovations serving as a beacon of hope rather than a spark for war. Remembering the lessons learned, you lead with a renewed sense of purpose, aiming for harmony both within and beyond Wakanda's borders.
+
+THE END
+-> END
+== LLR ==
+Upon confronting Killmonger and reflecting on his betrayal and crimes, you decide that immediate arrest is the only viable option. His audacity to challenge the throne, combined with his dangerous ideology, poses a grave threat to Wakanda's stability and future. Your decision, however, does not sit well with everyone.
+
+The news of Killmonger's arrest sends shockwaves through Wakanda. Among the populace and within the council, a spirited debate erupts. Some accuse you of using excessive force and undermining the sacred traditions of combat and leadership challenges. The controversy highlights deep divides within Wakanda, questioning the very foundation of your leadership.
+
+Amidst these turbulent times, pockets of unrest begin to surface. Killmonger's radical vision for Wakanda, although unorthodox, starts to resonate with a segment of the population. Their unrest is not just a challenge to your rule but also a profound questioning of Wakanda's place in the world and its future direction.
+
+As you stand amidst a nation divided, under the watchful eyes of the world, your thoughts turn to your people. The challenge now is not only to secure the throne but also to reunite your people and guide them towards a promising future, addressing the roots of the unrest while considering Wakanda's role on the global stage.
++ [Initiate Dialogues] -> LLRL
++ [Intensify Isolation] -> LLRR
+== LLRL ==
+Feeling the weight of the throne, you choose to bridge the divides within Wakanda. Recognizing the power of unity and conversation, you inaugurate a series of dialogues among your people, including both your steadfast allies and those skeptical of your rule. These discussions aim to harmonize differing visions for Wakanda's future, ensuring that every voice is heard and considered in your nation's path forward.
+
+Meanwhile, the world outside Wakanda reacts to news of Killmonger's arrest and his radical vision for global liberation. His message resonates with many, igniting international protests against oppression in various forms. People around the globe begin to challenge their own societal structures, inspired by the hope of a new, more equitable world order.
+
+In a groundbreaking move, you decide to unlock the potential of Wakanda's most sacred resource, the heart-shaped herb, beyond the lineage of the Black Panther. Launching an initiative to study its medical properties, you aim to develop treatments derived from the herb that could benefit humanity at large. This decision marks the beginning of a new era for Wakanda, serving as a beacon of innovation and philanthropy on the world stage.
+
+As you watch Wakanda evolve, engaging internally with its people and externally as a new global leader, you reflect on the journey. The choices made, the challenges faced, and the future that lies ahead fill you with pride. Wakanda stands not just as a nation united internally but as a pioneer for the betterment of all mankind. Your leadership has not only charted a new course for your people but inspired hope and change across the globe.
+-> END
+== LLRR ==
+You make a decisive choice to reinforce Wakanda's isolation from the world, convinced that the priority should be on internal stability and the protection of Wakandan technology from external threats. You firmly believe that the potential benefits of opening up cannot compare to the risks of exposure and exploitation by foreign entities.
+
+To solidify this stance, you implement advanced surveillance and defensive mechanisms along the nation's borders, sharply limit external communications, and introduce severe penalties for any who dare to divulge Wakandan secrets to the outside world. Your actions send a clear message: Wakanda will safeguard its advancements and culture at all costs, even if it means standing alone.
+
+This shift in policy leads to a temporary quelling of dissent within Wakanda. Although cutting off from the rest of the world harbors a certain tranquility, it also inaugurates a more secretive and guarded era for the kingdom. The silence that follows is not just the absence of conflict—it's a heavy veil of isolation that blankets the land, shaping its destiny in ways unseen. As years pass, you look out across the vast, untouched wilderness of Wakanda, contemplating the solemn peace your choices have wrought. Not a whisper of unrest stirs the air, yet the weight of solitude bears heavily on your heart, reminding you of what it truly costs to stand utterly alone.
+
+THE END
+-> END
+== LLLR ==
+With a heart heavy with duty but light with the stealth of a panther, you decide it's time to tread the shadows. Your homeland calls to you, not just from love or longing, but from a dire necessity to protect. Wakanda's advanced weaponry, if fallen into the wrong hands, could mean devastation beyond measure. It's a solemn journey back, one filled with the silent promise of sabotage for the greater good.
+
+As you weave through the technological marvel that is Wakanda's defenses, your intellect and dexterity find no match. Hacking into the nation's communication networks, you become both the ghost in the machine and the whisper in the shadows. False orders lead the misguided down treacherous paths, while non-lethal traps ensure their error isn't their end. It's a cunning dance between ethical lines, all to cripple Killmonger's influence without bloodshed.
+
+The mission, though veiled in the success of covert destruction, is not without its thorns. The very soul of Wakanda seems to bleed as you're forced into confrontation with the Dora Milaje. These warriors, once sisters and brothers in arms, now stand before you as obstacles to peace. The encounter is fierce, a near-fatal dance that tears at your very being. Yet, it's through this crucible that the future of Wakanda begins to crystallize, hanging precariously in the balance between past loyalty and future hope.
+
+In the aftermath, as the dust settles and the heart of Wakanda slowly begins to mend, you step back into the shadows from which you emerged. The journey has taken its toll, yes, but in its wake lies a stronger nation. Unseen, yet forever changed, you watch as Wakanda rises, resilient and undeterred, a true testament to the power of its people and the spirit of its king. For now, the mantle of protector, of Black Panther, weighs heavy but righteous upon your shoulders.
+-> END

@@ -1,0 +1,136 @@
+S[[S: Natasha Romanoff is a fugitive for violating the Sokovia Accords.
+G: To evade capture and find a safe place to hide.]] --> |Flee to Norway|LE
+S[[S: Natasha Romanoff is a fugitive for violating the Sokovia Accords.
+G: To evade capture and find a safe place to hide.]] --> |Negotiate with Ross|RE
+LE(Natasha Romanoff decides to flee to a safe-house in Norway.
+She escapes from U.S. Secretary of State Thaddeus Ross and finds refuge.
+In Norway, Romanoff unknowingly receives a package with synthetic gas vials sent by Belova.) --> L
+L[[S: Romanoff receives a package containing synthetic gas vials that neutralize the Red Room's mind-control.
+G: To investigate the origins of the antidote and potentially dismantle the Red Room.]] --> |Investigate antidote's origins|LLE
+L --> |Free Widows immediately|LRE
+LLE(Natasha Romanoff decides to trace the package back to Yelena Belova in Budapest.
+During her journey, she is attacked by the Taskmaster but escapes.
+She reunites with Belova, learns the Red Room is active, and decides to tackle the threat.) --> LL
+LL[[S: Romanoff learns the Red Room is still operating and Dreykov is alive.
+G: To find and destroy the Red Room and free the Widows.]] --> |Assemble the faux family|LLLE
+LL --> |Contact the Avengers|LLRE
+LLLE(Natasha Romanoff decides to assemble her old faux family for the mission.
+She and Belova break Shostakov out of prison and meet with Vostokoff.
+The team devises a plan to infiltrate the Red Room and confront Dreykov.) --> LLL
+LLL[[S: Romanoff and her team are ready to infiltrate the Red Room.
+G: To eliminate Dreykov, destroy the Red Room, and free the Widows.]] --> |Confront Dreykov inside Red Room|LLLLE
+LLL --> |Expose Red Room's location|LLLRE
+LLLLE(Natasha Romanoff decides to confront Dreykov and dismantle the Red Room from within.
+They infiltrate the Red Room, overcome its defenses and Romanoff faces Dreykov.
+Romanoff frees the controlled Widows and destroys the Red Room, achieving her goal.)
+RE(Natasha Romanoff decides to confront Secretary Ross and negotiate for immunity in exchange for her cooperation against greater threats.
+Ross agrees under the condition that Romanoff aids in uncovering a sophisticated espionage operation targeting the U.S. government.
+While working with Ross, Natasha is ambushed, leading to her discovering a plea for help from Yelena Belova.) --> R
+R[[S: Natasha discovers a plea for help from Yelena Belova.
+G: To aid Yelena Belova and address the threat of the Red Room.]] --> |Negotiate with Ross|RLE
+R --> |Attack Red Room directly|RRE
+RLE(Natasha decides to negotiate a temporary detachment to tackle the Red Room threat, pursuing the Budapest lead.
+In Budapest, Natasha and Yelena evade Taskmaster and learn the Red Room is operational.
+Understanding the gravity, Natasha convinces Ross to sanction a covert mission to dismantle the Red Room.) --> RL
+RL[[S: Natasha has convinced Ross to sanction a covert mission against the Red Room.
+G: To gather a team and infiltrate the Red Room’s operations to dismantle it.]] --> |Orchestrate prison break|RLLE
+RL --> |Seek allies from SHIELD and Avengers|RLRE
+RLLE(Natasha decides to orchestrate a prison break to recruit Alexei and reunites with Melina for the mission.
+The team works together to infiltrate a highly secure facility believed to be the Red Room's new headquarters.
+The facility is infiltrated, setting the stage for confronting Dreykov and destabilizing his control over the Widows.) --> RLL
+RLL[[S: The facility is infiltrated, and the team is ready to confront Dreykov.
+G: To liberate the Widows and destroy the Red Room’s operations.]] --> |Confront Dreykov head-on|RLLLE
+RLL --> |Negotiate with Dreykov|RLLRE
+RLLLE(Natasha confronts Dreykov, utilizing the synthetic gas to free the controlled Widows and destroy the Red Room’s base.
+Amidst an intense confrontation, Natasha leverages the synthetic gas to free the controlled Widows.
+The mission concludes with the destruction of the Red Room's new base, the liberation of the Widows, and Natasha earning a contentious pardon.)
+RRE(Natasha Romanoff decides to directly attack the Red Room without seeking Secretary Ross's approval, aiming to dismantle the organization in one fell swoop.
+This decision alienates Natasha from the U.S. government further but she forms an unexpected alliance with a hacktivist group sympathetic to her cause.
+Without government backup, Natasha and her team encounter increased surveillance and attacks from both the Red Room and covert U.S. operatives.) --> RR
+RR[[S: Natasha and her team face heightened opposition from the Red Room and the U.S. government.
+G: To infiltrate the Red Room’s new heavily guarded base and confront Dreykov.]] --> |Plan a strategic assault|RRLE
+RR --> |Launch a cyber-attack|RRRE
+RRLE(Natasha strategically plans the assault by gathering a small, highly skilled team including Yelena Belova, Alexei Shostakov, Melina Vostokoff, and the help from her new hacktivist allies to infiltrate the Red Room's heavily guarded new base.
+The direct approach to the Red Room's base is fraught with unexpected traps and defenses, pushing Natasha and her team to their limits.
+Upon infiltrating the base, Natasha uses the synthetic gas in a more desperate and widespread manner, causing chaos within the facility.) --> RRL
+RRL[[S: Natasha and her team have infiltrated the Red Room’s base, causing chaos with the synthetic gas.
+G: To permanently dismantle the Red Room and free the Widows.]] --> |Secure amnesty through public support|RRLLE
+RRL --> |Vanish and fight from the shadows|RRLRE
+RRLLE(A tense and explosive confrontation ensues between Natasha, her allies, and Dreykov's forces, leading to a destructive showdown.
+The destruction of the Red Room’s base and the release of the controlled Widows is broadcasted online by Natasha’s hacktivist allies.
+Despite potential for further alienation, Natasha leverages public support to negotiate a precarious amnesty, securing a contentious pardon.)
+RRRE(Natasha Romanoff decides to pivot her strategy towards a full-scale cyber-attack with the help of her hacktivist allies
+The cyber-attack begins with attempts to penetrate the Red Room's sophisticated firewalls, facing setbacks due to formidable countermeasures
+Natasha reconvenes with Yelena, Alexei, and Melina for insider information, strengthening their bonds and collecting crucial data for a second wave of attack) --> RRR
+RRR[[S: Natasha and her allies have prepared for a second cyber-assault on the Red Room
+G: To successfully breach the Red Room's defenses and dismantle it from within]] --> |Launch the second cyber-attack|RRRLE
+RRR --> |Negotiate with the Red Room|RRRRE
+RRRLE(Natasha Romanoff decides to launch the second wave of the cyber-attack with enhanced strategies based on the newly gathered intel
+The second wave successfully infiltrates the Red Room's mainframe, beginning the dismantling process by freeing Widows and exposing assets
+The Red Room's desperate counter-attacks lead to a digital war, eventually culminating in the public release of their files and securing a precarious amnesty for Natasha and her team)
+RRRRE(Natasha Romanoff decides to use the intel as leverage to blackmail the Red Room's leadership.
+Natasha presents evidence of their crimes and offers an ultimatum: release all controlled Widows or face global exposure.
+This decision forces the Red Room into a stalemate, causing internal strife and considerations to comply with her demands.)
+RRLRE(Natasha Romanoff decides to disappear and operate in the shadows, continuing her fight without seeking amnesty.
+Natasha creates multiple fake identities and employs advanced technology to erase her digital footprint as much as possible.
+She communicates with allies through encrypted messages and uses a network of safe houses, ensuring operations are swift and leave no trace.)
+RLRE(Natasha Romanoff decides to seek additional support from her former allies within SHIELD and the Avengers
+The involvement of SHIELD and the Avengers brings technological and strategic resources, changing the mission's dynamics
+The strategy shifts to a frontal assault, leveraging the Avengers' power and SHIELD's intelligence to plan a direct attack) --> RLR
+RLR[[S: The strategy has shifted to a frontal assault on the Red Room
+G: To successfully dismantle the Red Room network and free the controlled Widows]] --> |Directly confront Dreykov with global strike|RLRLE
+RLR --> |Stealth approach to release synthetic gas|RLRRE
+RLRLE(Natasha Romanoff decides to directly confront Dreykov at the main base, while the Avengers and SHIELD strike globally
+With the support of her allies, Natasha infiltrates Dreykov's stronghold and employs a modified version of the synthetic gas to free the Widows
+The collaborative effort ensures the destruction of the Red Room facilities and the dismantling of its network globally)
+RLRRE(Natasha Romanoff decides to embark on a covert mission to infiltrate Dreykov's stronghold by herself, aiming to deploy a modified version of the synthetic gas stealthily.
+Successfully bypassing layers of security through a combination of disguise, hacking, and stealth, Natasha encounters an unexpected ally within the stronghold, a disillusioned Widow.
+Together, they navigate the complex, aiming to release the gas in the ventilation system which would subtly affect every Widow without raising an immediate alarm.)
+RLLRE(Natasha Romanoff decides to initiate covert communications with global intelligence agencies, offering insight into espionage networks in exchange for the Widows' safety and freedom.
+She faces resistance from skeptical foreign diplomats and the Widows themselves, navigating through diplomacy and intelligence maneuvering.
+The final agreement ensures the Widows' protection and dismantles part of Dreykov's network, marking a new chapter of freedom and redemption for the Widows.)
+LRE(Natasha Romanoff decides to start her crusade by freeing Widows in Europe
+Her first action in Paris leads to a highly publicized event, increasing both support and opposition
+The attention from this act gains the notice of Yelena Belova, who seeks out Natasha) --> LR
+LR[[S: Public and enemies are now aware of Natasha's mission
+G: To dismantle the Red Room and Dreykov's control]] --> |Assemble old faux family|LRLE
+LR --> |Infiltrate the Red Room alone|LRRE
+LRLE(Natasha Romanoff decides to assemble her old faux family for support
+This decision leads to the successful prison break of Shostakov and convincing Vostokoff to join
+Their reunion results in a devised plan for a direct assault on the Red Room) --> LRL
+LRL[[S: Natasha has reassembled her team for a direct confrontation
+G: To directly confront and dismantle the Red Room]] --> |Lead the assault|LRLLE
+LRL --> |Expose to governments|LRLRE
+LRLLE(Natasha Romanoff decides to lead a direct assault on the Red Room
+The assault becomes a full-blown battle with the Taskmaster and Dreykov's forces
+Natasha uses the vials to free the Widows under Dreykov's control, effectively dismantling the Red Room)
+LRRE(Natasha Romanoff decides to craft a deep cover identity to infiltrate the Red Room anonymously.
+While undergoing rigorous re-training, Natasha uncovers a network of sleeper agents positioned globally.
+Natasha begins sabotaging the plans of the sleeper agents by feeding them false information.) --> LRR
+LRR[[S: Natasha is sabotaging plans and has unveiled a global network of sleeper agents within the Red Room.
+G: To dismantle the Red Room and free the Widows.]] --> |Craft an antidote for the Widows|LRRLE
+LRR --> |Organize a covert Widow rebellion|LRRRE
+LRRLE(Natasha Romanoff decides to create an antidote to free the Widows from mind control.
+She encounters Dreykov and gains leverage by threatening to expose the sleeper agents.
+Natasha releases the antidote, causing an uprising within, and confronts Taskmaster, leading to the destruction of the Red Room's primary base.)
+LRRRE(Natasha Romanoff decides to leverage her deep cover identity to subtly spread dissent and question the Red Room's ideology from within.
+By sharing veiled stories of freedom and hinting at the lies they've been fed, she begins to slowly build a covert resistance movement among the Widows.
+The Widow program starts experiencing unexplained failures and missions go awry as indoctrinated Widows begin to covertly sabotage their assignments, leading to internal chaos.)
+LRLRE(Natasha Romanoff decides to abandon a direct assault on the Red Room, opting instead to leak the organization's secrets to global governments
+Natasha collaborates with her team to gather and distribute damning evidence of the Red Room's operations, its ties to various governments, and its chief operatives
+The world responds with a mix of denial, investigations, and actions against the Red Room, leading to a coordinated strike using the synthesized formula to free the Widows)
+LLRE(Natasha Romanoff decides to solicit help from the remaining Avengers, accepting the legal risks tied to the Sokovia Accords.
+Natasha reaches out to Steve Rogers (Captain America), Sam Wilson (Falcon), and Wanda Maximoff (Scarlet Witch), explaining the urgent need to dismantle the Red Room.
+The Avengers come together, forming a plan that leverages their unique abilities to infiltrate the Red Room.) --> LLR
+LLR[[S: The Avengers have formed a strategic plan to infiltrate the Red Room.
+G: To execute their plan, free the Widows, and destroy the Red Room's infrastructure.]] --> |Lead the stealth mission|LLRLE
+LLR --> |Negotiate with Dreykov|LLRRE
+LLRLE(Natasha Romanoff decides to lead the team in executing their infiltration plan, using stealth and their combined powers.
+During the mission, they face and eventually ally with Taskmaster after freeing her from mind control, and confront Dreykov directly.
+The Avengers successfully dismantle the Red Room, free the Widows, and ensure their safety, achieving Natasha's goal.)
+LLRRE(Natasha Romanoff decides to negotiate with Dreykov, using her knowledge of his secrets as leverage.
+In preparation, Natasha and her team gather undeniable evidence of Dreykov's crimes by contacting escaped widows and using Sam Wilson's military contacts.
+The negotiation leads to Dreykov agreeing to dissolve the Red Room and release the Widows in exchange for immunity, provided he remains under close surveillance.)
+LLLRE(Natasha Romanoff decides to expose the Red Room's location to the world, hoping international forces would dismantle it.
+This exposure triggers a massive global outcry against the Red Room, putting immediate pressure on those countries harboring or supporting Dreykov's operations.
+International forces, alongside Romanoff’s team, launch a full-scale assault on the Red Room, ultimately leading to the apprehension of Dreykov and the liberation of the Widows.)
