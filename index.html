@@ -52,7 +52,7 @@
     object-fit: cover; 
   }
   #questionButton {
-    padding-left: 0.5em;
+    padding-left: 5px;
     width: 60px; 
     height: 60px; 
     object-fit: cover;
@@ -90,6 +90,14 @@
     font-size: 1em;
     box-sizing: border-box;
     resize: none;
+  }
+  h5 {
+    font-family: 'STIX Two Math';
+    color: lightgray;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 2em;
   }
   input[type="text"]::placeholder, textarea::placeholder {
     font-weight: normal;
@@ -169,6 +177,12 @@
   <h1>...chooses differently along the journey of </h1>
   <textarea id="originalPlot" placeholder="Enter the original plot of the story" autocomplete="off"></textarea>
   <button class="button-6" onclick="generateStory()" role="button">Generate</button>
+  <h5>
+    Icons by
+    <a href="https://www.deviantart.com/thelivingethan/" target="_blank" style="color:lightgray;">thelivingethan</a>
+    <br />
+    Plots from IMDb
+  </h5>
 </div>
 <script>
   // Array containing hero information
