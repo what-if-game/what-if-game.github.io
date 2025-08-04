@@ -357,15 +357,15 @@ client = OpenAI(
 
 char_name = input('Please enter the character name:\n')
 story_name = input('Please enter the story name:\n')
-og_plot = input('Please enter the story name:\n')
+og_plot = input('Please enter the original plot:\n')
 num_nodes = 4
 print('Generating storylines...')
 ink, chart = generate(og_plot, char_name, num_nodes)
-os.mkdir(f'stories/{story_name.lower().replace(' ', '_')}')
-with open(f'stories/{story_name.lower().replace(' ', '_')}/ink.txt', 'w+') as file:
+os.mkdir(f"stories/{story_name.lower().replace(' ', '_')}")
+with open(f"stories/{story_name.lower().replace(' ', '_')}/ink.txt", 'w+') as file:
     file.write('\n'.join(ink))
 
-with open(f'stories/{story_name.lower().replace(' ', '_')}/chart.txt', 'w+') as file:
+with open(f"stories/{story_name.lower().replace(' ', '_')}/chart.txt", 'w+') as file:
     file.write('\n'.join(chart))
 
 print('finished')
