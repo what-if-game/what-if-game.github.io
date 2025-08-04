@@ -9,23 +9,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="style.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="../favicon_io/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../favicon_io/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../favicon_io/favicon-16x16.png">
-    <link rel="manifest" href="/favicon_io/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
 
 </head>
 
 <body>
     <button id="homeButton">
-        <img src="apple-touch-icon.png" >
+        <img src="icons/house.svg" >
     </button>
     <button id="toggleButton">
-        <img src="tree_icon.png" >
+        <img src="icons/tree_icon.png" >
     </button>
 
     <div id="fullscreenImageContainer" class="hidden">
-        <img src="flowchart.svg" alt="Full Screen" id="fullscreenImage">
+        <img src="favicon_io/flowchart.svg" alt="Full Screen" id="fullscreenImage">
     </div>
     <div id="story" class="container">
         <h1></h1>
@@ -44,7 +44,7 @@
             }
         })();
         document.getElementById('homeButton').addEventListener('click', function() {
-            window.location.href = '/';
+            window.location.href = 'index.html';
         });
         document.getElementById('toggleButton').addEventListener('click', function() {
             var container = document.getElementById('fullscreenImageContainer');

@@ -1,7 +1,7 @@
 async function fetchStoryContent(storyTitle) {
     try {
         // Construct the URL from the storyTitle
-        const url = `/stories/${storyTitle.toLowerCase().replace(/ /g, '_')}/ink.txt`;
+        const url = `stories/${storyTitle.toLowerCase().replace(/ /g, '_')}/ink.txt`;
         
         // Await the fetch request
         const response = await fetch(url);
